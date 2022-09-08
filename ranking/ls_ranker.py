@@ -1,5 +1,6 @@
 import pickle
 from functools import cmp_to_key
+from nltk import ngrams
 
 class LanguageModel():
     '''
