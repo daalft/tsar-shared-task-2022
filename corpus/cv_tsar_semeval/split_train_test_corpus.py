@@ -79,7 +79,7 @@ def __get_pairs(corpus):
 			freqs.add(cnt[w])
 		freqs = sorted(freqs, reverse=True)
 		for i1, f1 in enumerate(freqs):
-			for f2 in freqs[i1:]:
+			for f2 in freqs[i1+1:]:
 				for w1 in lst_level_freq[f1]:
 					for w2 in lst_level_freq[f2]:
 						pairs.append( [w1, w2, 0, sent] )

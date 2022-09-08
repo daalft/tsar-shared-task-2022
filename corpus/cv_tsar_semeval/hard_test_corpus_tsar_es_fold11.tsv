@@ -1,11 +1,3 @@
-alojaba	alojaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-alojaba	alojaba	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-alojaba	tenía	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-tenía	alojaba	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-tenía	alojaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-alojaba	tenía	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-tenía	tenía	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-tenía	tenía	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 alojaba	recibía	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 recibía	alojaba	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 tenía	recibía	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
@@ -30,8 +22,6 @@ tenía	soportaba	0	Antes de aquello, el estadio <head>albergaba<head> una capaci
 soportaba	tenía	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 tenía	guardaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 guardaba	tenía	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-recibía	recibía	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-recibía	recibía	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 recibía	acogía	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 acogía	recibía	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 recibía	tiene	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
@@ -42,8 +32,6 @@ recibía	soportaba	0	Antes de aquello, el estadio <head>albergaba<head> una capa
 soportaba	recibía	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 recibía	guardaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 guardaba	recibía	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-acogía	acogía	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-acogía	acogía	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 acogía	tiene	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 tiene	acogía	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 acogía	aloja	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
@@ -52,40 +40,12 @@ acogía	soportaba	0	Antes de aquello, el estadio <head>albergaba<head> una capac
 soportaba	acogía	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 acogía	guardaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 guardaba	acogía	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-tiene	tiene	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-tiene	tiene	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 tiene	aloja	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 aloja	tiene	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 tiene	soportaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 soportaba	tiene	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 tiene	guardaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
 guardaba	tiene	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-aloja	aloja	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-aloja	aloja	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-aloja	soportaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-soportaba	aloja	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-aloja	guardaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-guardaba	aloja	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-soportaba	aloja	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-aloja	soportaba	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-soportaba	soportaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-soportaba	soportaba	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-soportaba	guardaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-guardaba	soportaba	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-guardaba	aloja	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-aloja	guardaba	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-guardaba	soportaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-soportaba	guardaba	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-guardaba	guardaba	0	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-guardaba	guardaba	1	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.
-escolta	escolta	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-escolta	escolta	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-escolta	protector	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-protector	escolta	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-protector	escolta	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-escolta	protector	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-protector	protector	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-protector	protector	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 escolta	guardia	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 guardia	escolta	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 protector	guardia	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
@@ -126,8 +86,6 @@ protector	chaperón	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti du
 chaperón	protector	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 protector	guardía	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 guardía	protector	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardia	guardia	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardia	guardia	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 guardia	gorila	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 gorila	guardia	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 guardia	cuidador	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
@@ -146,24 +104,6 @@ guardia	chaperón	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti dura
 chaperón	guardia	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 guardia	guardía	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 guardía	guardia	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-gorila	gorila	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-gorila	gorila	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-gorila	cuidador	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-cuidador	gorila	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-gorila	guardaespaldas	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardaespaldas	gorila	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-cuidador	gorila	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-gorila	cuidador	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-cuidador	cuidador	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-cuidador	cuidador	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-cuidador	guardaespaldas	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardaespaldas	cuidador	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardaespaldas	gorila	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-gorila	guardaespaldas	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardaespaldas	cuidador	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-cuidador	guardaespaldas	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardaespaldas	guardaespaldas	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardaespaldas	guardaespaldas	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 gorila	segurata	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 segurata	gorila	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 gorila	defensor	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
@@ -200,80 +140,6 @@ guardaespaldas	chaperón	0	Balbo era <head>guardaespaldas<head> de Cesare Battis
 chaperón	guardaespaldas	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 guardaespaldas	guardía	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
 guardía	guardaespaldas	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-segurata	segurata	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-segurata	segurata	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-segurata	defensor	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-defensor	segurata	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-segurata	guardián	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardián	segurata	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-segurata	seguridad	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-seguridad	segurata	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-segurata	chaperón	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-chaperón	segurata	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-segurata	guardía	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardía	segurata	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-defensor	segurata	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-segurata	defensor	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-defensor	defensor	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-defensor	defensor	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-defensor	guardián	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardián	defensor	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-defensor	seguridad	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-seguridad	defensor	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-defensor	chaperón	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-chaperón	defensor	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-defensor	guardía	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardía	defensor	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardián	segurata	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-segurata	guardián	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardián	defensor	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-defensor	guardián	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardián	guardián	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardián	guardián	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardián	seguridad	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-seguridad	guardián	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardián	chaperón	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-chaperón	guardián	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardián	guardía	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardía	guardián	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-seguridad	segurata	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-segurata	seguridad	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-seguridad	defensor	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-defensor	seguridad	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-seguridad	guardián	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardián	seguridad	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-seguridad	seguridad	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-seguridad	seguridad	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-seguridad	chaperón	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-chaperón	seguridad	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-seguridad	guardía	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardía	seguridad	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-chaperón	segurata	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-segurata	chaperón	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-chaperón	defensor	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-defensor	chaperón	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-chaperón	guardián	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardián	chaperón	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-chaperón	seguridad	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-seguridad	chaperón	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-chaperón	chaperón	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-chaperón	chaperón	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-chaperón	guardía	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardía	chaperón	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardía	segurata	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-segurata	guardía	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardía	defensor	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-defensor	guardía	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardía	guardián	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardián	guardía	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardía	seguridad	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-seguridad	guardía	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardía	chaperón	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-chaperón	guardía	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardía	guardía	0	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-guardía	guardía	1	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.
-representante	representante	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-representante	representante	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 representante	representativo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 representativo	representante	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 representante	simbólico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
@@ -300,8 +166,6 @@ representante	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena
 grupo	representante	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 representante	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 seleccionado	representante	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-representativo	representativo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-representativo	representativo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 representativo	simbólico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 simbólico	representativo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 representativo	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
@@ -326,8 +190,6 @@ representativo	grupo	0	El <head>representativo<head> chileno obtuvo una muy buen
 grupo	representativo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 representativo	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 seleccionado	representativo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbólico	simbólico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbólico	simbólico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 simbólico	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 característico	simbólico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 simbólico	famoso	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
@@ -350,250 +212,6 @@ simbólico	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena pa
 grupo	simbólico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 simbólico	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
 seleccionado	simbólico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	característico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	famoso	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	característico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	comisionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	característico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	simbolo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	característico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	modelo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	característico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	ejemplar	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	característico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	insigne	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	característico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	emblemático	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	característico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	portavoz	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	característico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	característico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	característico	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	famoso	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	famoso	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	famoso	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	comisionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	famoso	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	simbolo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	famoso	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	modelo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	famoso	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	ejemplar	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	famoso	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	insigne	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	famoso	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	emblemático	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	famoso	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	portavoz	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	famoso	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	famoso	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	famoso	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	comisionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	famoso	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	comisionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	comisionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	comisionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	simbolo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	comisionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	modelo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	comisionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	ejemplar	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	comisionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	insigne	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	comisionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	emblemático	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	comisionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	portavoz	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	comisionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	comisionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	comisionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	simbolo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	famoso	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	simbolo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	comisionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	simbolo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	simbolo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	simbolo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	modelo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	simbolo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	ejemplar	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	simbolo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	insigne	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	simbolo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	emblemático	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	simbolo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	portavoz	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	simbolo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	simbolo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	simbolo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	modelo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	famoso	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	modelo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	comisionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	modelo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	simbolo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	modelo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	modelo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	modelo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	ejemplar	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	modelo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	insigne	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	modelo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	emblemático	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	modelo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	portavoz	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	modelo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	modelo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	modelo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	ejemplar	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	famoso	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	ejemplar	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	comisionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	ejemplar	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	simbolo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	ejemplar	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	modelo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	ejemplar	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	ejemplar	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	ejemplar	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	insigne	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	ejemplar	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	emblemático	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	ejemplar	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	portavoz	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	ejemplar	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	ejemplar	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	ejemplar	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	insigne	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	famoso	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	insigne	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	comisionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	insigne	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	simbolo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	insigne	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	modelo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	insigne	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	ejemplar	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	insigne	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	insigne	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	insigne	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	emblemático	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	insigne	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	portavoz	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	insigne	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	insigne	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	insigne	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	emblemático	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	famoso	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	emblemático	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	comisionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	emblemático	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	simbolo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	emblemático	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	modelo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	emblemático	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	ejemplar	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	emblemático	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	insigne	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	emblemático	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	emblemático	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	emblemático	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	portavoz	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	emblemático	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	emblemático	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	emblemático	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	portavoz	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	famoso	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	portavoz	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	comisionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	portavoz	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	simbolo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	portavoz	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	modelo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	portavoz	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	ejemplar	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	portavoz	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	insigne	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	portavoz	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	emblemático	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	portavoz	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	portavoz	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	portavoz	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	portavoz	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	portavoz	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	grupo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	famoso	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	grupo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	comisionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	grupo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	simbolo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	grupo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	modelo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	grupo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	ejemplar	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	grupo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	insigne	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	grupo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	emblemático	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	grupo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	portavoz	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	grupo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	grupo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	grupo	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	característico	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-característico	seleccionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	famoso	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-famoso	seleccionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	comisionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-comisionado	seleccionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	simbolo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-simbolo	seleccionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	modelo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-modelo	seleccionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	ejemplar	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ejemplar	seleccionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	insigne	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-insigne	seleccionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	emblemático	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-emblemático	seleccionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	portavoz	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-portavoz	seleccionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	grupo	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-grupo	seleccionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	seleccionado	0	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-seleccionado	seleccionado	1	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.
-ganar	ganar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-ganar	ganar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 ganar	dominar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 dominar	ganar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 ganar	vencer	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
@@ -618,8 +236,6 @@ ganar	adueñarse	0	El representativo chileno obtuvo una muy buena participación
 adueñarse	ganar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 ganar	lograr	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 lograr	ganar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-dominar	dominar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-dominar	dominar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 dominar	vencer	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 vencer	dominar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 dominar	conquistar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
@@ -642,24 +258,6 @@ dominar	adueñarse	0	El representativo chileno obtuvo una muy buena participaci�
 adueñarse	dominar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 dominar	lograr	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 lograr	dominar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-vencer	vencer	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-vencer	vencer	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-vencer	conquistar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-conquistar	vencer	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-vencer	ocupar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-ocupar	vencer	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-conquistar	vencer	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-vencer	conquistar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-conquistar	conquistar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-conquistar	conquistar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-conquistar	ocupar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-ocupar	conquistar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-ocupar	vencer	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-vencer	ocupar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-ocupar	conquistar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-conquistar	ocupar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-ocupar	ocupar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-ocupar	ocupar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 vencer	colonizar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 colonizar	vencer	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 vencer	apoderarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
@@ -708,131 +306,3 @@ ocupar	adueñarse	0	El representativo chileno obtuvo una muy buena participació
 adueñarse	ocupar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 ocupar	lograr	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
 lograr	ocupar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	colonizar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	colonizar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	apoderarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	colonizar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	adueñarse de los	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	colonizar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	tomar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	colonizar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	invadir	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	colonizar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	obtener	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	colonizar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	adueñarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	colonizar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	lograr	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	colonizar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	colonizar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	apoderarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	apoderarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	apoderarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	adueñarse de los	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	apoderarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	tomar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	apoderarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	invadir	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	apoderarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	obtener	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	apoderarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	adueñarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	apoderarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	lograr	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	apoderarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	colonizar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	adueñarse de los	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	apoderarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	adueñarse de los	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	adueñarse de los	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	adueñarse de los	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	tomar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	adueñarse de los	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	invadir	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	adueñarse de los	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	obtener	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	adueñarse de los	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	adueñarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	adueñarse de los	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	lograr	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	adueñarse de los	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	colonizar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	tomar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	apoderarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	tomar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	adueñarse de los	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	tomar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	tomar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	tomar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	invadir	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	tomar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	obtener	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	tomar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	adueñarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	tomar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	lograr	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	tomar	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	colonizar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	invadir	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	apoderarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	invadir	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	adueñarse de los	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	invadir	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	tomar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	invadir	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	invadir	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	invadir	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	obtener	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	invadir	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	adueñarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	invadir	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	lograr	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	invadir	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	colonizar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	obtener	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	apoderarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	obtener	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	adueñarse de los	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	obtener	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	tomar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	obtener	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	invadir	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	obtener	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	obtener	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	obtener	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	adueñarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	obtener	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	lograr	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	obtener	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	colonizar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	adueñarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	apoderarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	adueñarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	adueñarse de los	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	adueñarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	tomar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	adueñarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	invadir	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	adueñarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	obtener	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	adueñarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	adueñarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	adueñarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	lograr	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	adueñarse	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	colonizar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-colonizar	lograr	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	apoderarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-apoderarse	lograr	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	adueñarse de los	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse de los	lograr	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	tomar	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-tomar	lograr	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	invadir	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-invadir	lograr	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	obtener	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-obtener	lograr	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	adueñarse	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-adueñarse	lograr	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	lograr	0	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
-lograr	lograr	1	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.
