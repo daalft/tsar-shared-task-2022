@@ -1,0 +1,122 @@
+guardando	trazendo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+trazendo	guardando	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+segurando	detendo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+detendo	segurando	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+segurando	possuindo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+possuindo	segurando	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+segurando	trazendo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+trazendo	segurando	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+conservando	conservando	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+conservando	conservando	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+conservando	mantendo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+mantendo	conservando	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+conservando	possuindo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+possuindo	conservando	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+detendo	absorvendo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+absorvendo	detendo	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+absorvendo	mantendo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+mantendo	absorvendo	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+absorvendo	possuindo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+possuindo	absorvendo	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+possuindo	trazendo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+trazendo	possuindo	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+contendo	trazendo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+trazendo	contendo	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+trazendo	trazendo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+trazendo	trazendo	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+trazendo	prendendo	0	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+prendendo	trazendo	1	esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra <head>retendo<head> radiação do sol que de outro modo se dissiparia no espaço
+detectores	mecanismos que sentem	0	mas escreveram eles no artigo hoje divulgado vai ser possível no futuro próximo fazer uma pele eletrônica que tenha funções que a pele humana não tem ao integrar vários <head>sensores<head> não apenas para pressão e temperatura mas também para luz umidade esforço e ultrassônicos
+mecanismos que sentem	detectores	1	mas escreveram eles no artigo hoje divulgado vai ser possível no futuro próximo fazer uma pele eletrônica que tenha funções que a pele humana não tem ao integrar vários <head>sensores<head> não apenas para pressão e temperatura mas também para luz umidade esforço e ultrassônicos
+dispositivos	mecanismos que sentem	0	mas escreveram eles no artigo hoje divulgado vai ser possível no futuro próximo fazer uma pele eletrônica que tenha funções que a pele humana não tem ao integrar vários <head>sensores<head> não apenas para pressão e temperatura mas também para luz umidade esforço e ultrassônicos
+mecanismos que sentem	dispositivos	1	mas escreveram eles no artigo hoje divulgado vai ser possível no futuro próximo fazer uma pele eletrônica que tenha funções que a pele humana não tem ao integrar vários <head>sensores<head> não apenas para pressão e temperatura mas também para luz umidade esforço e ultrassônicos
+medidores	mecanismos que sentem	0	mas escreveram eles no artigo hoje divulgado vai ser possível no futuro próximo fazer uma pele eletrônica que tenha funções que a pele humana não tem ao integrar vários <head>sensores<head> não apenas para pressão e temperatura mas também para luz umidade esforço e ultrassônicos
+mecanismos que sentem	medidores	1	mas escreveram eles no artigo hoje divulgado vai ser possível no futuro próximo fazer uma pele eletrônica que tenha funções que a pele humana não tem ao integrar vários <head>sensores<head> não apenas para pressão e temperatura mas também para luz umidade esforço e ultrassônicos
+desmontar	destruir	0	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+destruir	desmontar	1	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+desmontar	luxate	0	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+luxate	desmontar	1	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+separar	desgastar	0	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+desgastar	separar	1	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+desfazer	destruir	0	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+destruir	desfazer	1	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+destruir	desgastar	0	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+desgastar	destruir	1	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+desencaixar	desencaixar	0	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+desencaixar	desencaixar	1	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+exarticular	exarticular	0	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+exarticular	exarticular	1	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+exarticular	luxate	0	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+luxate	exarticular	1	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+luxate	desencaixar	0	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+desencaixar	luxate	1	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+luxate	exarticular	0	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+exarticular	luxate	1	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+luxate	luxate	0	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+luxate	luxate	1	bacci pretende oferecer recompensa a chamada delação premiada a bandidos que colaborarem com as investigações para <head>desarticular<head> as grandes quadrilhas
+peste	maldição	0	naquele país a ave é considerada uma <head>praga<head>
+maldição	peste	1	naquele país a ave é considerada uma <head>praga<head>
+epidemia	desgraça	0	naquele país a ave é considerada uma <head>praga<head>
+desgraça	epidemia	1	naquele país a ave é considerada uma <head>praga<head>
+epidemia	infestação	0	naquele país a ave é considerada uma <head>praga<head>
+infestação	epidemia	1	naquele país a ave é considerada uma <head>praga<head>
+doença	doença	0	naquele país a ave é considerada uma <head>praga<head>
+doença	doença	1	naquele país a ave é considerada uma <head>praga<head>
+infestação	tragédia	0	naquele país a ave é considerada uma <head>praga<head>
+tragédia	infestação	1	naquele país a ave é considerada uma <head>praga<head>
+infestação	infestação	0	naquele país a ave é considerada uma <head>praga<head>
+infestação	infestação	1	naquele país a ave é considerada uma <head>praga<head>
+mudando	mudando	0	autores de furto estariam <head>migrando<head> para o roubo
+mudando	mudando	1	autores de furto estariam <head>migrando<head> para o roubo
+mudando	passando	0	autores de furto estariam <head>migrando<head> para o roubo
+passando	mudando	1	autores de furto estariam <head>migrando<head> para o roubo
+mudando	deslocando	0	autores de furto estariam <head>migrando<head> para o roubo
+deslocando	mudando	1	autores de furto estariam <head>migrando<head> para o roubo
+passando	indo	0	autores de furto estariam <head>migrando<head> para o roubo
+indo	passando	1	autores de furto estariam <head>migrando<head> para o roubo
+deslocando-se	indo	0	autores de furto estariam <head>migrando<head> para o roubo
+indo	deslocando-se	1	autores de furto estariam <head>migrando<head> para o roubo
+indo	deslocando-se	0	autores de furto estariam <head>migrando<head> para o roubo
+deslocando-se	indo	1	autores de furto estariam <head>migrando<head> para o roubo
+deslocando-se	se direcionando	0	autores de furto estariam <head>migrando<head> para o roubo
+se direcionando	deslocando-se	1	autores de furto estariam <head>migrando<head> para o roubo
+deslocando-se	se mudando	0	autores de furto estariam <head>migrando<head> para o roubo
+se mudando	deslocando-se	1	autores de furto estariam <head>migrando<head> para o roubo
+deslocando	deslocando	0	autores de furto estariam <head>migrando<head> para o roubo
+deslocando	deslocando	1	autores de furto estariam <head>migrando<head> para o roubo
+deslocando	se mudando	0	autores de furto estariam <head>migrando<head> para o roubo
+se mudando	deslocando	1	autores de furto estariam <head>migrando<head> para o roubo
+se mudando	deslocando	0	autores de furto estariam <head>migrando<head> para o roubo
+deslocando	se mudando	1	autores de furto estariam <head>migrando<head> para o roubo
+se mudando	se mudando	0	autores de furto estariam <head>migrando<head> para o roubo
+se mudando	se mudando	1	autores de furto estariam <head>migrando<head> para o roubo
+confirmado	confirmado	0	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+confirmado	confirmado	1	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+confirmado	firmado	0	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+firmado	confirmado	1	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+aprovado	corrigido	0	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+corrigido	aprovado	1	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+validado	firmado	0	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+firmado	validado	1	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+autenticado	estipulado	0	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+estipulado	autenticado	1	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+autenticado	corrigido	0	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+corrigido	autenticado	1	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+firmado	firmado	0	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+firmado	firmado	1	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+estipulado	corrigido	0	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+corrigido	estipulado	1	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+corrigido	firmado	0	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+firmado	corrigido	1	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+corrigido	corrigido	0	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+corrigido	corrigido	1	perguntado se o protocolo de kyoto será <head>ratificado<head> no caso da eleição de um democrata para a presidência em 2008 kerry surpreendeu
+diversidade	variedade	0	os reis magos no entanto são o oposto estão em plena forma física e representam um exemplo de <head>pluralidade<head> racial e integração
+variedade	diversidade	1	os reis magos no entanto são o oposto estão em plena forma física e representam um exemplo de <head>pluralidade<head> racial e integração
+diversidade	multiplicidade	0	os reis magos no entanto são o oposto estão em plena forma física e representam um exemplo de <head>pluralidade<head> racial e integração
+multiplicidade	diversidade	1	os reis magos no entanto são o oposto estão em plena forma física e representam um exemplo de <head>pluralidade<head> racial e integração
+diversidade	maioria	0	os reis magos no entanto são o oposto estão em plena forma física e representam um exemplo de <head>pluralidade<head> racial e integração
+maioria	diversidade	1	os reis magos no entanto são o oposto estão em plena forma física e representam um exemplo de <head>pluralidade<head> racial e integração
+variedade	variedade	0	os reis magos no entanto são o oposto estão em plena forma física e representam um exemplo de <head>pluralidade<head> racial e integração
+variedade	variedade	1	os reis magos no entanto são o oposto estão em plena forma física e representam um exemplo de <head>pluralidade<head> racial e integração
+multiplicidade	diferentes	0	os reis magos no entanto são o oposto estão em plena forma física e representam um exemplo de <head>pluralidade<head> racial e integração
+diferentes	multiplicidade	1	os reis magos no entanto são o oposto estão em plena forma física e representam um exemplo de <head>pluralidade<head> racial e integração
