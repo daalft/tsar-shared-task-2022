@@ -1,6 +1,7 @@
 import pickle
 from functools import cmp_to_key
 from nltk import ngrams
+import random
 
 class LanguageModel():
     '''
@@ -90,11 +91,12 @@ class LSRanker(object):
         self.vectorizer = vectorizer
         self.ml_algorithm = ml_algorithm
         self.scaler = scaler
-
+    
     def __custom_cmp(self, w1, w2):
         v1 = self.vectorizer.vectorize(w1)
         v2 = self.vectorizer.vectorize(w2)
         v3 = [v1 + v2]
+        
         v3s = self.scaler.transform(v3)
         prediction = self.ml_algorithm.predict(v3s)
         if prediction == 0:
@@ -103,8 +105,33 @@ class LSRanker(object):
             return -1
         else:
             return 0
-
-    def rank(self, list_to_rank):
+        
+    def __custom_sort(self, list_to_sort):
+        from itertools import permutations
+        
+        perms = permutations(list_to_sort, 2)
+        r = {}
+        for perm in perms:
+            w1, w2 = perm
+            v1 = self.vectorizer.vectorize(w1)
+            v2 = self.vectorizer.vectorize(w2)
+            v3 = [v1 + v2]
+            v3s = self.scaler.transform(v3)
+            pred = self.ml_algorithm.predict(v3s)
+            if w1 not in r:
+                r[w1] = 0
+            if w2 not in r:
+                r[w2] = 0
+            if pred == 0:
+                r[w1] += 3
+                r[w2] -= 1
+            else:
+                r[w1] -= 1
+                r[w2] += 3
+        return [y[0] for y in sorted(r.items(), key=lambda x: x[1], reverse=True)]
+        
+        
+    def rank(self, list_to_rank, custom_sort=False):
         if type(list_to_rank) != list:
             if type(list_to_rank) == tuple:
                 list_to_rank = list(list_to_rank)
@@ -112,27 +139,30 @@ class LSRanker(object):
                 list_to_rank = list(list_to_rank)
             else:
                 raise Exception("Expected type <class 'list'> to rank. Received type {}!".format(type(list_to_rank)))
+        if custom_sort:
+            return self.__custom_sort(list_to_rank)
         return sorted(list_to_rank, key=cmp_to_key(self.__custom_cmp), reverse=True)
+    
+class IdentityScaler:
+    def transform(self, x):
+        return x
 
 
-class DefaultEnglishLSRanker(LSRanker):
-    def __init__(self):
-        lm = LanguageModel("./lm/uni_en_rel.csv", "./lm/bi_en_rel.csv", "./lm/tri_en_rel.csv", "./lm/quad_en_rel.csv")
-        default_vectorizer = LanguageModelWrapper(lm)
-        default_ml_algorithm = pickle.load(open("./ranking/models/en-mlp.pickle", "rb"))
-        default_scaler = pickle.load(open("./ranking/models/en-ss.pickle", "rb"))
-        super().__init__(default_vectorizer, default_ml_algorithm, default_scaler)
+id_scaler = IdentityScaler()
+vectorizer = pickle.load(open("/lmw-en.pickle", "rb"))
+ml_algo = pickle.load(open("/models/en-vc-full.pickle", "rb"))
 
+lsr = LSRanker(vectorizer, ml_algo, id_scaler)
 
-class DefaultSpanishLSRanker(LSRanker):
-    def __init__(self):
-        lm = LanguageModel("./lm/uni_es_rel.csv", "./lm/bi_es_rel.csv", "./lm/tri_es_rel.csv", "./lm/quad_es_rel.csv")
-        default_vectorizer = LanguageModelWrapper(lm)
-        default_ml_algorithm = pickle.load(open("./ranking/models/es-et.pickle", "rb"))
-        default_scaler = pickle.load(open("./ranking/models/es-ss.pickle", "rb"))
-        super().__init__(default_vectorizer, default_ml_algorithm, default_scaler)
-
-
-class DefaultPortugueseLSRanker(LSRanker):
-    def __init__(self):
-        raise Exception("Not implemented!")
+tsar_gold = "/tsar2022_en_trial_gold.tsv"
+out = open("/eval/tsar_eval_ranking_en_vc_us_custom.csv", "w", encoding="utf-8")
+with open(tsar_gold, "r", encoding="utf-8") as f:
+    for l in f:
+        if not l.strip():
+            continue
+        sentence, cw, *candidates = l.rstrip().split("\t")
+        random.shuffle(candidates)
+        candidates = set(candidates)
+        ranked = lsr.rank(candidates, True)
+        out.write("{}\t{}\t{}\n".format(sentence, cw, "\t".join(ranked)))
+out.close()
