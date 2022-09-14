@@ -57,7 +57,7 @@ def load_semeval_pred(path = "semeval_es_dccuchile_bert-base-spanish-wwm-cased_m
     semeval_pred = {}
     with open(path) as input_file:
         for ln in input_file:
-            cols = ln.strip().split("\t")
+            cols = ln.replace("<head>","").strip().split("\t")
             sent = cols[0]
             complex = cols[1]
             cands = cols[2:]
@@ -73,7 +73,7 @@ def load_tsar_gold(path="TSAR-2022-Shared-Task-main/datasets/trial/tsar2022_en_t
     gold = {}
     with open(path) as input_file:
         for ln in input_file:
-            cols = ln.strip().split("\t")
+            cols = ln.replace("<head>","").strip().split("\t")
             sent = cols[0]
             complex = cols[1]
             cands = [(c,w)for c, w in Counter(cols[2:]).most_common()]
@@ -191,6 +191,8 @@ def eval_lst(file_name, ds1="semeval2012T1/2010_es.csv", ds2=["semeval_es_dccuch
 
     # pred = load_semeval_pred(ds2)
     print("gold",len(gold), "runs", len(preds), "preds:", [len(r) for r in preds])
+    for i, ds in enumerate(ds2):
+        print("\t", len(preds[i]), ds)
     
 
     gold_aux = {}
@@ -295,21 +297,71 @@ def eval_lst(file_name, ds1="semeval2012T1/2010_es.csv", ds2=["semeval_es_dccuch
 # eval_lst(file_name = "results_en", ds1="semeval2012T1/2012.csv", ds2=["semeval_en_bert-large-uncased_m1.txt", "semeval_en_bert-large-uncased_m2.txt", "semeval_en_roberta-base_sepFalse.txt"])
 # eval_lst(file_name = "results_es", ds1="semeval2012T1/2010_es.csv", ds2=["semeval_es_dccuchile_bert-base-spanish-wwm-cased_m1.txt", "semeval_es_dccuchile_bert-base-spanish-wwm-cased_m2.txt"])
 
-files = glob.glob("resultats_semeval-QE-doublesent-paraphrases/*_semeval_en_*")
-print("files",files)
-eval_lst(file_name = "results_semeval_en", ds1="git/tsar-shared-task-2022/corpus/cv_tsar_semeval/test_corpus_semeval_en.tsv", ds2=files, runjaccard2=False)
+# files = glob.glob("resultats_semeval-QE-doublesent-paraphrases/*_semeval_en_*")
+# print("files",files)
+# eval_lst(file_name = "results_semeval_en", ds1="git/tsar-shared-task-2022/corpus/cv_tsar_semeval/test_corpus_semeval_en.tsv", ds2=files, runjaccard2=False)
 
-files = glob.glob("resultats_semeval-QE-doublesent-paraphrases/*_semeval_es_*")
-print("files",files)
-eval_lst(file_name = "results_semeval_es", ds1="git/tsar-shared-task-2022/corpus/cv_tsar_semeval/test_corpus_semeval_es.tsv", ds2=files, runjaccard2=False)
+# files = glob.glob("resultats_semeval-QE-doublesent-paraphrases/*_semeval_es_*")
+# print("files",files)
+# eval_lst(file_name = "results_semeval_es", ds1="git/tsar-shared-task-2022/corpus/cv_tsar_semeval/test_corpus_semeval_es.tsv", ds2=files, runjaccard2=False)
 
 # files = glob.glob("resultats_semeval-QE-doublesent-paraphrases/*__tsar_en_*")
 # print("files",files)
 # eval_lst(file_name = "results_en", ds1="TSAR-2022-Shared-Task-main/datasets/trial/tsar2022_en_trial_gold.tsv", ds2=files, runjaccard2=False)
 
+##################################################################################
+files = glob.glob("qe_output/results_QE/qesemeval_en_*")
+print("files",files)
+eval_lst(file_name = "results_semeval_en_qe", ds1="../corpus/cv_tsar_semeval/test_corpus_semeval_en.tsv", ds2=files, runjaccard2=False)
+
+files = glob.glob("double_sentence/results/double_semeval_en_*")
+print("files",files)
+eval_lst(file_name = "results_semeval_en_2sent", ds1="../corpus/cv_tsar_semeval/test_corpus_semeval_en.tsv", ds2=files, runjaccard2=False)
 
 
+files = glob.glob("double_sentence/results/double_tsar2022_en_*")
+print("files",files)
+eval_lst(file_name = "results_tsar_en_2sent", ds1="../corpus/cv_tsar_semeval/test_corpus_tsar_en.tsv", ds2=files, runjaccard2=False)
+
+files = glob.glob("qe_output/results_QE/qetsar2022_en_*")
+print("files",files)
+eval_lst(file_name = "results_tsar_en_qe", ds1="../corpus/cv_tsar_semeval/test_corpus_tsar_en.tsv", ds2=files, runjaccard2=False)
+
+##################################################################################
+files = glob.glob("qe_output/results_QE/qesemeval_es_*")
+print("files",files)
+eval_lst(file_name = "results_semeval_es_qe", ds1="../corpus/cv_tsar_semeval/test_corpus_semeval_es.tsv", ds2=files, runjaccard2=False)
+
+files = glob.glob("double_sentence/results/double_semeval_es_*")
+print("files",files)
+eval_lst(file_name = "results_semeval_es_2sent", ds1="../corpus/cv_tsar_semeval/test_corpus_semeval_es.tsv", ds2=files, runjaccard2=False)
 
 
+files = glob.glob("double_sentence/results/double_tsar2022_es_*")
+print("files",files)
+eval_lst(file_name = "results_tsar_es_2sent", ds1="../corpus/cv_tsar_semeval/test_corpus_tsar_es.tsv", ds2=files, runjaccard2=False)
+
+files = glob.glob("qe_output/results_QE/qetsar2022_es_*")
+print("files",files)
+eval_lst(file_name = "results_tsar_es_qe", ds1="../corpus/cv_tsar_semeval/test_corpus_tsar_es.tsv", ds2=files, runjaccard2=False)
+
+
+##################################################################################
+files = glob.glob("qe_output/results_QE/qesemeval_pt_*")
+print("files",files)
+eval_lst(file_name = "results_semeval_pt_qe", ds1="../corpus/cv_tsar_semeval/test_corpus_semeval_pt.tsv", ds2=files, runjaccard2=False)
+
+files = glob.glob("double_sentence/results/double_semeval_pt_*")
+print("files",files)
+eval_lst(file_name = "results_semeval_pt_2sent", ds1="../corpus/cv_tsar_semeval/test_corpus_semeval_pt.tsv", ds2=files, runjaccard2=False)
+
+
+files = glob.glob("double_sentence/results/double_tsar2022_pt_*")
+print("files",files)
+eval_lst(file_name = "results_tsar_pt_2sent", ds1="../corpus/cv_tsar_semeval/test_corpus_tsar_pt.tsv", ds2=files, runjaccard2=False)
+
+files = glob.glob("qe_output/results_QE/qetsar2022_pt_*")
+print("files",files)
+eval_lst(file_name = "results_tsar_pt_qe", ds1="../corpus/cv_tsar_semeval/test_corpus_tsar_pt.tsv", ds2=files, runjaccard2=False)
 
 
