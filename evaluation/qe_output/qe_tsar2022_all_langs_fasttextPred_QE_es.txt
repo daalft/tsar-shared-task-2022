@@ -1,0 +1,4 @@
+es	Antes de aquello, el estadio <head>albergaba<head> una capacidad para más de 130.000 espectadores.	albergaba	albergaban	albergar	Albergaba	albergó	alberga
+es	Balbo era <head>guardaespaldas<head> de Cesare Battisti durante las manifestaciones realizadas a favor de la guerra.	guardaespaldas	guardaespalda	ex-guardaespaldas	exguardaespaldas	escoltas	guardias
+es	El <head>representativo<head> chileno obtuvo una muy buena participación al conquistar los tres primeros lugares del citado certamen.	representativo	representativos	representativa	emblemático	presentativo	representado
+es	El representativo chileno obtuvo una muy buena participación al <head>conquistar<head> los tres primeros lugares del citado certamen.	conquistar	reconquistar	conquistado	conquista	conquistarse	Conquistar
