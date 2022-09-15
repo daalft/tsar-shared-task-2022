@@ -1,0 +1,63 @@
+{
+    "massacrar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__massacrar__verbo_transitivo__1": [
+            "matar"
+        ]
+    },
+    "colher": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__colher__verbo__1": [
+            "tirar",
+            "arrancar"
+        ]
+    },
+    "farfalhar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2__por__farfalhar__verbo_intransitivo__1": [
+            "falar"
+        ]
+    },
+    "desenhar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__desenhar__verbo_transitivo__1": [
+            "representar"
+        ]
+    },
+    "responder": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__responder__verbo_intransitivo__1": [
+            "dizer"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_7__por__responder__verbo_transitivo__1": [
+            "abordar",
+            "atacar",
+            "agredir",
+            "acometer"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6__por__responder__verbo_transitivo__1": [
+            "dizer"
+        ]
+    },
+    "jantar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__jantar__verbo_intransitivo__1": [
+            "comer"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2__por__jantar__verbo_transitivo__1": [
+            "comer"
+        ]
+    },
+    "reencher": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__reencher__verbo_transitivo__1": [
+            "encher"
+        ]
+    },
+    "rejogar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__rejogar__verbo_intransitivo__1": [
+            "jogar"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2__por__rejogar__verbo_transitivo__1": [
+            "jogar"
+        ]
+    },
+    "tresler": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_7__por__tresler__verbo_transitivo__1": [
+            "falar"
+        ]
+    }
+}

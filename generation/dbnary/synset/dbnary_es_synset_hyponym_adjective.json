@@ -1,0 +1,920 @@
+{
+    "acedo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_acedo__adjetivo__1": [
+            "rancio"
+        ]
+    },
+    "adiamantado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_adiamantado__adjetivo__1": [
+            "diamantino"
+        ]
+    },
+    "agonista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_agonista__adjetivo__1": [
+            "antagonista",
+            "protagonista"
+        ]
+    },
+    "antropomorfo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_antropomorfo__adjetivo__1": [
+            "chimpanc\u00e9",
+            "bonobo",
+            "orangut\u00e1n",
+            "chimpanc\u00e9",
+            "gib\u00f3n",
+            "gorila"
+        ]
+    },
+    "antibi\u00f3tico": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_antibi\u00f3tico__adjetivo__1": [
+            "bacteriost\u00e1tico",
+            "bactericida"
+        ]
+    },
+    "anfibio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_anfibio__adjetivo__1": [
+            "urodelo",
+            "\u00e1podo",
+            "anuro"
+        ]
+    },
+    "aprendiz": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aprendiz__adjetivo__1": [
+            "cadete",
+            "pinche",
+            "cadete",
+            "cadete",
+            "pasante",
+            "marmit\u00f3n",
+            "cadete",
+            "grumete"
+        ]
+    },
+    "asesino": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_asesino__adjetivo__1": [
+            "uxoricida",
+            "parricida",
+            "sicario"
+        ]
+    },
+    "bisexual": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_bisexual__adjetivo__1": [
+            "heteroflexible",
+            "homoflexible"
+        ]
+    },
+    "caballar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_caballar__adjetivo__1": [
+            "ecuestre"
+        ]
+    },
+    "captor": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_captor__adjetivo__1": [
+            "secuestrador"
+        ]
+    },
+    "circadiano": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_circadiano__adjetivo__1": [
+            "horario"
+        ]
+    },
+    "cognado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cognado__adjetivo__1": [
+            "doblete"
+        ]
+    },
+    "cl\u00edtico": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cl\u00edtico__adjetivo__1": [
+            "procl\u00edtico",
+            "encl\u00edtico"
+        ]
+    },
+    "colla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_colla__adjetivo__1": [
+            "atacame\u00f1o"
+        ]
+    },
+    "defectivo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_defectivo__adjetivo__1": [
+            "impersonal",
+            "unipersonal",
+            "impersonal"
+        ]
+    },
+    "degenerado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_degenerado__adjetivo__1": [
+            "depravado",
+            "vicioso",
+            "pervertido"
+        ]
+    },
+    "desnudista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_desnudista__adjetivo__1": [
+            "stripper"
+        ]
+    },
+    "diamantado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_diamantado__adjetivo__1": [
+            "diamantino"
+        ]
+    },
+    "din\u00e1stico": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_din\u00e1stico__adjetivo__1": [
+            "borb\u00f3nico"
+        ]
+    },
+    "diacr\u00edtico": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_diacr\u00edtico__adjetivo__1": [
+            "crema",
+            "breve",
+            "macron",
+            "ap\u00f3strofo",
+            "cedilla",
+            "di\u00e9resis",
+            "acento",
+            "ligatura",
+            "acento"
+        ]
+    },
+    "drogadicto": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_drogadicto__adjetivo__1": [
+            "cocain\u00f3mano",
+            "alcoh\u00f3lico",
+            "heroin\u00f3mano"
+        ]
+    },
+    "drogado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_drogado__adjetivo__1": [
+            "marihuanero",
+            "cocain\u00f3mano",
+            "heroin\u00f3mano"
+        ]
+    },
+    "drogodependiente": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_drogodependiente__adjetivo__1": [
+            "heroin\u00f3mano",
+            "cocain\u00f3mano",
+            "marihuanero"
+        ]
+    },
+    "emocionante": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_emocionante__adjetivo__1": [
+            "impresionante",
+            "turbador",
+            "escalofriante",
+            "alucinante",
+            "conmovedor",
+            "sobrecogedor",
+            "apasionante"
+        ]
+    },
+    "espa\u00f1olete": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_espa\u00f1olete__adjetivo__1": [
+            "maqueto",
+            "charnego"
+        ]
+    },
+    "existente": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_existente__adjetivo__1": [
+            "coexistente",
+            "preexistente"
+        ]
+    },
+    "exclamativo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_exclamativo__adjetivo__1": [
+            "admirativo"
+        ]
+    },
+    "exigente": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_exigente__adjetivo__1": [
+            "tiquismiquis",
+            "caprichoso",
+            "quisquilloso"
+        ]
+    },
+    "fueguino": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_fueguino__adjetivo__1": [
+            "yag\u00e1n",
+            "ona",
+            "y\u00e1mana",
+            "ona"
+        ]
+    },
+    "for\u00e1neo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_for\u00e1neo__adjetivo__1": [
+            "extranjero"
+        ]
+    },
+    "herb\u00edvoro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_herb\u00edvoro__adjetivo__1": [
+            "frug\u00edvoro"
+        ]
+    },
+    "hind\u00fa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_hind\u00fa__adjetivo__1": [
+            "indio"
+        ]
+    },
+    "huinca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_huinca__adjetivo__1": [
+            "chileno",
+            "argentino",
+            "espa\u00f1ol"
+        ]
+    },
+    "iberoamericano": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_iberoamericano__adjetivo__1": [
+            "hispanoamericano"
+        ]
+    },
+    "infalible": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_infalible__adjetivo__1": [
+            "indefectible"
+        ]
+    },
+    "latinoamericano": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_latinoamericano__adjetivo__1": [
+            "hispano",
+            "iberoamericano",
+            "hispanoamericano"
+        ]
+    },
+    "latino": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_8_latino__adjetivo__1": [
+            "bracero",
+            "chicano"
+        ]
+    },
+    "lacedemonio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_lacedemonio__adjetivo__1": [
+            "espartano"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lacedemonio__adjetivo__1": [
+            "espartano"
+        ]
+    },
+    "lant\u00e1nido": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lant\u00e1nido__adjetivo__1": [
+            "praseodimio",
+            "erbio",
+            "iterbio",
+            "tulio",
+            "lutecio",
+            "gadolinio",
+            "samario",
+            "cerio",
+            "neodimio",
+            "disprosio",
+            "terbio",
+            "holmio",
+            "lutecio",
+            "lantano",
+            "europio",
+            "prometio"
+        ]
+    },
+    "lenguaraz": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lenguaraz__adjetivo__1": [
+            "pol\u00edgloto",
+            "pol\u00edglota",
+            "poligloto"
+        ]
+    },
+    "manuscrito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_manuscrito__adjetivo__1": [
+            "aut\u00f3grafo",
+            "ol\u00f3grafo",
+            "ol\u00f3grafo"
+        ]
+    },
+    "metal\u00edfero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_metal\u00edfero__adjetivo__1": [
+            "platin\u00edfero",
+            "cupr\u00edfero",
+            "aur\u00edfero",
+            "argent\u00edfero"
+        ]
+    },
+    "mentiroso": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mentiroso__adjetivo__1": [
+            "grupiento",
+            "embaucador"
+        ]
+    },
+    "mijita": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_mijita__adjetivo__1": [
+            "mezquita"
+        ]
+    },
+    "multiling\u00fce": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_multiling\u00fce__adjetivo__1": [
+            "tetraling\u00fce",
+            "pentaling\u00fce",
+            "biling\u00fce",
+            "cuatriling\u00fce",
+            "triling\u00fce",
+            "quinqueling\u00fce"
+        ]
+    },
+    "odorable": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_odorable__adjetivo__1": [
+            "fragante",
+            "oloroso",
+            "oloroso",
+            "arom\u00e1tico",
+            "oloroso",
+            "arom\u00e1tico",
+            "odor\u00edfero",
+            "odor\u00edfico"
+        ]
+    },
+    "oledero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_oledero__adjetivo__1": [
+            "oloroso",
+            "odor\u00edfico",
+            "arom\u00e1tico",
+            "fragante",
+            "odor\u00edfero",
+            "arom\u00e1tico",
+            "oloroso",
+            "oloroso"
+        ]
+    },
+    "oledor": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_oledor__adjetivo__1": [
+            "arom\u00e1tico",
+            "oloroso",
+            "odor\u00edfico",
+            "arom\u00e1tico",
+            "oloroso",
+            "oloroso",
+            "fragante"
+        ]
+    },
+    "oliente": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_oliente__adjetivo__1": [
+            "oloroso",
+            "fragante",
+            "odor\u00edfico",
+            "oloroso",
+            "arom\u00e1tico",
+            "arom\u00e1tico",
+            "oloroso"
+        ]
+    },
+    "ondulante": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_ondulante__adjetivo__1": [
+            "sinuoso"
+        ]
+    },
+    "ovado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ovado__adjetivo__1": [
+            "obovado"
+        ]
+    },
+    "overo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_overo__adjetivo__1": [
+            "clavel"
+        ]
+    },
+    "pantanoso": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_pantanoso__adjetivo__1": [
+            "cenagoso",
+            "cienoso"
+        ]
+    },
+    "pesticida": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pesticida__adjetivo__1": [
+            "fungicida",
+            "raticida",
+            "germicida",
+            "vermicida",
+            "herbicida",
+            "acaricida",
+            "bactericida",
+            "parasiticida"
+        ]
+    },
+    "peregrino": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_peregrino__adjetivo__1": [
+            "romero",
+            "rociero"
+        ]
+    },
+    "plaguicida": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_plaguicida__adjetivo__1": [
+            "fungicida",
+            "raticida",
+            "germicida",
+            "herbicida",
+            "acaricida",
+            "bactericida",
+            "vermicida",
+            "parasiticida"
+        ]
+    },
+    "pluriling\u00fce": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pluriling\u00fce__adjetivo__1": [
+            "cuatriling\u00fce",
+            "pentaling\u00fce",
+            "quinqueling\u00fce",
+            "tetraling\u00fce",
+            "triling\u00fce",
+            "biling\u00fce"
+        ]
+    },
+    "poliling\u00fce": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_poliling\u00fce__adjetivo__1": [
+            "cuatriling\u00fce",
+            "pentaling\u00fce",
+            "quinqueling\u00fce",
+            "tetraling\u00fce",
+            "triling\u00fce",
+            "biling\u00fce"
+        ]
+    },
+    "pol\u00edgloto": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_pol\u00edgloto__adjetivo__1": [
+            "cuatriling\u00fce",
+            "pentaling\u00fce",
+            "tetraling\u00fce",
+            "triling\u00fce",
+            "biling\u00fce"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pol\u00edgloto__adjetivo__1": [
+            "cuatriling\u00fce",
+            "pentaling\u00fce",
+            "tetraling\u00fce",
+            "triling\u00fce",
+            "biling\u00fce"
+        ]
+    },
+    "plioceno": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_plioceno__adjetivo__1": [
+            "edad",
+            "cron",
+            "edad",
+            "edad",
+            "edad",
+            "edad",
+            "cron"
+        ]
+    },
+    "polludo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_polludo__adjetivo__1": [
+            "gordo",
+            "potente",
+            "bigardo",
+            "grande",
+            "fuerte",
+            "fuerte",
+            "grande",
+            "grande",
+            "grande",
+            "grande",
+            "grande",
+            "grande",
+            "fuerte",
+            "grande",
+            "fuerte",
+            "grande",
+            "grande",
+            "grande"
+        ]
+    },
+    "poligloto": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_poligloto__adjetivo__1": [
+            "cuatriling\u00fce",
+            "pentaling\u00fce",
+            "tetraling\u00fce",
+            "triling\u00fce",
+            "biling\u00fce"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_poligloto__adjetivo__1": [
+            "cuatriling\u00fce",
+            "pentaling\u00fce",
+            "tetraling\u00fce",
+            "triling\u00fce",
+            "biling\u00fce"
+        ]
+    },
+    "propietario": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_propietario__adjetivo__1": [
+            "amo",
+            "amo",
+            "patr\u00f3n",
+            "amo",
+            "casero",
+            "amo",
+            "amo",
+            "amo",
+            "amo",
+            "terrateniente",
+            "amo",
+            "amo",
+            "amo",
+            "amo",
+            "amo",
+            "amo"
+        ]
+    },
+    "ratero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ratero__adjetivo__1": [
+            "lanza",
+            "clept\u00f3mano"
+        ]
+    },
+    "salamanquino": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_salamanquino__adjetivo__1": [
+            "charro"
+        ]
+    },
+    "salamanqu\u00e9s": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_salamanqu\u00e9s__adjetivo__1": [
+            "charro"
+        ]
+    },
+    "salmantino": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_salmantino__adjetivo__1": [
+            "charro"
+        ]
+    },
+    "sardino": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sardino__adjetivo__1": [
+            "adolescente",
+            "ni\u00f1o",
+            "ni\u00f1o"
+        ]
+    },
+    "terciopersonal": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_terciopersonal__adjetivo__1": [
+            "impersonal",
+            "unipersonal",
+            "impersonal"
+        ]
+    },
+    "toxic\u00f3mano": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_toxic\u00f3mano__adjetivo__1": [
+            "heroin\u00f3mano",
+            "cocain\u00f3mano",
+            "marihuanero"
+        ]
+    },
+    "transg\u00e9nero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_transg\u00e9nero__adjetivo__1": [
+            "transexual",
+            "transexual"
+        ]
+    },
+    "vasoactivo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_vasoactivo__adjetivo__1": [
+            "vasodilatador"
+        ]
+    },
+    "volado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_volado__adjetivo__1": [
+            "heroin\u00f3mano",
+            "cocain\u00f3mano",
+            "marihuanero"
+        ]
+    },
+    "zarco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_zarco__adjetivo__1": [
+            "garzo",
+            "ojizarco"
+        ]
+    },
+    "azul": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_azul__adjetivo__1": [
+            "celeste",
+            "turquesa",
+            "\u00edndigo",
+            "a\u00f1il",
+            "turqu\u00ed"
+        ]
+    },
+    "catal\u00e1n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_catal\u00e1n__adjetivo__1": [
+            "mallorqu\u00edn",
+            "valenciano",
+            "leridano"
+        ]
+    },
+    "chileno": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chileno__adjetivo__1": [
+            "chilote",
+            "santiaguino",
+            "magall\u00e1nico",
+            "sure\u00f1o",
+            "nortino"
+        ]
+    },
+    "est\u00e9ril": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_est\u00e9ril__adjetivo__1": [
+            "\u00e1rido",
+            "impotente",
+            "fr\u00edo",
+            "fr\u00edo",
+            "yermo"
+        ]
+    },
+    "ladr\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ladr\u00f3n__adjetivo__1": [
+            "clept\u00f3mano",
+            "bandolero",
+            "lanza",
+            "bandido",
+            "cogotero"
+        ],
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__ladr\u00f3n__adj__1": [
+            "lanza",
+            "asaltante"
+        ]
+    },
+    "desnudo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_desnudo__adjetivo__1": [
+            "descalzo"
+        ]
+    },
+    "g\u00f3tico": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_g\u00f3tico__adjetivo__1": [
+            "visig\u00f3tico"
+        ]
+    },
+    "hispano": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_hispano__adjetivo__1": [
+            "asturiano",
+            "castellano",
+            "catal\u00e1n",
+            "c\u00e1ntabro",
+            "vasco",
+            "gallego",
+            "murciano",
+            "andaluz",
+            "canario",
+            "navarro",
+            "valenciano",
+            "balear",
+            "madrile\u00f1o",
+            "balear"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_hispano__adjetivo__1": [
+            "b\u00e9tico",
+            "lusitano",
+            "tarraconense"
+        ]
+    },
+    "mapuche": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mapuche__adjetivo__1": [
+            "pehuenche",
+            "abajino",
+            "huilliche"
+        ]
+    },
+    "rojo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_rojo__adjetivo__1": [
+            "comunista",
+            "socialista",
+            "comunista",
+            "comunista",
+            "comunista",
+            "comunista"
+        ]
+    },
+    "reproductor": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_reproductor__adjetivo__1": [
+            "madre",
+            "madre",
+            "madre",
+            "semental",
+            "madre",
+            "madre",
+            "madre",
+            "madre",
+            "madre",
+            "padrillo",
+            "madre"
+        ]
+    },
+    "s\u00fabdito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_s\u00fabdito__adjetivo__1": [
+            "vasallo",
+            "ciudadano"
+        ]
+    },
+    "verde": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_verde__adjetivo__1": [
+            "oliva",
+            "glauco",
+            "oliva"
+        ]
+    },
+    "\u00e1rabe": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_\u00e1rabe__adjetivo__1": [
+            "sarraceno",
+            "sarraceno"
+        ]
+    },
+    "turco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_turco__adjetivo__1": [
+            "turquino",
+            "turqu\u00ed",
+            "turquesco"
+        ]
+    },
+    "acr\u00eddido": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_acr\u00eddido__adjetivo__1": [
+            "chapul\u00edn",
+            "langosta",
+            "saltamontes"
+        ]
+    },
+    "afranjado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_afranjado__adjetivo__1": [
+            "afresado"
+        ]
+    },
+    "afrocaribe\u00f1o": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_afrocaribe\u00f1o__adjetivo__1": [
+            "afrocubano",
+            "afroantillano"
+        ]
+    },
+    "afrodescendiente": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_afrodescendiente__adjetivo__1": [
+            "afrocaribe\u00f1o",
+            "afroamericano",
+            "afrocubano",
+            "afroantillano"
+        ]
+    },
+    "ahorrativo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_ahorrativo__adjetivo__1": [
+            "taca\u00f1o"
+        ]
+    },
+    "antimis\u00f3gino": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_antimis\u00f3gino__adjetivo__1": [
+            "feminista"
+        ]
+    },
+    "bicurioso": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bicurioso__adjetivo__1": [
+            "heterocurioso",
+            "homocurioso"
+        ]
+    },
+    "cuadrangular": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cuadrangular__adjetivo__1": [
+            "cuadrado",
+            "rectangular"
+        ]
+    },
+    "durable": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_durable__adjetivo__1": [
+            "perdurable",
+            "perdurable"
+        ]
+    },
+    "enciclopedista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_enciclopedista__adjetivo__1": [
+            "wikipedista"
+        ]
+    },
+    "espermafito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_espermafito__adjetivo__1": [
+            "gimnospermo"
+        ]
+    },
+    "espermatofito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_espermatofito__adjetivo__1": [
+            "gimnospermo"
+        ]
+    },
+    "espermat\u00f3fito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_espermat\u00f3fito__adjetivo__1": [
+            "gimnospermo"
+        ]
+    },
+    "esperm\u00e1fito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_esperm\u00e1fito__adjetivo__1": [
+            "gimnospermo"
+        ]
+    },
+    "faner\u00f3gamo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_faner\u00f3gamo__adjetivo__1": [
+            "gimnospermo"
+        ]
+    },
+    "geop\u00f3nico": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_geop\u00f3nico__adjetivo__1": [
+            "agr\u00edcola",
+            "agron\u00f3mico"
+        ]
+    },
+    "mamilar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_mamilar__adjetivo__1": [
+            "mamiforme"
+        ]
+    },
+    "monosexual": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_monosexual__adjetivo__1": [
+            "homosexual",
+            "heterosexual"
+        ]
+    },
+    "pansexual": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pansexual__adjetivo__1": [
+            "bisexual"
+        ]
+    },
+    "seronegativo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_seronegativo__adjetivo__1": [
+            "VIH-"
+        ]
+    },
+    "seropositivo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_seropositivo__adjetivo__1": [
+            "VIH+"
+        ]
+    },
+    "roman\u00f3fono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_roman\u00f3fono__adjetivo__1": [
+            "franc\u00f3fono",
+            "franc\u00f3fono",
+            "franc\u00f3fono"
+        ]
+    },
+    "maxilar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_maxilar__adjetivo__1": [
+            "inframaxilar",
+            "intermaxilar",
+            "supramaxilar"
+        ]
+    },
+    "mejicano": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mejicano__adjetivo__1": [
+            "mexiquense",
+            "zapoteco",
+            "yucateco",
+            "hidroc\u00e1lido",
+            "defe\u00f1o",
+            "jalisciense",
+            "jarocho",
+            "quintanarroense",
+            "aguascalentense",
+            "bajacaliforniano",
+            "campechano",
+            "chiapaneco",
+            "chihuahuense",
+            "coahuilense",
+            "colimense",
+            "duranguense",
+            "guanajuatense",
+            "guerrerense",
+            "hidalguense",
+            "michoacano",
+            "morelense",
+            "nayarita",
+            "neoleon\u00e9s",
+            "oaxaque\u00f1o",
+            "poblano",
+            "potosino",
+            "queretano",
+            "sinaloense",
+            "sonorense",
+            "sudcaliforniano",
+            "tabasque\u00f1o",
+            "tamaulipeco",
+            "tlaxcalteca",
+            "veracruzano",
+            "zacatecano",
+            "poblano",
+            "regiomontano"
+        ]
+    },
+    "tehuelche": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_tehuelche__adjetivo__1": [
+            "pampa",
+            "serrano",
+            "pampa",
+            "pampa",
+            "pampa",
+            "aonikenk",
+            "pampa",
+            "puelche",
+            "pampa",
+            "pampa",
+            "pampa",
+            "pampa",
+            "pampa"
+        ]
+    },
+    "promiscuo": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__promiscuo__adj__1": [
+            "homme",
+            "putero",
+            "homme"
+        ]
+    }
+}

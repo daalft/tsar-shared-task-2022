@@ -1,0 +1,5152 @@
+{
+    "aut\u00f3grafo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_aut\u00f3grafo__sustantivo_masculino__1": [
+            "firma"
+        ]
+    },
+    "autotransformador": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_autotransformador__sustantivo_masculino__1": [
+            "transformador"
+        ]
+    },
+    "col\u00edn": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_col\u00edn__sustantivo_masculino__1": [
+            "cola"
+        ]
+    },
+    "mor\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mor\u00f3n__sustantivo_masculino__1": [
+            "colina"
+        ]
+    },
+    "ordinal": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_ordinal__sustantivo_masculino__1": [
+            "numeral"
+        ]
+    },
+    "aparador": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_aparador__sustantivo_masculino__1": [
+            "armario"
+        ]
+    },
+    "miliaria": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_miliaria__sustantivo_femenino__1": [
+            "enfermedad"
+        ]
+    },
+    "colita": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_colita__sustantivo_femenino__1": [
+            "mo\u00f1o"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_colita__sustantivo_femenino__1": [
+            "mo\u00f1o"
+        ]
+    },
+    "congelador": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_congelador__sustantivo_masculino__1": [
+            "electrodom\u00e9stico"
+        ]
+    },
+    "tolondr\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_tolondr\u00f3n__sustantivo_masculino__1": [
+            "hinchaz\u00f3n",
+            "bulto"
+        ]
+    },
+    "temblador": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_temblador__sustantivo_masculino__1": [
+            "raya"
+        ]
+    },
+    "Anuros": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_Anuros__sustantivo_masculino__1": [
+            "Anfibios"
+        ]
+    },
+    "LSD": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_LSD__sustantivo_masculino__1": [
+            "psicotr\u00f3pico",
+            "psicoactivo",
+            "droga"
+        ]
+    },
+    "Prehistoria": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_Prehistoria__sustantivo_femenino__1": [
+            "Historia"
+        ]
+    },
+    "Urodelos": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_Urodelos__sustantivo_masculino__1": [
+            "Anfibios"
+        ]
+    },
+    "abacora": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_abacora__sustantivo_femenino__1": [
+            "pez"
+        ]
+    },
+    "ablactancia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ablactancia__sustantivo_femenino__1": [
+            "alimentaci\u00f3n",
+            "comida",
+            "nutrici\u00f3n"
+        ]
+    },
+    "abac\u00e1": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_abac\u00e1__sustantivo_masculino__1": [
+            "planta"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_abac\u00e1__sustantivo_masculino__1": [
+            "tela"
+        ]
+    },
+    "abad": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_abad__sustantivo_masculino__1": [
+            "cole\u00f3ptero",
+            "insecto",
+            "artr\u00f3podo"
+        ]
+    },
+    "abeja": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_abeja__sustantivo_femenino__1": [
+            "insecto"
+        ],
+        "NOT_A_SYNSET": [
+            "insecto",
+            "himen\u00f3ptero"
+        ]
+    },
+    "abreviatura": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_abreviatura__sustantivo_femenino__1": [
+            "abreviaci\u00f3n"
+        ]
+    },
+    "acantilado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_acantilado__sustantivo_masculino__1": [
+            "barranco",
+            "escarpe"
+        ]
+    },
+    "acr\u00f3nimo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_acr\u00f3nimo__sustantivo_masculino__1": [
+            "sigla"
+        ]
+    },
+    "acoplado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_acoplado__sustantivo_masculino__1": [
+            "remolque"
+        ]
+    },
+    "afijo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_afijo__sustantivo_masculino__1": [
+            "morfema"
+        ]
+    },
+    "adivinaja": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_adivinaja__sustantivo_femenino__1": [
+            "juego",
+            "pasatiempo"
+        ]
+    },
+    "adscripto": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_adscripto__sustantivo_masculino__1": [
+            "ayudante",
+            "asistente"
+        ]
+    },
+    "adivinanza": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_adivinanza__sustantivo_femenino__1": [
+            "pasatiempo",
+            "juego"
+        ]
+    },
+    "aerodino": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aerodino__sustantivo_masculino__1": [
+            "aeronave"
+        ]
+    },
+    "aerostato": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aerostato__sustantivo_masculino__1": [
+            "aeronave"
+        ]
+    },
+    "aer\u00f3stato": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aer\u00f3stato__sustantivo_masculino__1": [
+            "aeronave"
+        ]
+    },
+    "agasajo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_agasajo__sustantivo_masculino__1": [
+            "refresco",
+            "colaci\u00f3n"
+        ]
+    },
+    "aerolito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aerolito__sustantivo_masculino__1": [
+            "meteorito"
+        ]
+    },
+    "aerom\u00f3vil": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aerom\u00f3vil__sustantivo_masculino__1": [
+            "globo",
+            "avi\u00f3n",
+            "helic\u00f3ptero"
+        ]
+    },
+    "agmatosploidia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_agmatosploidia__sustantivo_femenino__1": [
+            "disploidia"
+        ]
+    },
+    "ag\u00fcista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ag\u00fcista__sustantivo_femenino_y_masculino__1": [
+            "ba\u00f1ista"
+        ]
+    },
+    "agrio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_7_agrio__sustantivo_masculino__1": [
+            "jugo",
+            "zumo"
+        ]
+    },
+    "aguarr\u00e1s": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aguarr\u00e1s__sustantivo_masculino__1": [
+            "aceite"
+        ]
+    },
+    "aguatinta": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_aguatinta__sustantivo_femenino__1": [
+            "grabado"
+        ]
+    },
+    "ajenabe": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ajenabe__sustantivo_femenino__1": [
+            "mostaza"
+        ]
+    },
+    "albaricoque": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_albaricoque__sustantivo_masculino__1": [
+            "ciruela"
+        ]
+    },
+    "alectomancia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_alectomancia__sustantivo_femenino__1": [
+            "m\u00e1ntica",
+            "esoterismo"
+        ]
+    },
+    "alectomanc\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_alectomanc\u00eda__sustantivo_femenino__1": [
+            "m\u00e1ntica"
+        ]
+    },
+    "albarrada": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_albarrada__sustantivo_femenino__1": [
+            "bancal",
+            "parata"
+        ]
+    },
+    "almid\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_almid\u00f3n__sustantivo_masculino__1": [
+            "az\u00facar",
+            "polisac\u00e1rido"
+        ]
+    },
+    "amasijo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_amasijo__sustantivo_masculino__1": [
+            "masa"
+        ]
+    },
+    "amero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_amero__sustantivo_masculino__2": [
+            "c\u00e1scara"
+        ]
+    },
+    "antracosis": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_antracosis__sustantivo_femenino__1": [
+            "neumoconiosis"
+        ]
+    },
+    "andesina": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_andesina__sustantivo_femenino__1": [
+            "plagioclasa",
+            "roca",
+            "erupci\u00f3n",
+            "lava",
+            "f\u00e9lsico",
+            "magma",
+            "silicato",
+            "feldespato",
+            "vulcanismo"
+        ]
+    },
+    "angloamericanismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_angloamericanismo__sustantivo_masculino__1": [
+            "americanismo"
+        ]
+    },
+    "antisepsia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_antisepsia__sustantivo_femenino__1": [
+            "desinfecci\u00f3n"
+        ]
+    },
+    "antropotom\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_antropotom\u00eda__sustantivo_femenino__1": [
+            "antropolog\u00eda",
+            "zootom\u00eda"
+        ]
+    },
+    "anime": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_anime__sustantivo_masculino__1": [
+            "goma",
+            "resina"
+        ]
+    },
+    "andesita": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_andesita__sustantivo_femenino__1": [
+            "lava",
+            "erupci\u00f3n",
+            "roca",
+            "vulcanismo",
+            "magma",
+            "f\u00e9lsico"
+        ]
+    },
+    "ap\u00f3copa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ap\u00f3copa__sustantivo_femenino__1": [
+            "metaplasmo"
+        ]
+    },
+    "arasar\u00ed": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_arasar\u00ed__sustantivo_masculino__1": [
+            "tuc\u00e1n"
+        ]
+    },
+    "apofon\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_apofon\u00eda__sustantivo_femenino__1": [
+            "metaplasmo"
+        ]
+    },
+    "ara\u00f1a": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ara\u00f1a__sustantivo_femenino__1": [
+            "artr\u00f3podo",
+            "ar\u00e1cnido"
+        ]
+    },
+    "ap\u00f3cope": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ap\u00f3cope__sustantivo_femenino__1": [
+            "metaplasmo"
+        ]
+    },
+    "apendicolito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_apendicolito__sustantivo_masculino__1": [
+            "coprolito"
+        ]
+    },
+    "arroz": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_arroz__sustantivo_masculino__1": [
+            "cereal"
+        ]
+    },
+    "aruspicina": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aruspicina__sustantivo_femenino__1": [
+            "m\u00e1ntica"
+        ]
+    },
+    "argucia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_argucia__sustantivo_femenino__1": [
+            "estratagema"
+        ]
+    },
+    "arteriograf\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_arteriograf\u00eda__sustantivo_femenino__1": [
+            "radiograf\u00eda"
+        ]
+    },
+    "armigero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_armigero__sustantivo_masculino__1": [
+            "escudero"
+        ]
+    },
+    "arco\u00edris": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_arco\u00edris__sustantivo_masculino__1": [
+            "arco"
+        ]
+    },
+    "aroma": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aroma__sustantivo_masculino__1": [
+            "vaho",
+            "efluvio",
+            "olor"
+        ]
+    },
+    "arca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_arca__sustantivo_femenino__1": [
+            "nave"
+        ]
+    },
+    "astrocito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_astrocito__sustantivo_masculino__1": [
+            "neurona"
+        ]
+    },
+    "astil": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_astil__sustantivo_masculino__1": [
+            "mango"
+        ]
+    },
+    "atenuaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_atenuaci\u00f3n__sustantivo_femenino__1": [
+            "per\u00edfrasis",
+            "tropo"
+        ]
+    },
+    "bachata": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_bachata__sustantivo_femenino__1": [
+            "bolero"
+        ]
+    },
+    "aviador": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aviador__sustantivo_masculino__1": [
+            "tripulante",
+            "aeronauta"
+        ]
+    },
+    "aut\u00f3nimo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aut\u00f3nimo__sustantivo_masculino__1": [
+            "autoglot\u00f3nimo"
+        ]
+    },
+    "a\u00f1ojo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_a\u00f1ojo__sustantivo_masculino__1": [
+            "a\u00f1ino",
+            "a\u00f1al"
+        ]
+    },
+    "bac\u00edn": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_bac\u00edn__sustantivo_masculino__1": [
+            "orinal"
+        ]
+    },
+    "autopista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_autopista__sustantivo_femenino__1": [
+            "v\u00eda",
+            "carretera"
+        ]
+    },
+    "avi\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_avi\u00f3n__sustantivo_masculino__2": [
+            "aeronave"
+        ]
+    },
+    "aver\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aver\u00eda__sustantivo_femenino__1": [
+            "criadero"
+        ]
+    },
+    "azal\u00e1": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_azal\u00e1__sustantivo_femenino__1": [
+            "ruego",
+            "s\u00faplica",
+            "oraci\u00f3n"
+        ]
+    },
+    "barcaza": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_barcaza__sustantivo_femenino__1": [
+            "lancha"
+        ]
+    },
+    "bar\u00f3metro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bar\u00f3metro__sustantivo_masculino__1": [
+            "indicador",
+            "\u00edndice"
+        ]
+    },
+    "barbarismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_barbarismo__sustantivo_masculino__1": [
+            "extranjerismo",
+            "pr\u00e9stamo"
+        ]
+    },
+    "bastimento": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_bastimento__sustantivo_masculino__1": [
+            "encomienda"
+        ]
+    },
+    "bardo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bardo__sustantivo_masculino__1": [
+            "poeta"
+        ]
+    },
+    "bibliomancia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bibliomancia__sustantivo_femenino__1": [
+            "m\u00e1ntica",
+            "esoterismo"
+        ]
+    },
+    "bibliomanc\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bibliomanc\u00eda__sustantivo_femenino__1": [
+            "m\u00e1ntica"
+        ]
+    },
+    "bipartici\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bipartici\u00f3n__sustantivo_femenino__1": [
+            "partici\u00f3n"
+        ]
+    },
+    "bistec": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bistec__sustantivo_masculino__1": [
+            "filete"
+        ]
+    },
+    "bist\u00e9": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bist\u00e9__sustantivo_masculino__1": [
+            "filete"
+        ]
+    },
+    "boleteo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_boleteo__sustantivo_masculino__1": [
+            "extorsi\u00f3n"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_boleteo__sustantivo_masculino__1": [
+            "remuneraci\u00f3n"
+        ]
+    },
+    "bermudas": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bermudas__sustantivo_femenino_y_masculino__1": [
+            "pantal\u00f3n"
+        ]
+    },
+    "bong\u00f3": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bong\u00f3__sustantivo_masculino__1": [
+            "tambor"
+        ]
+    },
+    "brevete": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_brevete__sustantivo_masculino__1": [
+            "licencia",
+            "permiso"
+        ]
+    },
+    "breviario": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_breviario__sustantivo_masculino__1": [
+            "compendio",
+            "abreviaci\u00f3n"
+        ]
+    },
+    "bongo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bongo__sustantivo_masculino__1": [
+            "canoa",
+            "embarcaci\u00f3n"
+        ]
+    },
+    "bombilla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_bombilla__sustantivo_femenino__1": [
+            "cardo"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_bombilla__sustantivo_femenino__1": [
+            "cardo"
+        ]
+    },
+    "bong": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bong__sustantivo_masculino__1": [
+            "pipa"
+        ]
+    },
+    "boya": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_boya__sustantivo_femenino__1": [
+            "baliza"
+        ]
+    },
+    "breve": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6_breve__sustantivo_masculino__1": [
+            "diacr\u00edtico"
+        ]
+    },
+    "brinco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_brinco__sustantivo_masculino__1": [
+            "joyel"
+        ]
+    },
+    "busera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_busera__sustantivo_femenino__1": [
+            "chofer"
+        ]
+    },
+    "busero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_busero__sustantivo_masculino__1": [
+            "chofer",
+            "conductor"
+        ]
+    },
+    "buz": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_buz__sustantivo_masculino__1": [
+            "beso"
+        ]
+    },
+    "cahuel": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cahuel__sustantivo_masculino__1": [
+            "delf\u00edn"
+        ]
+    },
+    "b\u00f3xer": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_b\u00f3xer__sustantivo_masculino__1": [
+            "calzoncillo"
+        ]
+    },
+    "bulto": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_bulto__sustantivo_masculino__1": [
+            "escultura",
+            "busto",
+            "estatua"
+        ]
+    },
+    "cabro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_cabro__sustantivo_masculino__1": [
+            "overo"
+        ]
+    },
+    "cacha\u00f1a": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_cacha\u00f1a__sustantivo_femenino__1": [
+            "loro"
+        ]
+    },
+    "bucanero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bucanero__sustantivo_masculino__1": [
+            "pirata"
+        ]
+    },
+    "cafetal": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cafetal__sustantivo_masculino__1": [
+            "plant\u00edo",
+            "cultivo",
+            "campo",
+            "plantaci\u00f3n"
+        ]
+    },
+    "caja": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_caja__sustantivo_femenino__1": [
+            "tambor"
+        ]
+    },
+    "cala": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cala__sustantivo_femenino__1": [
+            "ensenada",
+            "bah\u00eda"
+        ]
+    },
+    "caiqu\u00e9n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_caiqu\u00e9n__sustantivo_masculino__1": [
+            "ganso"
+        ]
+    },
+    "callampa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_callampa__sustantivo_femenino__1": [
+            "hongo"
+        ]
+    },
+    "canqu\u00e9n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_canqu\u00e9n__sustantivo_masculino__1": [
+            "ganso"
+        ]
+    },
+    "cama": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cama__sustantivo_femenino__1": [
+            "dormitorio"
+        ]
+    },
+    "campamento": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_campamento__sustantivo_masculino__1": [
+            "asentamiento"
+        ]
+    },
+    "carnerera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_carnerera__sustantivo_femenino__1": [
+            "pastora"
+        ]
+    },
+    "carnerero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_carnerero__sustantivo_masculino__1": [
+            "pastor"
+        ]
+    },
+    "capnomancia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_capnomancia__sustantivo_femenino__1": [
+            "m\u00e1ntica",
+            "esoterismo"
+        ]
+    },
+    "capnomanc\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_capnomanc\u00eda__sustantivo_femenino__1": [
+            "m\u00e1ntica"
+        ]
+    },
+    "cartomancia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cartomancia__sustantivo_femenino__1": [
+            "esoterismo",
+            "m\u00e1ntica"
+        ]
+    },
+    "cartomanc\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cartomanc\u00eda__sustantivo_femenino__1": [
+            "m\u00e1ntica"
+        ]
+    },
+    "carabinero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_carabinero__sustantivo_masculino__1": [
+            "polic\u00eda"
+        ]
+    },
+    "carpanta": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_carpanta__sustantivo_femenino__1": [
+            "apetito",
+            "hambre"
+        ]
+    },
+    "capullo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_capullo__sustantivo_masculino__1": [
+            "pupa"
+        ]
+    },
+    "caranca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_caranca__sustantivo_femenino__1": [
+            "ganso"
+        ]
+    },
+    "cardi\u00f3loga": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cardi\u00f3loga__sustantivo_femenino__1": [
+            "m\u00e9dico"
+        ]
+    },
+    "cardi\u00f3logo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cardi\u00f3logo__sustantivo_masculino__1": [
+            "m\u00e9dico"
+        ]
+    },
+    "carretera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_carretera__sustantivo_femenino__1": [
+            "v\u00eda",
+            "camino"
+        ]
+    },
+    "carrinca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_carrinca__sustantivo_femenino__1": [
+            "veh\u00edculo",
+            "trineo"
+        ]
+    },
+    "carmes\u00ed": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_carmes\u00ed__sustantivo_masculino__1": [
+            "rojo"
+        ]
+    },
+    "carda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_carda__sustantivo_femenino__1": [
+            "cardo"
+        ]
+    },
+    "cardencha": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cardencha__sustantivo_femenino__1": [
+            "cardo"
+        ]
+    },
+    "caracucha": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_caracucha__sustantivo_masculino__1": [
+            "pinatra",
+            "dihue\u00f1e"
+        ]
+    },
+    "cauca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cauca__sustantivo_masculino__1": [
+            "forraje"
+        ]
+    },
+    "cat\u00e1fora": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cat\u00e1fora__sustantivo_femenino__1": [
+            "deixis"
+        ]
+    },
+    "ca\u00f1a": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_ca\u00f1a__sustantivo_femenino__1": [
+            "aguardiente"
+        ]
+    },
+    "catalanismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_catalanismo__sustantivo_masculino__1": [
+            "barbarismo",
+            "extranjerismo",
+            "idiotismo"
+        ]
+    },
+    "chalilo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_chalilo__sustantivo_masculino__1": [
+            "perra pelada"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chalilo__sustantivo_masculino__1": [
+            "carnaval"
+        ]
+    },
+    "chalupa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chalupa__sustantivo_femenino__1": [
+            "bote",
+            "lancha"
+        ]
+    },
+    "champ\u00fas": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_champ\u00fas__sustantivo_masculino__1": [
+            "refresco"
+        ]
+    },
+    "chilenito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chilenito__sustantivo_masculino__1": [
+            "alfajor"
+        ]
+    },
+    "champuz": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_champuz__sustantivo_masculino__1": [
+            "colada"
+        ]
+    },
+    "champa\u00f1a": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_champa\u00f1a__sustantivo_masculino__1": [
+            "vino"
+        ]
+    },
+    "chancha": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_chancha__sustantivo_femenino__1": [
+            "empanada"
+        ]
+    },
+    "chilocuil": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chilocuil__sustantivo_masculino__1": [
+            "lepid\u00f3ptero",
+            "insecto",
+            "polilla"
+        ]
+    },
+    "cesi\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cesi\u00f3n__sustantivo_femenino__2": [
+            "calentura",
+            "fiebre"
+        ]
+    },
+    "chaleca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chaleca__sustantivo_masculino__1": [
+            "abrigo",
+            "ropa"
+        ]
+    },
+    "chasqui": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chasqui__sustantivo_masculino__1": [
+            "correo"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_chasqui__sustantivo_masculino__1": [
+            "correo"
+        ]
+    },
+    "chilc\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chilc\u00f3n__sustantivo_masculino__1": [
+            "fucsia"
+        ]
+    },
+    "chaspe": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chaspe__sustantivo_masculino__1": [
+            "se\u00f1al",
+            "marca"
+        ]
+    },
+    "chambrana": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chambrana__sustantivo_femenino__1": [
+            "friso",
+            "paramento"
+        ]
+    },
+    "chape": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_chape__sustantivo_masculino__1": [
+            "gaster\u00f3podo"
+        ]
+    },
+    "champola": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_champola__sustantivo_femenino__1": [
+            "jugo",
+            "zumo",
+            "refresco"
+        ]
+    },
+    "chanchito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_chanchito__sustantivo_masculino__1": [
+            "hucha",
+            "alcanc\u00eda"
+        ]
+    },
+    "chenque": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chenque__sustantivo_masculino__1": [
+            "t\u00famulo"
+        ]
+    },
+    "chungo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_chungo__sustantivo_masculino__1": [
+            "amante"
+        ]
+    },
+    "chuleta": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_7_chuleta__sustantivo_femenino__1": [
+            "patada"
+        ]
+    },
+    "chuspa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chuspa__sustantivo_femenino__1": [
+            "bolsa"
+        ]
+    },
+    "chupamieles": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6_chupamieles__sustantivo_masculino__1": [
+            "digital"
+        ]
+    },
+    "chinicuil": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chinicuil__sustantivo_masculino__1": [
+            "lepid\u00f3ptero",
+            "insecto",
+            "polilla"
+        ]
+    },
+    "chorizo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chorizo__sustantivo_masculino__2": [
+            "delincuente"
+        ]
+    },
+    "chocolatera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chocolatera__sustantivo_femenino__1": [
+            "vasija",
+            "utensilio",
+            "vajilla"
+        ]
+    },
+    "chocolateras": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chocolateras__sustantivo_femenino__1": [
+            "primavera"
+        ]
+    },
+    "chocolatero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_chocolatero__sustantivo_masculino__1": [
+            "vasija",
+            "utensilio",
+            "vajilla"
+        ]
+    },
+    "chorito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chorito__sustantivo_masculino__1": [
+            "choro",
+            "mit\u00edlido"
+        ]
+    },
+    "churrasco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_churrasco__sustantivo_masculino__1": [
+            "s\u00e1ndwich"
+        ]
+    },
+    "chora": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chora__sustantivo_femenino__1": [
+            "molusco",
+            "marisco"
+        ]
+    },
+    "choreo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_choreo__sustantivo_masculino__1": [
+            "robo"
+        ]
+    },
+    "chucao de la Mocha": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chucao_de_la_Mocha__sustantivo_masculino__1": [
+            "chucao"
+        ]
+    },
+    "chirlo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_chirlo__sustantivo_masculino__1": [
+            "cicatriz"
+        ]
+    },
+    "choriza": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_choriza__sustantivo_femenino__1": [
+            "delincuente"
+        ]
+    },
+    "ch\u00faa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ch\u00faa__sustantivo_femenino__1": [
+            "larva"
+        ]
+    },
+    "cirujano": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cirujano__sustantivo_masculino__1": [
+            "m\u00e9dico"
+        ]
+    },
+    "cocacola": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cocacola__sustantivo_femenino__1": [
+            "gaseosa"
+        ]
+    },
+    "cohip\u00f3nimo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cohip\u00f3nimo__sustantivo_masculino__1": [
+            "hip\u00f3nimo"
+        ]
+    },
+    "coche": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_coche__sustantivo_masculino__1": [
+            "veh\u00edculo"
+        ]
+    },
+    "cohecho": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cohecho__sustantivo_masculino__1": [
+            "soborno"
+        ]
+    },
+    "climacofobia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_climacofobia__sustantivo_femenino__1": [
+            "batmofobia"
+        ]
+    },
+    "clamidia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_clamidia__sustantivo_femenino__1": [
+            "bacteria"
+        ]
+    },
+    "coca-cola": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_coca-cola__sustantivo_femenino__1": [
+            "gaseosa"
+        ]
+    },
+    "cogotero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cogotero__sustantivo_masculino__1": [
+            "ladr\u00f3n"
+        ]
+    },
+    "colocolo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_colocolo__sustantivo_masculino__1": [
+            "gato mont\u00e9s"
+        ]
+    },
+    "comistrajo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_comistrajo__sustantivo_masculino__1": [
+            "mezcolanza"
+        ]
+    },
+    "comensal": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_comensal__sustantivo_femenino_y_masculino__1": [
+            "simbiosis",
+            "hu\u00e9sped"
+        ]
+    },
+    "columbia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_columbia__sustantivo_femenino__1": [
+            "rumba"
+        ]
+    },
+    "comod\u00edn": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_comod\u00edn__sustantivo_masculino__1": [
+            "carta",
+            "naipe"
+        ]
+    },
+    "compost": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_compost__sustantivo_masculino__1": [
+            "fertilizante"
+        ]
+    },
+    "colina": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_colina__sustantivo_femenino__1": [
+            "alto",
+            "accidente",
+            "eminencia"
+        ]
+    },
+    "comunicaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_7_comunicaci\u00f3n__sustantivo_femenino__1": [
+            "tropo"
+        ]
+    },
+    "collado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_collado__sustantivo_masculino__1": [
+            "elevaci\u00f3n",
+            "eminencia",
+            "accidente"
+        ]
+    },
+    "congerie": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_congerie__sustantivo_femenino__1": [
+            "acumulaci\u00f3n"
+        ]
+    },
+    "congeries": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_congeries__sustantivo_femenino__1": [
+            "acumulaci\u00f3n"
+        ]
+    },
+    "concordia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_concordia__sustantivo_femenino__1": [
+            "argolla",
+            "sortija",
+            "anillo"
+        ]
+    },
+    "contracultura": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_contracultura__sustantivo_femenino__1": [
+            "cultura"
+        ]
+    },
+    "cosquillas": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_cosquillas__sustantivo_femenino__1": [
+            "tacto",
+            "sentido",
+            "sensibilidad"
+        ]
+    },
+    "cortometraje": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cortometraje__sustantivo_masculino__1": [
+            "metraje"
+        ]
+    },
+    "cotero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cotero__sustantivo_masculino__1": [
+            "eminencia"
+        ]
+    },
+    "cormo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_cormo__sustantivo_masculino__1": [
+            "papa"
+        ]
+    },
+    "cuchich\u00ed": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cuchich\u00ed__sustantivo_masculino__1": [
+            "trino",
+            "canto"
+        ]
+    },
+    "crol": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_crol__sustantivo_masculino__1": [
+            "nataci\u00f3n"
+        ]
+    },
+    "criada": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_criada__sustantivo_femenino__1": [
+            "servidumbre"
+        ]
+    },
+    "criofobia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_criofobia__sustantivo_femenino__1": [
+            "queimafobia",
+            "frigofobia",
+            "psicrofobia",
+            "queimatofobia"
+        ]
+    },
+    "cucule": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cucule__sustantivo_femenino__1": [
+            "t\u00f3rtola"
+        ]
+    },
+    "cruce": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_cruce__sustantivo_masculino__1": [
+            "interferencia"
+        ]
+    },
+    "cuadra": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cuadra__sustantivo_femenino__1": [
+            "establo"
+        ]
+    },
+    "cucha": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cucha__sustantivo__1": [
+            "colecta"
+        ]
+    },
+    "cuita": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cuita__sustantivo_femenino__2": [
+            "esti\u00e9rcol"
+        ]
+    },
+    "culatero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_culatero__sustantivo_masculino__1": [
+            "punga",
+            "carterista"
+        ]
+    },
+    "curvas": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_curvas__sustantivo_femenino__1": [
+            "silueta"
+        ]
+    },
+    "cultivadora": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cultivadora__sustantivo_femenino__1": [
+            "arado",
+            "rastra"
+        ]
+    },
+    "cuncuna": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cuncuna__sustantivo_femenino__1": [
+            "larva"
+        ]
+    },
+    "decenio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_decenio__sustantivo_masculino__1": [
+            "siglo",
+            "milenio"
+        ]
+    },
+    "delf\u00edn": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_delf\u00edn__sustantivo_masculino__1": [
+            "cet\u00e1ceo"
+        ]
+    },
+    "decibelio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_decibelio__sustantivo_masculino__1": [
+            "bel",
+            "belio"
+        ]
+    },
+    "decoupage": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_decoupage__sustantivo_masculino__1": [
+            "artesan\u00eda"
+        ]
+    },
+    "decibel": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_decibel__sustantivo_masculino__1": [
+            "bel",
+            "belio"
+        ]
+    },
+    "dedalera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_dedalera__sustantivo_femenino__1": [
+            "digital"
+        ]
+    },
+    "destral": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_destral__sustantivo_masculino__1": [
+            "hacha"
+        ]
+    },
+    "diamantista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_diamantista__sustantivo_femenino_y_masculino__1": [
+            "artesano",
+            "joyero"
+        ]
+    },
+    "dilog\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_dilog\u00eda__sustantivo_femenino__1": [
+            "ambig\u00fcedad"
+        ]
+    },
+    "dodec\u00e1gono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_dodec\u00e1gono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "diuc\u00f3n de Chilo\u00e9": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_diuc\u00f3n_de_Chilo\u00e9__sustantivo_masculino__1": [
+            "diuc\u00f3n"
+        ]
+    },
+    "d\u00edmer": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_d\u00edmer__sustantivo_masculino__1": [
+            "luz"
+        ]
+    },
+    "domo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_domo__sustantivo_masculino__1": [
+            "b\u00f3veda"
+        ]
+    },
+    "d\u00f3lar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_23_d\u00f3lar__sustantivo_masculino__1": [
+            "moneda",
+            "billete",
+            "divisa"
+        ]
+    },
+    "dragona": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_dragona__sustantivo_femenino__1": [
+            "fiador"
+        ]
+    },
+    "distracci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_distracci\u00f3n__sustantivo_femenino__1": [
+            "perturbaci\u00f3n"
+        ]
+    },
+    "econ\u00f3metra": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_econ\u00f3metra__sustantivo_femenino_y_masculino__1": [
+            "economista"
+        ]
+    },
+    "ecotopo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ecotopo__sustantivo_masculino__1": [
+            "ecosistema",
+            "h\u00e1bitat"
+        ]
+    },
+    "egagr\u00f3pila": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_egagr\u00f3pila__sustantivo_femenino__1": [
+            "ovillo"
+        ]
+    },
+    "eleg\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_eleg\u00eda__sustantivo_femenino__1": [
+            "poema"
+        ]
+    },
+    "ene\u00e1gono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ene\u00e1gono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "empr\u00e9stito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_empr\u00e9stito__sustantivo_masculino__1": [
+            "pr\u00e9stamo"
+        ]
+    },
+    "endodoncia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_endodoncia__sustantivo_femenino__1": [
+            "odontolog\u00eda"
+        ]
+    },
+    "encierro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_encierro__sustantivo_masculino__1": [
+            "protesta"
+        ]
+    },
+    "empedrado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_empedrado__sustantivo_masculino__1": [
+            "pavimento"
+        ]
+    },
+    "empresa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_empresa__sustantivo_femenino__1": [
+            "negocio"
+        ]
+    },
+    "ensayista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ensayista__sustantivo_femenino_y_masculino__1": [
+            "escritor"
+        ]
+    },
+    "enlucido": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_enlucido__sustantivo_masculino__1": [
+            "revestimiento",
+            "recubrimiento"
+        ]
+    },
+    "entablado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_entablado__sustantivo_masculino__1": [
+            "entabladura",
+            "entable"
+        ]
+    },
+    "escarcha": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_escarcha__sustantivo_femenino__1": [
+            "helada"
+        ]
+    },
+    "escultor": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_escultor__sustantivo_masculino__1": [
+            "artista"
+        ]
+    },
+    "escultora": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_escultora__sustantivo_femenino__1": [
+            "artista"
+        ]
+    },
+    "escaldo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_escaldo__sustantivo_masculino__1": [
+            "poeta"
+        ]
+    },
+    "escocia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_escocia__sustantivo_femenino__1": [
+            "moldura"
+        ]
+    },
+    "enunciado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_enunciado__sustantivo_masculino__1": [
+            "sintagma"
+        ]
+    },
+    "escritor": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_escritor__sustantivo_masculino__1": [
+            "creador",
+            "artista",
+            "autor"
+        ]
+    },
+    "escritora": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_escritora__sustantivo_femenino__1": [
+            "autora",
+            "creadora"
+        ]
+    },
+    "ep\u00e9ntesis": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ep\u00e9ntesis__sustantivo_femenino__1": [
+            "metaplasmo"
+        ]
+    },
+    "ep\u00edmone": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ep\u00edmone__sustantivo_femenino__1": [
+            "elocuci\u00f3n",
+            "acumulaci\u00f3n"
+        ]
+    },
+    "eritema": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_eritema__sustantivo_masculino__1": [
+            "enfermedad"
+        ]
+    },
+    "eritrodermia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_eritrodermia__sustantivo_femenino__1": [
+            "enfermedad"
+        ]
+    },
+    "esclerodermia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_esclerodermia__sustantivo_femenino__1": [
+            "enfermedad"
+        ]
+    },
+    "esgrafiado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_esgrafiado__sustantivo_masculino__1": [
+            "decoraci\u00f3n",
+            "grabado"
+        ]
+    },
+    "escalofr\u00edo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_escalofr\u00edo__sustantivo_masculino__1": [
+            "temblor",
+            "tiemblo"
+        ]
+    },
+    "espasmofemia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_espasmofemia__sustantivo_femenino__1": [
+            "disfemia"
+        ]
+    },
+    "esperanza": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_esperanza__sustantivo_femenino__1": [
+            "sentimiento"
+        ]
+    },
+    "eslogan": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_eslogan__sustantivo_masculino__1": [
+            "paremia"
+        ]
+    },
+    "estadista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_estadista__sustantivo_femenino_y_masculino__1": [
+            "pol\u00edtico"
+        ]
+    },
+    "espinillo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_espinillo__sustantivo_masculino__1": [
+            "aliaga",
+            "aulaga"
+        ]
+    },
+    "espiche": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_espiche__sustantivo_masculino__1": [
+            "clavija"
+        ]
+    },
+    "estambre": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_estambre__sustantivo_masculino__1": [
+            "androceo"
+        ]
+    },
+    "espina": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_8_espina__sustantivo_femenino__1": [
+            "ap\u00f3fisis"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_espina__sustantivo_femenino__1": [
+            "p\u00faa",
+            "punta"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_espina__sustantivo_femenino__1": [
+            "astilla"
+        ]
+    },
+    "estudiantina": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_estudiantina__sustantivo_femenino__1": [
+            "tuna"
+        ]
+    },
+    "est\u00edo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_est\u00edo__sustantivo_masculino__1": [
+            "estaci\u00f3n"
+        ]
+    },
+    "etopeya": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_etopeya__sustantivo_femenino__1": [
+            "ret\u00f3rica",
+            "estil\u00edstica",
+            "descripci\u00f3n"
+        ]
+    },
+    "exhibicionismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_exhibicionismo__sustantivo_masculino__1": [
+            "man\u00eda",
+            "perversi\u00f3n"
+        ]
+    },
+    "exoespacio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_exoespacio__sustantivo_masculino__1": [
+            "espacio"
+        ]
+    },
+    "estrella": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_estrella__sustantivo_femenino__1": [
+            "astro"
+        ]
+    },
+    "estrena": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_estrena__sustantivo_femenino__1": [
+            "obsequio",
+            "regalo",
+            "presente"
+        ]
+    },
+    "expresionismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_expresionismo__sustantivo_masculino__1": [
+            "vanguardismo"
+        ]
+    },
+    "exclamaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_exclamaci\u00f3n__sustantivo_femenino__1": [
+            "tropo"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_exclamaci\u00f3n__sustantivo_femenino__1": [
+            "puntuaci\u00f3n"
+        ]
+    },
+    "extenuaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_extenuaci\u00f3n__sustantivo_femenino__1": [
+            "per\u00edfrasis",
+            "tropo"
+        ]
+    },
+    "farmacia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_farmacia__sustantivo_femenino__1": [
+            "edificio",
+            "tienda",
+            "negocio"
+        ]
+    },
+    "flechaste": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_flechaste__sustantivo_masculino__1": [
+            "flechadura"
+        ]
+    },
+    "formadura": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_formadura__sustantivo_femenino__1": [
+            "forma"
+        ]
+    },
+    "fonem\u00e1tica": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_fonem\u00e1tica__sustantivo_femenino__1": [
+            "fonolog\u00eda"
+        ]
+    },
+    "fideo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_fideo__sustantivo_masculino__1": [
+            "masa",
+            "pasta"
+        ]
+    },
+    "fitotom\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_fitotom\u00eda__sustantivo_femenino__1": [
+            "anatom\u00eda",
+            "bot\u00e1nica"
+        ]
+    },
+    "flagelo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_flagelo__sustantivo_masculino__1": [
+            "oleaje"
+        ]
+    },
+    "futurismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_futurismo__sustantivo_masculino__1": [
+            "vanguardismo"
+        ]
+    },
+    "frey": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_frey__sustantivo_masculino__1": [
+            "fray"
+        ]
+    },
+    "gach\u00ed": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_gach\u00ed__sustantivo_femenino__1": [
+            "hembra"
+        ]
+    },
+    "fototipia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_fototipia__sustantivo_femenino__1": [
+            "impresi\u00f3n"
+        ]
+    },
+    "franja": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_franja__sustantivo_femenino__1": [
+            "guarnici\u00f3n"
+        ]
+    },
+    "frontispicio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_frontispicio__sustantivo_masculino__1": [
+            "ilustraci\u00f3n",
+            "dibujo"
+        ]
+    },
+    "fr\u00edjol": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_fr\u00edjol__sustantivo_masculino__1": [
+            "legumbre"
+        ]
+    },
+    "gab\u00e1n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_gab\u00e1n__sustantivo_masculino__1": [
+            "abrigo"
+        ]
+    },
+    "galapaguera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_galapaguera__sustantivo_femenino__1": [
+            "terrario"
+        ]
+    },
+    "gato colocolo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_gato_colocolo__sustantivo_masculino__1": [
+            "gato mont\u00e9s"
+        ]
+    },
+    "giroplano": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_giroplano__sustantivo_masculino__1": [
+            "aeronave"
+        ]
+    },
+    "gallipato": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_gallipato__sustantivo_masculino__1": [
+            "trit\u00f3n"
+        ]
+    },
+    "galicismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_galicismo__sustantivo_masculino__1": [
+            "barbarismo",
+            "extranjerismo",
+            "idiotismo"
+        ]
+    },
+    "garrafa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_garrafa__sustantivo_femenino__1": [
+            "botella"
+        ]
+    },
+    "glacis": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_glacis__sustantivo_masculino__1": [
+            "explanada"
+        ]
+    },
+    "gesto": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_gesto__sustantivo_masculino__1": [
+            "hecho",
+            "acto",
+            "acci\u00f3n"
+        ]
+    },
+    "gramema": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_gramema__sustantivo_masculino__1": [
+            "morfema"
+        ]
+    },
+    "globo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_globo__sustantivo_masculino__1": [
+            "aerostato"
+        ]
+    },
+    "guaguanc\u00f3": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_guaguanc\u00f3__sustantivo_masculino__1": [
+            "rumba"
+        ]
+    },
+    "granda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_granda__sustantivo_femenino__1": [
+            "monte",
+            "erial",
+            "espesura"
+        ]
+    },
+    "granuloma": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_granuloma__sustantivo_masculino__1": [
+            "enfermedad"
+        ]
+    },
+    "grajo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_grajo__sustantivo_masculino__1": [
+            "cuervo"
+        ]
+    },
+    "gradecilla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_gradecilla__sustantivo_femenino__1": [
+            "astr\u00e1galo"
+        ]
+    },
+    "grifa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_grifa__sustantivo_femenino__1": [
+            "c\u00e1\u00f1amo"
+        ]
+    },
+    "g\u00fcira": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_g\u00fcira__sustantivo_femenino__2": [
+            "idi\u00f3fono"
+        ]
+    },
+    "guijarro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_guijarro__sustantivo_masculino__1": [
+            "piedra"
+        ]
+    },
+    "hambruna": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hambruna__sustantivo_femenino__1": [
+            "carest\u00eda",
+            "escasez"
+        ]
+    },
+    "helena": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_helena__sustantivo_femenino__1": [
+            "meteoro"
+        ]
+    },
+    "guaricha": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_guaricha__sustantivo_femenino__1": [
+            "hembra"
+        ]
+    },
+    "guampa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_guampa__sustantivo_femenino__1": [
+            "cacho",
+            "cuerno"
+        ]
+    },
+    "g\u00e1libo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_7_g\u00e1libo__sustantivo_masculino__1": [
+            "molde",
+            "horma"
+        ]
+    },
+    "g\u00e9nero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6_g\u00e9nero__sustantivo_masculino__1": [
+            "textil",
+            "tejido"
+        ]
+    },
+    "hadefobia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hadefobia__sustantivo_femenino__1": [
+            "hamartofobia",
+            "pecatofobia"
+        ]
+    },
+    "guardacabras": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_guardacabras__sustantivo_femenino_y_masculino__1": [
+            "pastora",
+            "pastor"
+        ]
+    },
+    "heteroxeno": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_heteroxeno__sustantivo_masculino__1": [
+            "endopar\u00e1sito",
+            "helminto",
+            "par\u00e1sito",
+            "mutualismo",
+            "parasitosis",
+            "simbiosis",
+            "platelminto"
+        ]
+    },
+    "histori\u00f3grafa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_histori\u00f3grafa__sustantivo_femenino__1": [
+            "historiadora"
+        ]
+    },
+    "histori\u00f3grafo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_histori\u00f3grafo__sustantivo_masculino__1": [
+            "historiador"
+        ]
+    },
+    "hita": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hita__sustantivo_femenino__1": [
+            "se\u00f1al",
+            "marca",
+            "indicador"
+        ]
+    },
+    "hemicr\u00e1nea": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hemicr\u00e1nea__sustantivo_femenino__1": [
+            "cefalalgia"
+        ]
+    },
+    "herrera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_herrera__sustantivo_femenino__1": [
+            "artesana"
+        ]
+    },
+    "herrero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_herrero__sustantivo_masculino__1": [
+            "artesano"
+        ]
+    },
+    "hidr\u00f3xido": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hidr\u00f3xido__sustantivo_masculino__1": [
+            "\u00e1lcali"
+        ]
+    },
+    "heno": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_heno__sustantivo_masculino__1": [
+            "forraje"
+        ]
+    },
+    "hialofobia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hialofobia__sustantivo_femenino__1": [
+            "cristalofobia"
+        ]
+    },
+    "hispano": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6_hispano__sustantivo_masculino__1": [
+            "romano"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_hispano__sustantivo_masculino__1": [
+            "europeo"
+        ]
+    },
+    "hirsutismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_hirsutismo__sustantivo_masculino__1": [
+            "enfermedad"
+        ]
+    },
+    "hispanismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_hispanismo__sustantivo_masculino__1": [
+            "extranjerismo"
+        ]
+    },
+    "huilco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_huilco__sustantivo_masculino__1": [
+            "diuc\u00f3n"
+        ]
+    },
+    "hurco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hurco__sustantivo_masculino__1": [
+            "diuc\u00f3n"
+        ]
+    },
+    "hollejo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hollejo__sustantivo_masculino__1": [
+            "c\u00e1scara",
+            "piel"
+        ]
+    },
+    "ihuelle": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ihuelle__sustantivo_masculino__1": [
+            "lanzadera",
+            "ca\u00f1uela"
+        ]
+    },
+    "huinco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_huinco__sustantivo_masculino__1": [
+            "cerro"
+        ]
+    },
+    "hoja": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hoja__sustantivo_femenino__1": [
+            "filoma"
+        ]
+    },
+    "hotel": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hotel__sustantivo_masculino__1": [
+            "edificio"
+        ]
+    },
+    "hur\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hur\u00f3n__sustantivo__1": [
+            "troj"
+        ]
+    },
+    "huesillo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_huesillo__sustantivo_masculino__1": [
+            "orej\u00f3n"
+        ]
+    },
+    "hurto": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hurto__sustantivo_masculino__1": [
+            "robo"
+        ]
+    },
+    "intermaxilar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_intermaxilar__sustantivo_masculino__1": [
+            "maxilar",
+            "mand\u00edbula",
+            "quijada"
+        ]
+    },
+    "interrogante": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_interrogante__sustantivo_masculino__1": [
+            "puntuaci\u00f3n"
+        ]
+    },
+    "integrismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_integrismo__sustantivo_masculino__1": [
+            "fanatismo",
+            "extremismo"
+        ]
+    },
+    "interrogaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_interrogaci\u00f3n__sustantivo_femenino__1": [
+            "tropo"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_interrogaci\u00f3n__sustantivo_femenino__1": [
+            "puntuaci\u00f3n"
+        ]
+    },
+    "jeribeque": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_jeribeque__sustantivo_masculino__1": [
+            "gesto"
+        ]
+    },
+    "jaqueca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_jaqueca__sustantivo_femenino__1": [
+            "cefalalgia"
+        ]
+    },
+    "jaleo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_jaleo__sustantivo_masculino__1": [
+            "flamenco"
+        ]
+    },
+    "jimio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_jimio__sustantivo_masculino__1": [
+            "primate"
+        ]
+    },
+    "itacate": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_itacate__sustantivo_masculino__1": [
+            "tortilla"
+        ]
+    },
+    "jerga": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_jerga__sustantivo_femenino__2": [
+            "colch\u00f3n"
+        ]
+    },
+    "jubilaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_jubilaci\u00f3n__sustantivo_femenino__1": [
+            "pensi\u00f3n"
+        ]
+    },
+    "labializaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_labializaci\u00f3n__sustantivo_femenino__1": [
+            "articulaci\u00f3n",
+            "asimilaci\u00f3n"
+        ]
+    },
+    "leche": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_leche__sustantivo_femenino__1": [
+            "savia"
+        ]
+    },
+    "lagartija": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lagartija__sustantivo_femenino__1": [
+            "lagarto"
+        ]
+    },
+    "lagua": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lagua__sustantivo_femenino__1": [
+            "sopa"
+        ]
+    },
+    "largometraje": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_largometraje__sustantivo_masculino__1": [
+            "metraje"
+        ]
+    },
+    "kalimba": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_kalimba__sustantivo_femenino__1": [
+            "idi\u00f3fono"
+        ]
+    },
+    "lagrimilla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lagrimilla__sustantivo_femenino__1": [
+            "sidra"
+        ]
+    },
+    "lasca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lasca__sustantivo_femenino__1": [
+            "fragmento"
+        ]
+    },
+    "lazarillo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lazarillo__sustantivo_masculino__1": [
+            "gu\u00eda"
+        ]
+    },
+    "liguilla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_liguilla__sustantivo_femenino__1": [
+            "liga"
+        ]
+    },
+    "limosnera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_limosnera__sustantivo_femenino__1": [
+            "bolsa",
+            "mochila"
+        ]
+    },
+    "leucismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_leucismo__sustantivo_masculino__1": [
+            "enfermedad"
+        ]
+    },
+    "le\u00f1o": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_le\u00f1o__sustantivo_masculino__1": [
+            "palo"
+        ]
+    },
+    "lucerna": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lucerna__sustantivo_femenino__1": [
+            "ventana"
+        ]
+    },
+    "lobezno": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lobezno__sustantivo_masculino__1": [
+            "cachorro"
+        ]
+    },
+    "luminaria": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_luminaria__sustantivo_femenino__1": [
+            "hoguera"
+        ]
+    },
+    "lupa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lupa__sustantivo_femenino__1": [
+            "lente"
+        ]
+    },
+    "l\u00e1piz bic": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_l\u00e1piz_bic__sustantivo_masculino__1": [
+            "bol\u00edgrafo"
+        ]
+    },
+    "macheta": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_macheta__sustantivo_femenino__1": [
+            "hacha"
+        ]
+    },
+    "maco\u00f1a": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_maco\u00f1a__sustantivo_femenino__1": [
+            "c\u00e1\u00f1amo"
+        ]
+    },
+    "lobato": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lobato__sustantivo_masculino__1": [
+            "cachorro"
+        ]
+    },
+    "linograbado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_linograbado__sustantivo_masculino__1": [
+            "grabado"
+        ]
+    },
+    "lonche": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lonche__sustantivo_masculino__1": [
+            "comida"
+        ]
+    },
+    "lutita": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lutita__sustantivo_femenino__1": [
+            "roca",
+            "textura",
+            "porosidad",
+            "permeabilidad"
+        ]
+    },
+    "l\u00edtotes": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_l\u00edtotes__sustantivo_femenino__1": [
+            "per\u00edfrasis",
+            "tropo"
+        ]
+    },
+    "lusitanismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_lusitanismo__sustantivo_masculino__1": [
+            "extranjerismo"
+        ]
+    },
+    "machaca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_machaca__sustantivo_masculino__1": [
+            "asistente"
+        ]
+    },
+    "lin\u00f3leo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lin\u00f3leo__sustantivo_masculino__1": [
+            "material",
+            "superficie"
+        ]
+    },
+    "logopeda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_logopeda__sustantivo_femenino_y_masculino__1": [
+            "m\u00e9dico",
+            "doctor"
+        ]
+    },
+    "machado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_machado__sustantivo_masculino__1": [
+            "hacha"
+        ]
+    },
+    "majada": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_majada__sustantivo_femenino__1": [
+            "manada",
+            "hato"
+        ]
+    },
+    "macron": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_macron__sustantivo_masculino__1": [
+            "tilde",
+            "virgulilla",
+            "diacr\u00edtico",
+            "v\u00edrgula"
+        ]
+    },
+    "macr\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_macr\u00f3n__sustantivo_masculino__1": [
+            "v\u00edrgula",
+            "diacr\u00edtico",
+            "virgulilla",
+            "tilde"
+        ]
+    },
+    "manada": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_manada__sustantivo_femenino__1": [
+            "hato"
+        ]
+    },
+    "mal\u00e9olo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mal\u00e9olo__sustantivo_masculino__1": [
+            "hueso"
+        ]
+    },
+    "magaz\u00edn": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_magaz\u00edn__sustantivo_masculino__1": [
+            "peri\u00f3dico",
+            "revista"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_magaz\u00edn__sustantivo_masculino__1": [
+            "espect\u00e1culo",
+            "revista",
+            "programa"
+        ]
+    },
+    "magac\u00edn": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_magac\u00edn__sustantivo_masculino__1": [
+            "peri\u00f3dico",
+            "revista"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_magac\u00edn__sustantivo_masculino__1": [
+            "espect\u00e1culo",
+            "revista",
+            "programa"
+        ]
+    },
+    "mambla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mambla__sustantivo_femenino__1": [
+            "colina"
+        ]
+    },
+    "mara": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mara__sustantivo_femenino__1": [
+            "ganga",
+            "pandilla"
+        ]
+    },
+    "mariner\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mariner\u00eda__sustantivo_femenino__1": [
+            "n\u00e1utica"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_mariner\u00eda__sustantivo_femenino__1": [
+            "marinaje"
+        ]
+    },
+    "mayate": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_mayate__sustantivo_masculino__1": [
+            "cole\u00f3ptero",
+            "escarabajo"
+        ]
+    },
+    "marinaje": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_marinaje__sustantivo_masculino__1": [
+            "n\u00e1utica"
+        ]
+    },
+    "masacalla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_masacalla__sustantivo_femenino__1": [
+            "idi\u00f3fono"
+        ]
+    },
+    "marrueco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_marrueco__sustantivo_masculino__1": [
+            "cierre"
+        ]
+    },
+    "marihuana": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_marihuana__sustantivo_femenino__1": [
+            "c\u00e1\u00f1amo"
+        ]
+    },
+    "mazorca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_mazorca__sustantivo_femenino__1": [
+            "baya"
+        ]
+    },
+    "marzo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_marzo__sustantivo_masculino__1": [
+            "mes"
+        ]
+    },
+    "mantra": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_mantra__sustantivo_masculino__1": [
+            "paremia"
+        ]
+    },
+    "mariguana": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mariguana__sustantivo_femenino__1": [
+            "c\u00e1\u00f1amo"
+        ]
+    },
+    "marmit\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_marmit\u00f3n__sustantivo_masculino__1": [
+            "cocinero"
+        ]
+    },
+    "mar\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mar\u00eda__sustantivo_femenino__2": [
+            "c\u00e1\u00f1amo"
+        ]
+    },
+    "mesolog\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mesolog\u00eda__sustantivo_femenino__1": [
+            "biolog\u00eda"
+        ]
+    },
+    "metagoge": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_metagoge__sustantivo_femenino__1": [
+            "personificaci\u00f3n",
+            "antropomorfismo"
+        ]
+    },
+    "melanoma": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_melanoma__sustantivo_masculino__1": [
+            "enfermedad"
+        ]
+    },
+    "miedo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_miedo__sustantivo_masculino__1": [
+            "fobia"
+        ]
+    },
+    "menhir": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_menhir__sustantivo_masculino__1": [
+            "megalito"
+        ]
+    },
+    "mensura": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mensura__sustantivo_femenino__2": [
+            "celo",
+            "estro"
+        ]
+    },
+    "menopausia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_menopausia__sustantivo_femenino__1": [
+            "climaterio"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_menopausia__sustantivo_femenino__1": [
+            "climaterio"
+        ]
+    },
+    "mermelada": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mermelada__sustantivo_femenino__1": [
+            "conserva"
+        ]
+    },
+    "mezcla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_mezcla__sustantivo_femenino__1": [
+            "argamasa"
+        ]
+    },
+    "moralidad": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_moralidad__sustantivo_femenino__1": [
+            "ense\u00f1anza",
+            "lecci\u00f3n"
+        ]
+    },
+    "moralina": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_moralina__sustantivo_femenino__1": [
+            "moralidad"
+        ]
+    },
+    "migra\u00f1a": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_migra\u00f1a__sustantivo_femenino__1": [
+            "cefalalgia"
+        ],
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__migra\u00f1a__nom__1": [
+            "cefalalgia"
+        ]
+    },
+    "mocas\u00edn": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_mocas\u00edn__sustantivo_masculino__1": [
+            "zapato"
+        ]
+    },
+    "mimosa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mimosa__sustantivo_femenino__1": [
+            "acacia"
+        ]
+    },
+    "mixobacteria": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mixobacteria__sustantivo_femenino__1": [
+            "bacteria"
+        ]
+    },
+    "moflete": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_moflete__sustantivo_masculino__1": [
+            "mejilla",
+            "p\u00f3mulo",
+            "cachete"
+        ]
+    },
+    "multicasco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_multicasco__sustantivo_masculino__1": [
+            "embarcaci\u00f3n",
+            "nave"
+        ]
+    },
+    "muisquismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_muisquismo__sustantivo_masculino__1": [
+            "regionalismo"
+        ]
+    },
+    "mu\u00f1eco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mu\u00f1eco__sustantivo_masculino__1": [
+            "juguete"
+        ]
+    },
+    "mujer": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mujer__sustantivo_femenino__1": [
+            "hembra"
+        ]
+    },
+    "nasalizaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_nasalizaci\u00f3n__sustantivo_femenino__1": [
+            "articulaci\u00f3n",
+            "asimilaci\u00f3n"
+        ]
+    },
+    "non\u00e1gono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_non\u00e1gono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "narguila": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_narguila__sustantivo_masculino__1": [
+            "pipa"
+        ]
+    },
+    "narguil\u00e9": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_narguil\u00e9__sustantivo_masculino__1": [
+            "pipa"
+        ]
+    },
+    "necromancia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_necromancia__sustantivo_femenino__1": [
+            "m\u00e1ntica",
+            "esoterismo"
+        ]
+    },
+    "necromanc\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_necromanc\u00eda__sustantivo_femenino__1": [
+            "m\u00e1ntica",
+            "esoterismo"
+        ]
+    },
+    "neral": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_neral__sustantivo_masculino__1": [
+            "is\u00f3mero",
+            "esencia",
+            "perfume",
+            "aroma",
+            "aldeh\u00eddo"
+        ]
+    },
+    "nevisca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_nevisca__sustantivo_femenino__1": [
+            "nevada"
+        ]
+    },
+    "neonato": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_neonato__sustantivo_masculino__1": [
+            "guagua",
+            "cr\u00eda",
+            "beb\u00e9"
+        ]
+    },
+    "novillo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_novillo__sustantivo_masculino__1": [
+            "toro",
+            "bovino",
+            "vacuno"
+        ]
+    },
+    "necromante": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_necromante__sustantivo_femenino_y_masculino__1": [
+            "adivino"
+        ]
+    },
+    "nube": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_nube__sustantivo_femenino__1": [
+            "cielo"
+        ]
+    },
+    "nave": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_nave__sustantivo_femenino__1": [
+            "embarcaci\u00f3n"
+        ]
+    },
+    "nelofobia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_nelofobia__sustantivo_femenino__1": [
+            "cristalofobia"
+        ]
+    },
+    "narguile": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_narguile__sustantivo_masculino__1": [
+            "pipa"
+        ]
+    },
+    "natividad": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_natividad__sustantivo_femenino__1": [
+            "religi\u00f3n",
+            "festividad"
+        ]
+    },
+    "nigromante": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_nigromante__sustantivo_femenino_y_masculino__1": [
+            "adivino"
+        ]
+    },
+    "nigromancia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_nigromancia__sustantivo_femenino__1": [
+            "m\u00e1ntica",
+            "esoterismo"
+        ]
+    },
+    "nota": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6_nota__sustantivo_femenino__1": [
+            "mensaje"
+        ]
+    },
+    "nevatilla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_nevatilla__sustantivo_femenino__1": [
+            "lavandera"
+        ]
+    },
+    "negrillo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_negrillo__sustantivo_masculino__1": [
+            "olmo"
+        ]
+    },
+    "oda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_oda__sustantivo_femenino__1": [
+            "poema",
+            "l\u00edrica"
+        ]
+    },
+    "oikonom\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_oikonom\u00eda__sustantivo_femenino__1": [
+            "econom\u00eda"
+        ]
+    },
+    "octavilla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_octavilla__sustantivo_femenino__1": [
+            "volante",
+            "pasqu\u00edn"
+        ]
+    },
+    "oca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_oca__sustantivo_femenino__1": [
+            "ganso",
+            "anseriforme"
+        ]
+    },
+    "olleta": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_olleta__sustantivo_femenino__1": [
+            "cocido"
+        ]
+    },
+    "olmo de monta\u00f1a": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_olmo_de_monta\u00f1a__sustantivo_masculino__1": [
+            "olmo"
+        ]
+    },
+    "org\u00e1nulo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_org\u00e1nulo__sustantivo_masculino__1": [
+            "c\u00e9lula"
+        ]
+    },
+    "otorrinolaring\u00f3logo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_otorrinolaring\u00f3logo__sustantivo_masculino__1": [
+            "m\u00e9dico",
+            "doctor"
+        ]
+    },
+    "paella": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_paella__sustantivo_femenino__1": [
+            "sart\u00e9n"
+        ]
+    },
+    "ornit\u00f3ptero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ornit\u00f3ptero__sustantivo_masculino__1": [
+            "aeronave"
+        ]
+    },
+    "onc\u00f3logo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_onc\u00f3logo__sustantivo_masculino__1": [
+            "doctor",
+            "m\u00e9dico"
+        ]
+    },
+    "ovino": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_ovino__sustantivo_masculino__1": [
+            "b\u00f3vido"
+        ]
+    },
+    "pagofobia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pagofobia__sustantivo_femenino__1": [
+            "psicrofobia",
+            "queimatofobia",
+            "frigofobia",
+            "queimafobia"
+        ]
+    },
+    "oste\u00f3pata": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_oste\u00f3pata__sustantivo_femenino_y_masculino__1": [
+            "terapeuta"
+        ]
+    },
+    "ortoclasa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ortoclasa__sustantivo_femenino__1": [
+            "feldespato"
+        ]
+    },
+    "pareidolia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pareidolia__sustantivo_femenino__1": [
+            "apofenia"
+        ]
+    },
+    "parlache": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_parlache__sustantivo_masculino__1": [
+            "german\u00eda",
+            "colombianismo"
+        ]
+    },
+    "parqu\u00edmetro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_parqu\u00edmetro__sustantivo_masculino__1": [
+            "cobrador"
+        ]
+    },
+    "paleta": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6_paleta__sustantivo_femenino__1": [
+            "raqueta"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_14_paleta__sustantivo_femenino__1": [
+            "llave"
+        ]
+    },
+    "panceta": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_panceta__sustantivo_femenino__1": [
+            "tocino"
+        ]
+    },
+    "paremiolog\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_paremiolog\u00eda__sustantivo_femenino__1": [
+            "ling\u00fc\u00edstica",
+            "filolog\u00eda",
+            "etnograf\u00eda"
+        ]
+    },
+    "pampa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pampa__sustantivo_femenino__1": [
+            "pradera"
+        ]
+    },
+    "palmero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_palmero__sustantivo_masculino__1": [
+            "m\u00fasico",
+            "artista"
+        ]
+    },
+    "palmera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_palmera__sustantivo_femenino__2": [
+            "artista",
+            "m\u00fasico"
+        ]
+    },
+    "papiloma": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_papiloma__sustantivo_masculino__1": [
+            "tumor"
+        ]
+    },
+    "paragoge": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_paragoge__sustantivo_femenino__1": [
+            "metaplasmo"
+        ]
+    },
+    "parroquia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_parroquia__sustantivo_femenino__1": [
+            "clientela"
+        ]
+    },
+    "panteonero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_panteonero__sustantivo_masculino__1": [
+            "guardi\u00e1n",
+            "vigilante"
+        ]
+    },
+    "pase": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6_pase__sustantivo_masculino__1": [
+            "licencia",
+            "permiso"
+        ]
+    },
+    "pasador": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_8_pasador__sustantivo_masculino__1": [
+            "colador"
+        ]
+    },
+    "pasamonta\u00f1as": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pasamonta\u00f1as__sustantivo_masculino__1": [
+            "gorro"
+        ]
+    },
+    "patr\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6_patr\u00f3n__sustantivo_masculino__1": [
+            "capit\u00e1n"
+        ]
+    },
+    "pasaboca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pasaboca__sustantivo_masculino__1": [
+            "aperitivo"
+        ]
+    },
+    "pasabocas": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pasabocas__sustantivo_masculino__1": [
+            "aperitivo"
+        ]
+    },
+    "patovar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_patovar__sustantivo_masculino__1": [
+            "fitopatolog\u00eda"
+        ]
+    },
+    "peludo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_peludo__sustantivo_masculino__1": [
+            "armadillo"
+        ]
+    },
+    "petrograf\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_petrograf\u00eda__sustantivo_femenino__1": [
+            "geolog\u00eda"
+        ]
+    },
+    "pianista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pianista__sustantivo_femenino_y_masculino__1": [
+            "int\u00e9rprete",
+            "m\u00fasico"
+        ]
+    },
+    "pentadec\u00e1gono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pentadec\u00e1gono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "personificaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_personificaci\u00f3n__sustantivo_femenino__1": [
+            "tropo",
+            "ret\u00f3rica",
+            "estil\u00edstica"
+        ]
+    },
+    "perineumon\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_perineumon\u00eda__sustantivo_femenino__1": [
+            "pulmon\u00eda",
+            "neumon\u00eda"
+        ]
+    },
+    "pent\u00e1gono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pent\u00e1gono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "pica-pica": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pica-pica__sustantivo_femenino__1": [
+            "aliaga",
+            "aulaga"
+        ]
+    },
+    "peuch\u00e9n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_peuch\u00e9n__sustantivo_masculino__1": [
+            "vampiro"
+        ]
+    },
+    "plagioclasa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_plagioclasa__sustantivo_femenino__1": [
+            "feldespato"
+        ]
+    },
+    "pintor": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pintor__sustantivo_masculino__1": [
+            "artesano",
+            "artista"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_pintor__sustantivo_masculino__1": [
+            "obrero"
+        ]
+    },
+    "pistola": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pistola__sustantivo_femenino__1": [
+            "tirador"
+        ]
+    },
+    "piperm\u00edn": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_piperm\u00edn__sustantivo_masculino__1": [
+            "licor",
+            "alcohol"
+        ]
+    },
+    "pileta": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pileta__sustantivo_femenino__1": [
+            "pila"
+        ]
+    },
+    "pincelada": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pincelada__sustantivo_femenino__1": [
+            "trazo"
+        ]
+    },
+    "pincerna": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pincerna__sustantivo_femenino_y_masculino__1": [
+            "criada",
+            "criado",
+            "sirviente"
+        ]
+    },
+    "pirag\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pirag\u00f3n__sustantivo_masculino__1": [
+            "mariposa"
+        ]
+    },
+    "piri\u00f1aca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_piri\u00f1aca__sustantivo_femenino__1": [
+            "ensalada"
+        ]
+    },
+    "planeador": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_planeador__sustantivo_masculino__1": [
+            "aerodino",
+            "aeronave"
+        ]
+    },
+    "piedra": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_piedra__sustantivo_femenino__1": [
+            "mineral"
+        ]
+    },
+    "pichi": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pichi__sustantivo_masculino__3": [
+            "armadillo"
+        ]
+    },
+    "pihuich\u00e9n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_pihuich\u00e9n__sustantivo_masculino__1": [
+            "vampiro"
+        ]
+    },
+    "piuqu\u00e9n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_piuqu\u00e9n__sustantivo_masculino__1": [
+            "ganso"
+        ]
+    },
+    "pintamonas": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pintamonas__sustantivo_femenino_y_masculino__1": [
+            "pintor",
+            "pintora"
+        ]
+    },
+    "pinocha": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_pinocha__sustantivo_masculino__1": [
+            "hojarasca"
+        ]
+    },
+    "piscolabis": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_piscolabis__sustantivo_masculino__1": [
+            "comida"
+        ]
+    },
+    "pitido": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pitido__sustantivo_masculino__1": [
+            "sonido"
+        ]
+    },
+    "pirograbado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_pirograbado__sustantivo_masculino__1": [
+            "grabado"
+        ]
+    },
+    "pitada": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pitada__sustantivo_femenino__1": [
+            "sonido"
+        ]
+    },
+    "picoleto": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_picoleto__sustantivo_masculino__1": [
+            "madero",
+            "polic\u00eda"
+        ]
+    },
+    "piche": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_piche__sustantivo_masculino__2": [
+            "armadillo"
+        ]
+    },
+    "piguch\u00e9n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_piguch\u00e9n__sustantivo_masculino__1": [
+            "vampiro"
+        ]
+    },
+    "pihuch\u00e9n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_pihuch\u00e9n__sustantivo_masculino__1": [
+            "vampiro"
+        ]
+    },
+    "poema": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_poema__sustantivo_masculino__1": [
+            "arte",
+            "literatura",
+            "poes\u00eda"
+        ]
+    },
+    "posolog\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_posolog\u00eda__sustantivo_femenino__1": [
+            "farmacolog\u00eda"
+        ]
+    },
+    "polar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_polar__sustantivo_masculino__1": [
+            "prenda",
+            "abrigo"
+        ]
+    },
+    "poligamia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_poligamia__sustantivo_femenino__1": [
+            "esponsales",
+            "matrimonio",
+            "boda",
+            "casamiento",
+            "enlace",
+            "nupcias"
+        ]
+    },
+    "pleuroneumon\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pleuroneumon\u00eda__sustantivo_femenino__1": [
+            "neumon\u00eda",
+            "pulmon\u00eda"
+        ]
+    },
+    "portaplumas": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_portaplumas__sustantivo_masculino__1": [
+            "mango"
+        ]
+    },
+    "posproducci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_posproducci\u00f3n__sustantivo_femenino__1": [
+            "producci\u00f3n"
+        ]
+    },
+    "poemario": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_poemario__sustantivo_masculino__1": [
+            "poes\u00eda"
+        ],
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__poemario__nom__1": [
+            "poes\u00eda"
+        ]
+    },
+    "potestad": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_potestad__sustantivo_femenino__1": [
+            "jerarqu\u00eda",
+            "orden"
+        ]
+    },
+    "pleca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pleca__sustantivo_femenino__1": [
+            "filete"
+        ]
+    },
+    "progenitor": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_progenitor__sustantivo_masculino__1": [
+            "antepasado",
+            "ancestro",
+            "antecesor"
+        ]
+    },
+    "potestades": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_potestades__sustantivo_femenino__1": [
+            "orden",
+            "jerarqu\u00eda"
+        ]
+    },
+    "principado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_principado__sustantivo_masculino__1": [
+            "orden",
+            "jerarqu\u00eda"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_principado__sustantivo_masculino__1": [
+            "dictado",
+            "dignidad"
+        ]
+    },
+    "principados": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_principados__sustantivo_masculino__1": [
+            "orden",
+            "jerarqu\u00eda"
+        ]
+    },
+    "precepto": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_precepto__sustantivo_masculino__1": [
+            "ley"
+        ]
+    },
+    "prelado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_prelado__sustantivo_masculino__1": [
+            "cl\u00e9rigo",
+            "eclesi\u00e1stico"
+        ]
+    },
+    "preproducci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_preproducci\u00f3n__sustantivo_femenino__1": [
+            "producci\u00f3n"
+        ]
+    },
+    "progenitores": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_progenitores__sustantivo_masculino__1": [
+            "antepasado",
+            "antecesor",
+            "ancestro"
+        ]
+    },
+    "prejuicio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_prejuicio__sustantivo_masculino__1": [
+            "juicio"
+        ]
+    },
+    "p\u00edldora": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_p\u00edldora__sustantivo_femenino__1": [
+            "anticonceptivo"
+        ]
+    },
+    "pucha": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_pucha__sustantivo_femenino__2": [
+            "hoyo"
+        ]
+    },
+    "pseudoprefijo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pseudoprefijo__sustantivo_masculino__1": [
+            "afijo",
+            "morfema"
+        ]
+    },
+    "prosopopeya": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_prosopopeya__sustantivo_femenino__1": [
+            "estil\u00edstica",
+            "tropo",
+            "ret\u00f3rica"
+        ]
+    },
+    "pr\u00f3stata": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pr\u00f3stata__sustantivo_femenino__1": [
+            "\u00f3rgano"
+        ]
+    },
+    "pyme": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pyme__sustantivo_femenino__1": [
+            "empresa"
+        ]
+    },
+    "puma": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_puma__sustantivo_masculino__1": [
+            "felino",
+            "f\u00e9lido"
+        ]
+    },
+    "p\u00e9ndola": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_p\u00e9ndola__sustantivo_femenino__1": [
+            "p\u00e9ndulo"
+        ]
+    },
+    "quim\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_quim\u00f3n__sustantivo_masculino__1": [
+            "textil"
+        ]
+    },
+    "quiromanc\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_quiromanc\u00eda__sustantivo_femenino__1": [
+            "m\u00e1ntica",
+            "esoterismo"
+        ]
+    },
+    "rati": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_rati__sustantivo_femenino_y_masculino__1": [
+            "polic\u00eda"
+        ]
+    },
+    "raza": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_raza__sustantivo_femenino__2": [
+            "rayo"
+        ]
+    },
+    "rajale\u00f1a": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_rajale\u00f1a__sustantivo_masculino__1": [
+            "bambuco"
+        ]
+    },
+    "quilmahue": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_quilmahue__sustantivo_masculino__1": [
+            "choro",
+            "mit\u00edlido"
+        ]
+    },
+    "rape": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_rape__sustantivo_masculino__2": [
+            "afeitado"
+        ]
+    },
+    "rasgada": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_rasgada__sustantivo_femenino__1": [
+            "rotura"
+        ]
+    },
+    "rasgadura": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_rasgadura__sustantivo_femenino__1": [
+            "rotura"
+        ]
+    },
+    "quiromancia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_quiromancia__sustantivo_femenino__1": [
+            "esoterismo",
+            "m\u00e1ntica"
+        ]
+    },
+    "quirquincho": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_quirquincho__sustantivo_masculino__1": [
+            "armadillo"
+        ]
+    },
+    "reducci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_8_reducci\u00f3n__sustantivo_femenino__1": [
+            "uni\u00f3n"
+        ]
+    },
+    "redil": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_redil__sustantivo_masculino__1": [
+            "corral"
+        ]
+    },
+    "regata": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_regata__sustantivo_femenino__1": [
+            "zanja",
+            "acequia",
+            "caz"
+        ]
+    },
+    "resoplo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_resoplo__sustantivo_masculino__1": [
+            "resuello"
+        ]
+    },
+    "retablera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_retablera__sustantivo_femenino__1": [
+            "artesana",
+            "art\u00edfice"
+        ]
+    },
+    "retablero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_retablero__sustantivo_masculino__1": [
+            "artesano",
+            "art\u00edfice"
+        ]
+    },
+    "retartalillas": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_retartalillas__sustantivo_femenino__1": [
+            "retah\u00edla"
+        ]
+    },
+    "repollo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_repollo__sustantivo_masculino__1": [
+            "hortaliza",
+            "planta",
+            "recaudo",
+            "verdura",
+            "vegetal"
+        ]
+    },
+    "rotacismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_rotacismo__sustantivo_masculino__1": [
+            "dislalia"
+        ]
+    },
+    "retru\u00e9cano": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_retru\u00e9cano__sustantivo_masculino__1": [
+            "ret\u00f3rica"
+        ]
+    },
+    "rociero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_rociero__sustantivo_masculino__1": [
+            "romero",
+            "peregrino"
+        ]
+    },
+    "rosbif": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_rosbif__sustantivo_masculino__1": [
+            "carne"
+        ]
+    },
+    "ronda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_19_ronda__sustantivo_masculino_y_femenino__1": [
+            "vigilante",
+            "guardi\u00e1n"
+        ]
+    },
+    "reutilizaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_reutilizaci\u00f3n__sustantivo_femenino__1": [
+            "desecho",
+            "residuo"
+        ]
+    },
+    "retratista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_retratista__sustantivo_femenino_y_masculino__1": [
+            "pintor",
+            "fot\u00f3grafo"
+        ]
+    },
+    "riverense": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_riverense__sustantivo_masculino__1": [
+            "portu\u00f1ol"
+        ]
+    },
+    "sacuara": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sacuara__sustantivo_femenino__1": [
+            "v\u00e1stago",
+            "rama"
+        ]
+    },
+    "sacudi\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sacudi\u00f3n__sustantivo_masculino__1": [
+            "sacudimiento",
+            "sacudida"
+        ]
+    },
+    "sacud\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sacud\u00f3n__sustantivo_masculino__1": [
+            "sacudimiento",
+            "sacudida"
+        ]
+    },
+    "salario": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_salario__sustantivo_masculino__1": [
+            "empresa",
+            "trabajo"
+        ]
+    },
+    "sandial": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sandial__sustantivo_masculino__1": [
+            "plantaci\u00f3n"
+        ]
+    },
+    "sandiar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sandiar__sustantivo_masculino__1": [
+            "plantaci\u00f3n"
+        ]
+    },
+    "saeta": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_saeta__sustantivo_femenino__1": [
+            "copla",
+            "cante"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_saeta__sustantivo_femenino__1": [
+            "proyectil"
+        ]
+    },
+    "sacerdote": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sacerdote__sustantivo_masculino__1": [
+            "papa",
+            "pont\u00edfice",
+            "can\u00f3nigo",
+            "obispo"
+        ]
+    },
+    "setenas": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_setenas__sustantivo_femenino__1": [
+            "pena"
+        ]
+    },
+    "sepulcro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sepulcro__sustantivo_masculino__1": [
+            "l\u00e1pida"
+        ]
+    },
+    "sereno": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_sereno__sustantivo_masculino__1": [
+            "vigilante"
+        ]
+    },
+    "seta": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_seta__sustantivo_femenino__1": [
+            "hongo"
+        ]
+    },
+    "serendipia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_serendipia__sustantivo_femenino__1": [
+            "hallazgo",
+            "encuentro",
+            "descubrimiento",
+            "invenci\u00f3n"
+        ]
+    },
+    "senda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_senda__sustantivo_femenino__1": [
+            "camino"
+        ]
+    },
+    "sol": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_sol__sustantivo_masculino__1": [
+            "astro"
+        ]
+    },
+    "sinatro\u00edsmo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sinatro\u00edsmo__sustantivo_masculino__1": [
+            "acumulaci\u00f3n"
+        ]
+    },
+    "socali\u00f1a": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_socali\u00f1a__sustantivo_femenino__1": [
+            "ardid"
+        ]
+    },
+    "soflama": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_soflama__sustantivo_femenino__1": [
+            "discurso",
+            "alocuci\u00f3n"
+        ]
+    },
+    "silicosis": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_silicosis__sustantivo_femenino__1": [
+            "neumoconiosis"
+        ]
+    },
+    "sobreviraje": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sobreviraje__sustantivo_masculino__1": [
+            "viraje"
+        ]
+    },
+    "sobremesana": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sobremesana__sustantivo_femenino__1": [
+            "gavia"
+        ]
+    },
+    "sobreperico": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sobreperico__sustantivo_masculino__1": [
+            "sobrejuanete"
+        ]
+    },
+    "sobreperiquito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sobreperiquito__sustantivo_masculino__1": [
+            "sobrejuanete"
+        ]
+    },
+    "sufijaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sufijaci\u00f3n__sustantivo_femenino__1": [
+            "derivaci\u00f3n",
+            "afijaci\u00f3n"
+        ]
+    },
+    "sucursal": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sucursal__sustantivo_femenino__1": [
+            "sede",
+            "matriz"
+        ]
+    },
+    "songo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_songo__sustantivo_masculino__1": [
+            "son"
+        ]
+    },
+    "subviraje": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_subviraje__sustantivo_masculino__1": [
+            "viraje"
+        ]
+    },
+    "surrealismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_surrealismo__sustantivo_masculino__1": [
+            "vanguardismo"
+        ]
+    },
+    "s\u00edncopa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_s\u00edncopa__sustantivo_femenino__1": [
+            "metaplasmo",
+            "acortamiento"
+        ]
+    },
+    "susurraci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_susurraci\u00f3n__sustantivo_femenino__1": [
+            "murmuraci\u00f3n"
+        ]
+    },
+    "tablajero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_tablajero__sustantivo_masculino__1": [
+            "carpintero"
+        ]
+    },
+    "tablao": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tablao__sustantivo_masculino__1": [
+            "tablado",
+            "escenario"
+        ]
+    },
+    "tabonuco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tabonuco__sustantivo_masculino__1": [
+            "copal"
+        ]
+    },
+    "tallista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tallista__sustantivo_femenino_y_masculino__1": [
+            "artista",
+            "escultor"
+        ]
+    },
+    "taita": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_taita__sustantivo_masculino__1": [
+            "progenitor"
+        ]
+    },
+    "tablazo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tablazo__sustantivo_masculino__1": [
+            "golpe"
+        ]
+    },
+    "taracea": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_taracea__sustantivo_femenino__1": [
+            "artesan\u00eda"
+        ]
+    },
+    "tarro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_tarro__sustantivo_masculino__1": [
+            "bote",
+            "lata"
+        ]
+    },
+    "telegrafista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_telegrafista__sustantivo_femenino_y_masculino__1": [
+            "operador"
+        ]
+    },
+    "tembleque": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_tembleque__sustantivo_masculino__1": [
+            "tremor",
+            "temblor"
+        ]
+    },
+    "tartajofemia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tartajofemia__sustantivo_femenino__1": [
+            "disfemia"
+        ]
+    },
+    "tecol": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tecol__sustantivo_masculino__1": [
+            "polilla",
+            "lepid\u00f3ptero",
+            "insecto"
+        ]
+    },
+    "tembladal": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tembladal__sustantivo_masculino__1": [
+            "aguazal",
+            "cenagal",
+            "pantano",
+            "ci\u00e9naga",
+            "lodazal"
+        ]
+    },
+    "tembladeral": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tembladeral__sustantivo_masculino__1": [
+            "cenagal",
+            "pantano",
+            "aguazal",
+            "ci\u00e9naga",
+            "lodazal"
+        ]
+    },
+    "tela": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tela__sustantivo_femenino__1": [
+            "tejido",
+            "textil"
+        ]
+    },
+    "templista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_templista__sustantivo_femenino_y_masculino__1": [
+            "artista",
+            "pintor"
+        ]
+    },
+    "tez": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tez__sustantivo_femenino__1": [
+            "piel"
+        ]
+    },
+    "toldillo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_toldillo__sustantivo_masculino__1": [
+            "toldo"
+        ]
+    },
+    "tilde": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tilde__sustantivo_femenino__1": [
+            "diacr\u00edtico",
+            "v\u00edrgula"
+        ]
+    },
+    "torta": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_torta__sustantivo_femenino__1": [
+            "s\u00e1ndwich",
+            "emparedado",
+            "bocadillo",
+            "bala fr\u00eda",
+            "refuerzo"
+        ]
+    },
+    "tisana": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tisana__sustantivo_femenino__1": [
+            "t\u00e9",
+            "infusi\u00f3n"
+        ]
+    },
+    "tira": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_tira__sustantivo_masculino__1": [
+            "detective"
+        ]
+    },
+    "tigmotropismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tigmotropismo__sustantivo_masculino__1": [
+            "tropismo"
+        ]
+    },
+    "torno": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_torno__sustantivo_masculino__1": [
+            "puerta",
+            "ventana"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6_torno__sustantivo_masculino__1": [
+            "barrera"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_torno__sustantivo_masculino__1": [
+            "gr\u00faa"
+        ]
+    },
+    "tinajero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tinajero__sustantivo_masculino__1": [
+            "alfarero"
+        ]
+    },
+    "toalla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_toalla__sustantivo_femenino__1": [
+            "trozo"
+        ]
+    },
+    "tizne": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_tizne__sustantivo_ambiguo__1": [
+            "mancha"
+        ]
+    },
+    "trasgo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_trasgo__sustantivo_masculino__1": [
+            "duende"
+        ]
+    },
+    "trapaza": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_trapaza__sustantivo_femenino__1": [
+            "artificio"
+        ]
+    },
+    "trabalenguas": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_trabalenguas__sustantivo_masculino__1": [
+            "juego"
+        ]
+    },
+    "tranv\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tranv\u00eda__sustantivo_masculino__1": [
+            "tren",
+            "ferrocarril"
+        ]
+    },
+    "traquido": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_traquido__sustantivo_masculino__1": [
+            "estruendo"
+        ]
+    },
+    "tremedal": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tremedal__sustantivo_masculino__1": [
+            "lodazal",
+            "pantano",
+            "aguazal",
+            "cenagal",
+            "ci\u00e9naga"
+        ]
+    },
+    "trementina": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_trementina__sustantivo_femenino__1": [
+            "resina",
+            "disolvente"
+        ]
+    },
+    "trepa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_trepa__sustantivo_femenino__2": [
+            "guarnici\u00f3n"
+        ]
+    },
+    "tragedia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tragedia__sustantivo_femenino__1": [
+            "teatro",
+            "drama"
+        ]
+    },
+    "triquitraque": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_triquitraque__sustantivo_masculino__1": [
+            "cohete"
+        ]
+    },
+    "trintraro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_trintraro__sustantivo_masculino__1": [
+            "perra pelada"
+        ]
+    },
+    "trimar\u00e1n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_trimar\u00e1n__sustantivo_masculino__1": [
+            "multicasco"
+        ]
+    },
+    "tr\u00edgono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tr\u00edgono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "tripartici\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tripartici\u00f3n__sustantivo_femenino__1": [
+            "partici\u00f3n"
+        ]
+    },
+    "trono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6_trono__sustantivo_masculino__1": [
+            "jerarqu\u00eda",
+            "orden"
+        ]
+    },
+    "tronos": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tronos__sustantivo_masculino__1": [
+            "orden",
+            "jerarqu\u00eda"
+        ]
+    },
+    "t\u00e1mara": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_t\u00e1mara__sustantivo_femenino__1": [
+            "d\u00e1til"
+        ]
+    },
+    "t\u00e1paro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_t\u00e1paro__sustantivo_masculino__1": [
+            "j\u00edcara"
+        ]
+    },
+    "tuc\u00faquere": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tuc\u00faquere__sustantivo_masculino__1": [
+            "b\u00faho"
+        ]
+    },
+    "umlaut": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_umlaut__sustantivo_femenino__1": [
+            "metafon\u00eda"
+        ]
+    },
+    "tricomoniasis": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tricomoniasis__sustantivo_femenino__1": [
+            "enfermedad"
+        ]
+    },
+    "ultra\u00edsmo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ultra\u00edsmo__sustantivo_masculino__1": [
+            "vanguardismo"
+        ]
+    },
+    "tr\u00e1nsito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_tr\u00e1nsito__sustantivo_masculino__1": [
+            "corredor",
+            "pasillo",
+            "hall"
+        ]
+    },
+    "velarizaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_velarizaci\u00f3n__sustantivo_femenino__1": [
+            "articulaci\u00f3n",
+            "asimilaci\u00f3n"
+        ]
+    },
+    "vacilada": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_vacilada__sustantivo_femenino__1": [
+            "baile"
+        ]
+    },
+    "vaquillona": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_vaquillona__sustantivo_femenino__1": [
+            "res",
+            "ternera",
+            "vaquilla"
+        ]
+    },
+    "var\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_var\u00f3n__sustantivo_masculino__2": [
+            "estaca",
+            "poste"
+        ]
+    },
+    "vaquilla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_vaquilla__sustantivo_femenino__1": [
+            "vaca"
+        ]
+    },
+    "velacho": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_velacho__sustantivo_masculino__1": [
+            "gavia"
+        ]
+    },
+    "villorrio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_villorrio__sustantivo_masculino__1": [
+            "poblaci\u00f3n"
+        ]
+    },
+    "veterinario": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_veterinario__sustantivo_masculino__1": [
+            "doctor",
+            "m\u00e9dico"
+        ]
+    },
+    "verborragia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_verborragia__sustantivo_femenino__1": [
+            "verbosidad"
+        ]
+    },
+    "virgulilla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_virgulilla__sustantivo_femenino__1": [
+            "diacr\u00edtico"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_virgulilla__sustantivo_femenino__1": [
+            "l\u00ednea",
+            "raya",
+            "trazo"
+        ]
+    },
+    "vicu\u00f1a": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_vicu\u00f1a__sustantivo_femenino__1": [
+            "cam\u00e9lido",
+            "auqu\u00e9nido"
+        ]
+    },
+    "visi\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_visi\u00f3n__sustantivo_femenino__1": [
+            "entendimiento",
+            "opini\u00f3n"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_visi\u00f3n__sustantivo_femenino__1": [
+            "sentido"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_visi\u00f3n__sustantivo_femenino__1": [
+            "percepci\u00f3n",
+            "sensaci\u00f3n"
+        ]
+    },
+    "verso": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_verso__sustantivo_masculino__1": [
+            "estrofa"
+        ]
+    },
+    "yegua": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_yegua__sustantivo_femenino__2": [
+            "empanada"
+        ]
+    },
+    "yamb\u00fa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_yamb\u00fa__sustantivo_masculino__1": [
+            "rumba"
+        ]
+    },
+    "yod": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_yod__sustantivo_masculino__3": [
+            "prosodia",
+            "fon\u00e9tica"
+        ]
+    },
+    "wikipedista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_wikipedista__sustantivo_femenino_y_masculino__1": [
+            "enciclopedista"
+        ]
+    },
+    "zapoyol": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_zapoyol__sustantivo_masculino__1": [
+            "cuesco",
+            "tito",
+            "hueso"
+        ]
+    },
+    "zapuyul": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_zapuyul__sustantivo_masculino__1": [
+            "cuesco",
+            "hueso",
+            "tito"
+        ]
+    },
+    "zal\u00e1": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_zal\u00e1__sustantivo_femenino__1": [
+            "ruego",
+            "oraci\u00f3n",
+            "s\u00faplica"
+        ]
+    },
+    "\u00e9gloga": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_\u00e9gloga__sustantivo_femenino__1": [
+            "poema",
+            "l\u00edrica"
+        ]
+    },
+    "zarzaparrilla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_zarzaparrilla__sustantivo_femenino__1": [
+            "voqui",
+            "boqui"
+        ]
+    },
+    "zepel\u00edn": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_zepel\u00edn__sustantivo_masculino__1": [
+            "aerostato"
+        ]
+    },
+    "zu\u00f1o": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_zu\u00f1o__sustantivo_masculino__1": [
+            "gesto"
+        ]
+    },
+    "\u00e1scaris": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_\u00e1scaris__sustantivo_masculino__1": [
+            "par\u00e1sito",
+            "gusano"
+        ]
+    },
+    "zarahuato": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_zarahuato__sustantivo_masculino__1": [
+            "caray\u00e1"
+        ]
+    },
+    "\u00c1podos": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_\u00c1podos__sustantivo_masculino__1": [
+            "Anfibios"
+        ]
+    },
+    "\u00e1nima": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_\u00e1nima__sustantivo_femenino__1": [
+            "hueco",
+            "orificio"
+        ]
+    },
+    "zootom\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_zootom\u00eda__sustantivo_femenino__1": [
+            "zoolog\u00eda",
+            "anatom\u00eda"
+        ]
+    },
+    "zarzal": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_zarzal__sustantivo_masculino__1": [
+            "erial"
+        ]
+    },
+    "zaya": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_zaya__sustantivo_femenino__1": [
+            "caz"
+        ]
+    },
+    "zureo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_zureo__sustantivo_masculino__1": [
+            "gorjeo"
+        ]
+    },
+    "\u00f3nix": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_\u00f3nix__sustantivo_masculino__1": [
+            "cuarzo",
+            "\u00e1gata"
+        ]
+    },
+    "b\u00e1culo": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__b\u00e1culo__nom__1": [
+            "palo",
+            "cayado"
+        ]
+    },
+    "cayado": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__cayado__nom__1": [
+            "palo",
+            "bast\u00f3n"
+        ]
+    },
+    "cohombro": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__cohombro__nom__1": [
+            "pepino"
+        ]
+    },
+    "bombardero": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__bombardero__nom__1": [
+            "avi\u00f3n"
+        ]
+    },
+    "pamela": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__pamela__nom__1": [
+            "sombrero"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pamela__sustantivo_femenino__1": [
+            "sombrero"
+        ]
+    },
+    "verder\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__verder\u00f3n__nom__1": [
+            "gorri\u00f3n"
+        ]
+    },
+    "base": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_12_base__sustantivo_femenino__1": [
+            "basamento"
+        ]
+    },
+    "caballo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_caballo__sustantivo_masculino__1": [
+            "equino",
+            "caballer\u00eda",
+            "cabalgadura",
+            "montura"
+        ]
+    },
+    "bajista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bajista__sustantivo_femenino_y_masculino__2": [
+            "bolsista"
+        ]
+    },
+    "choro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_choro__sustantivo_masculino__2": [
+            "molusco"
+        ]
+    },
+    "criado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_criado__sustantivo_masculino__1": [
+            "servidumbre"
+        ]
+    },
+    "luna": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_luna__sustantivo_femenino__1": [
+            "astro"
+        ]
+    },
+    "irland\u00e9s": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_irland\u00e9s__sustantivo_masculino__1": [
+            "ga\u00e9lico"
+        ]
+    },
+    "lenteja": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_lenteja__sustantivo_femenino__1": [
+            "legumbre"
+        ]
+    },
+    "goma": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_7_goma__sustantivo_femenino__1": [
+            "caramelo"
+        ]
+    },
+    "hito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hito__sustantivo_masculino__1": [
+            "se\u00f1al",
+            "indicador",
+            "marca"
+        ]
+    },
+    "fuente": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_fuente__sustantivo_femenino__1": [
+            "vasija"
+        ]
+    },
+    "sapo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_7_sapo__sustantivo_masculino__1": [
+            "monedero"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sapo__sustantivo_masculino__1": [
+            "anfibio"
+        ]
+    },
+    "padre": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6_padre__sustantivo_masculino__1": [
+            "cl\u00e9rigo",
+            "ministro",
+            "presb\u00edtero"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_padre__sustantivo_masculino__1": [
+            "progenitor"
+        ]
+    },
+    "perro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_perro__sustantivo_masculino__1": [
+            "c\u00e1nido"
+        ]
+    },
+    "sustantivo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sustantivo__sustantivo_masculino__1": [
+            "nombre",
+            "palabra"
+        ]
+    },
+    "oct\u00e1gono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_oct\u00e1gono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "pelota": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pelota__sustantivo_femenino__1": [
+            "esfera"
+        ]
+    },
+    "rana": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_rana__sustantivo_femenino__1": [
+            "anuro"
+        ]
+    },
+    "sufijo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sufijo__sustantivo_masculino__1": [
+            "morfema",
+            "afijo"
+        ]
+    },
+    "tenedor": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tenedor__sustantivo_masculino__1": [
+            "cubierto"
+        ]
+    },
+    "\u00e1cido": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_8_\u00e1cido__sustantivo_masculino__1": [
+            "droga",
+            "psicoactivo",
+            "psicotr\u00f3pico"
+        ]
+    },
+    "Cuaternario": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_Cuaternario__sustantivo_masculino__1": [
+            "Cenozoico"
+        ]
+    },
+    "acroterio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_acroterio__sustantivo_femenino__1": [
+            "acrotera"
+        ]
+    },
+    "actin\u00f3grafo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_actin\u00f3grafo__sustantivo_masculino__1": [
+            "actinometr\u00eda",
+            "actin\u00f3metro"
+        ]
+    },
+    "adenocarcinoma": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_adenocarcinoma__sustantivo_masculino__1": [
+            "carcinoma",
+            "tumor"
+        ]
+    },
+    "adamismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_adamismo__sustantivo_masculino__1": [
+            "herej\u00eda"
+        ]
+    },
+    "ademador": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ademador__sustantivo_masculino__1": [
+            "fabricante",
+            "operario"
+        ]
+    },
+    "adenia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_adenia__sustantivo_femenino__1": [
+            "adenopat\u00eda"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_adenia__sustantivo_femenino__2": [
+            "adenopat\u00eda"
+        ]
+    },
+    "adenoides": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_adenoides__sustantivo_femenino__1": [
+            "adenopat\u00eda",
+            "adenitis"
+        ]
+    },
+    "aderra": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aderra__sustantivo_femenino__1": [
+            "maroma"
+        ]
+    },
+    "adipocira": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_adipocira__sustantivo_femenino__1": [
+            "cera",
+            "grasa"
+        ]
+    },
+    "adjetivaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_adjetivaci\u00f3n__sustantivo_femenino__1": [
+            "estilo"
+        ]
+    },
+    "adjunt\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_adjunt\u00eda__sustantivo_femenino__1": [
+            "plaza"
+        ]
+    },
+    "adrolla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_adrolla__sustantivo_femenino__1": [
+            "mentira",
+            "fraude",
+            "artificio",
+            "enga\u00f1o",
+            "falsedad"
+        ]
+    },
+    "aduloner\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aduloner\u00eda__sustantivo_femenino__1": [
+            "adulaci\u00f3n"
+        ]
+    },
+    "aerostera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aerostera__sustantivo_masculino__1": [
+            "tripulante"
+        ]
+    },
+    "aerostero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aerostero__sustantivo_masculino__1": [
+            "tripulante"
+        ]
+    },
+    "affid\u00e1vit": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_affid\u00e1vit__sustantivo_masculino__1": [
+            "acta"
+        ]
+    },
+    "afid\u00e1vit": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_afid\u00e1vit__sustantivo_masculino__1": [
+            "acta"
+        ]
+    },
+    "afil\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_afil\u00f3n__sustantivo_masculino__1": [
+            "afilador"
+        ]
+    },
+    "aflechade": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aflechade__sustantivo_masculino__1": [
+            "flechadura"
+        ]
+    },
+    "aflechaste": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aflechaste__sustantivo_masculino__1": [
+            "flechadura"
+        ]
+    },
+    "aflechate": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aflechate__sustantivo_masculino__1": [
+            "flechadura"
+        ]
+    },
+    "afronegrismo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_afronegrismo__sustantivo_masculino__1": [
+            "africanismo"
+        ]
+    },
+    "agarrador": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_6_agarrador__sustantivo_masculino__1": [
+            "pe\u00f3n"
+        ]
+    },
+    "agnaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_agnaci\u00f3n__sustantivo_femenino__1": [
+            "parentesco",
+            "afinidad"
+        ]
+    },
+    "agnaticio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_agnaticio__sustantivo_femenino__1": [
+            "af\u00edn"
+        ]
+    },
+    "agnombre": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_agnombre__sustantivo_masculino__1": [
+            "nombre",
+            "sobrenombre"
+        ]
+    },
+    "agnomento": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_agnomento__sustantivo_masculino__1": [
+            "nombre",
+            "sobrenombre"
+        ]
+    },
+    "agov\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_agov\u00eda__sustantivo_femenino__1": [
+            "calzado"
+        ]
+    },
+    "agrolog\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_agrolog\u00eda__sustantivo_femenino__1": [
+            "agronom\u00eda"
+        ]
+    },
+    "agrura": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_agrura__sustantivo_femenino__1": [
+            "jugo",
+            "zumo"
+        ]
+    },
+    "aguzanieves": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_aguzanieves__sustantivo_femenino__1": [
+            "lavandera"
+        ]
+    },
+    "albericoque": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_albericoque__sustantivo_masculino__1": [
+            "ciruela"
+        ]
+    },
+    "albercoque": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_albercoque__sustantivo_masculino__1": [
+            "ciruela"
+        ]
+    },
+    "alcor": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_alcor__sustantivo_masculino__1": [
+            "alto",
+            "accidente",
+            "eminencia"
+        ]
+    },
+    "alborga": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_alborga__sustantivo_femenino__1": [
+            "calzado"
+        ]
+    },
+    "altozano": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_altozano__sustantivo_masculino__1": [
+            "alto",
+            "eminencia",
+            "accidente"
+        ]
+    },
+    "arroaz": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_arroaz__sustantivo_masculino__1": [
+            "cet\u00e1ceo"
+        ]
+    },
+    "anarcocomunista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_anarcocomunista__sustantivo_femenino_y_masculino__1": [
+            "anarquista",
+            "comunista",
+            "socialista",
+            "an\u00e1rquico"
+        ]
+    },
+    "andanza": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_andanza__sustantivo_femenino__1": [
+            "epidemia"
+        ]
+    },
+    "automarginaci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_automarginaci\u00f3n__sustantivo_femenino__1": [
+            "marginaci\u00f3n"
+        ]
+    },
+    "autotrasformador": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_autotrasformador__sustantivo_masculino__1": [
+            "transformador"
+        ]
+    },
+    "avechucho": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_avechucho__sustantivo_masculino__1": [
+            "animalucho"
+        ]
+    },
+    "a\u00f1ico": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_a\u00f1ico__sustantivo_masculino__1": [
+            "trozo",
+            "pedazo",
+            "parte"
+        ]
+    },
+    "a\u00f1icos": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_a\u00f1icos__sustantivo_masculino__1": [
+            "parte",
+            "pedazo",
+            "trozo"
+        ]
+    },
+    "barbasco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_barbasco__sustantivo_masculino__1": [
+            "veneno"
+        ]
+    },
+    "bat\u00e1n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_11_bat\u00e1n__sustantivo_masculino__1": [
+            "aparejo"
+        ]
+    },
+    "bisexualidad": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_bisexualidad__sustantivo_femenino__1": [
+            "pansexualidad"
+        ]
+    },
+    "botamanga": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_botamanga__sustantivo_femenino__1": [
+            "doblez"
+        ]
+    },
+    "balsamera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_balsamera__sustantivo_femenino__1": [
+            "vasija"
+        ]
+    },
+    "balsamerita": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_balsamerita__sustantivo_femenino__1": [
+            "vasija"
+        ]
+    },
+    "barzal": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_barzal__sustantivo_masculino__1": [
+            "erial",
+            "matorral"
+        ]
+    },
+    "bochinche": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_bochinche__sustantivo_masculino__1": [
+            "porci\u00f3n"
+        ]
+    },
+    "bochincho": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bochincho__sustantivo_masculino__1": [
+            "porci\u00f3n"
+        ]
+    },
+    "canastilla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_canastilla__sustantivo_femenino__1": [
+            "ajuar"
+        ]
+    },
+    "brinquillo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_brinquillo__sustantivo_masculino__1": [
+            "joya",
+            "alhaja"
+        ]
+    },
+    "brinza": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_brinza__sustantivo_femenino__1": [
+            "filamento"
+        ]
+    },
+    "brizna": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_brizna__sustantivo_femenino__1": [
+            "filamento"
+        ]
+    },
+    "burusca": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_burusca__sustantivo_femenino__1": [
+            "arbusto"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_burusca__sustantivo_femenino__1": [
+            "filamento"
+        ]
+    },
+    "caramillo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_caramillo__sustantivo_masculino__1": [
+            "flauta"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_caramillo__sustantivo_masculino__2": [
+            "mont\u00f3n"
+        ]
+    },
+    "bre\u00f1a": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bre\u00f1a__sustantivo_femenino__1": [
+            "erial",
+            "monte",
+            "maleza"
+        ]
+    },
+    "bre\u00f1al": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bre\u00f1al__sustantivo_femenino__1": [
+            "erial",
+            "monte",
+            "maleza"
+        ]
+    },
+    "bre\u00f1ar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bre\u00f1ar__sustantivo_femenino__1": [
+            "erial",
+            "monte",
+            "maleza"
+        ]
+    },
+    "bufido": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_bufido__sustantivo_masculino__1": [
+            "soplido"
+        ]
+    },
+    "charral": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_charral__sustantivo_masculino__1": [
+            "erial"
+        ]
+    },
+    "chicharroner\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chicharroner\u00eda__sustantivo_femenino__1": [
+            "adulaci\u00f3n"
+        ]
+    },
+    "chipa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_chipa__sustantivo_femenino__1": [
+            "rollo"
+        ]
+    },
+    "chiribital": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chiribital__sustantivo_masculino__1": [
+            "erial"
+        ]
+    },
+    "chiriviscal": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chiriviscal__sustantivo_masculino__1": [
+            "erial",
+            "matorral"
+        ]
+    },
+    "chirivisco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chirivisco__sustantivo_masculino__1": [
+            "barzal",
+            "zarzal"
+        ]
+    },
+    "cocotazo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cocotazo__sustantivo_masculino__1": [
+            "golpe"
+        ]
+    },
+    "colino": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_colino__sustantivo_masculino__1": [
+            "plant\u00edo",
+            "sembrad\u00edo"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_colino__sustantivo_masculino__1": [
+            "vicioso"
+        ]
+    },
+    "contorsionista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_contorsionista__sustantivo_femenino_y_masculino__1": [
+            "acr\u00f3bata"
+        ]
+    },
+    "corredera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_corredera__sustantivo_femenino__1": [
+            "ranura",
+            "concavidad",
+            "carril"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_7_corredera__sustantivo_femenino__1": [
+            "muela"
+        ]
+    },
+    "cognaticio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cognaticio__sustantivo_femenino__1": [
+            "af\u00edn"
+        ]
+    },
+    "cuarteto": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_cuarteto__sustantivo_masculino__1": [
+            "redondilla"
+        ]
+    },
+    "cuchillar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_cuchillar__sustantivo_masculino__1": [
+            "accidente",
+            "alto",
+            "eminencia"
+        ]
+    },
+    "cueto": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cueto__sustantivo_femenino__1": [
+            "colina"
+        ]
+    },
+    "cuentah\u00edlos": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cuentah\u00edlos__sustantivo_masculino__1": [
+            "lupa"
+        ]
+    },
+    "dogal": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_dogal__sustantivo_masculino__1": [
+            "lazo"
+        ]
+    },
+    "elotada": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_elotada__sustantivo_femenino__1": [
+            "reuni\u00f3n"
+        ]
+    },
+    "eneadec\u00e1gono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_eneadec\u00e1gono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "enfoscadero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_enfoscadero__sustantivo_masculino__1": [
+            "paso",
+            "pasaje"
+        ]
+    },
+    "epistemicidio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_epistemicidio__sustantivo_masculino__1": [
+            "colonialismo"
+        ]
+    },
+    "enflechaste": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_enflechaste__sustantivo_masculino__1": [
+            "flechadura"
+        ]
+    },
+    "esponjilla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_esponjilla__sustantivo_femenino__1": [
+            "estropajo"
+        ]
+    },
+    "farfolla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_farfolla__sustantivo_femenino__1": [
+            "c\u00e1scara",
+            "espata",
+            "envoltura",
+            "br\u00e1ctea"
+        ]
+    },
+    "fas\u00e9olo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_fas\u00e9olo__sustantivo_masculino__1": [
+            "legumbre"
+        ]
+    },
+    "fito": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_fito__sustantivo_masculino__1": [
+            "se\u00f1al"
+        ]
+    },
+    "fosquera": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_fosquera__sustantivo_femenino__1": [
+            "suciedad",
+            "broza"
+        ]
+    },
+    "frejol": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_frejol__sustantivo_masculino__1": [
+            "legumbre"
+        ]
+    },
+    "frijol": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_frijol__sustantivo_masculino__1": [
+            "legumbre"
+        ]
+    },
+    "frij\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_frij\u00f3n__sustantivo_masculino__1": [
+            "legumbre"
+        ]
+    },
+    "frisol": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_frisol__sustantivo_masculino__1": [
+            "legumbre"
+        ]
+    },
+    "frisuelo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_frisuelo__sustantivo_masculino__1": [
+            "legumbre"
+        ]
+    },
+    "fr\u00e9jol": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_fr\u00e9jol__sustantivo_masculino__1": [
+            "legumbre"
+        ]
+    },
+    "fr\u00edsol": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_fr\u00edsol__sustantivo_masculino__1": [
+            "legumbre"
+        ]
+    },
+    "estenosis": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_estenosis__sustantivo_femenino__1": [
+            "estrechez",
+            "anomal\u00eda"
+        ]
+    },
+    "figula": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_figula__sustantivo_femenino__1": [
+            "flechadura"
+        ]
+    },
+    "herramental": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_herramental__sustantivo_masculino__1": [
+            "herramienta"
+        ]
+    },
+    "hayedo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hayedo__sustantivo_masculino__1": [
+            "bosque"
+        ]
+    },
+    "hexadec\u00e1gono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hexadec\u00e1gono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "gancho": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_8_gancho__sustantivo_masculino__1": [
+            "rasgo"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_13_gancho__sustantivo_masculino__1": [
+            "trampa"
+        ]
+    },
+    "gavillero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_gavillero__sustantivo_masculino__1": [
+            "jornalero",
+            "pe\u00f3n",
+            "campesino"
+        ]
+    },
+    "guataquer\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_guataquer\u00eda__sustantivo_femenino__1": [
+            "adulaci\u00f3n"
+        ]
+    },
+    "g\u00e1ndara": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_g\u00e1ndara__sustantivo_femenino__1": [
+            "erial",
+            "monte",
+            "espesura"
+        ]
+    },
+    "huepo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_huepo__sustantivo_masculino__1": [
+            "navaja"
+        ]
+    },
+    "isidro": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_isidro__sustantivo_masculino__1": [
+            "aldeano"
+        ]
+    },
+    "jaral": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_jaral__sustantivo_masculino__1": [
+            "erial",
+            "matorral"
+        ]
+    },
+    "lesbofobia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lesbofobia__sustantivo_femenino__1": [
+            "homofobia"
+        ]
+    },
+    "mamel\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mamel\u00f3n__sustantivo_masculino__1": [
+            "colina"
+        ]
+    },
+    "medicucha": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_medicucha__sustantivo_femenino__1": [
+            "doctora"
+        ]
+    },
+    "medicucho": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_medicucho__sustantivo_masculino__1": [
+            "m\u00e9dico",
+            "doctor",
+            "curandero"
+        ]
+    },
+    "mestura": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_mestura__sustantivo_femenino__1": [
+            "acompa\u00f1ante"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mestura__sustantivo_femenino__1": [
+            "mezcla"
+        ]
+    },
+    "micada": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_micada__sustantivo_femenino__1": [
+            "adorno"
+        ]
+    },
+    "lisonjer\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_lisonjer\u00eda__sustantivo_femenino__1": [
+            "adulaci\u00f3n"
+        ]
+    },
+    "maleza": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_maleza__sustantivo_masculino__1": [
+            "monte",
+            "erial"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_maleza__sustantivo_masculino__1": [
+            "enfermedad"
+        ]
+    },
+    "mens\u00fa": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mens\u00fa__sustantivo_masculino__1": [
+            "mensual",
+            "obrero",
+            "pe\u00f3n",
+            "trabajador"
+        ]
+    },
+    "miquero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_miquero__sustantivo_masculino__1": [
+            "podador"
+        ]
+    },
+    "mochil": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mochil__sustantivo_masculino__1": [
+            "mensajero"
+        ]
+    },
+    "mochilero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mochilero__sustantivo_masculino__1": [
+            "viajero"
+        ]
+    },
+    "mochilita": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mochilita__sustantivo_femenino__1": [
+            "estropajo"
+        ]
+    },
+    "mogote": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_mogote__sustantivo_masculino__1": [
+            "mont\u00f3n"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mogote__sustantivo_masculino__1": [
+            "otero"
+        ]
+    },
+    "obsesi\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_obsesi\u00f3n__sustantivo_femenino__1": [
+            "perturbaci\u00f3n",
+            "trastorno"
+        ]
+    },
+    "octodec\u00e1gono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_octodec\u00e1gono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "otero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_otero__sustantivo_masculino__1": [
+            "cerro"
+        ]
+    },
+    "panderet\u00f3logo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_panderet\u00f3logo__sustantivo_masculino__1": [
+            "pandereta"
+        ]
+    },
+    "montazal": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_montazal__sustantivo_masculino__1": [
+            "monte",
+            "espesura",
+            "erial"
+        ]
+    },
+    "motel": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_motel__sustantivo_masculino__1": [
+            "edificio"
+        ]
+    },
+    "nacionalpopulista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_nacionalpopulista__sustantivo_femenino_y_masculino__1": [
+            "nacionalista"
+        ]
+    },
+    "nigola": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_nigola__sustantivo_femenino__1": [
+            "flechadura"
+        ]
+    },
+    "portu\u00f1ol riverense": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_portu\u00f1ol_riverense__sustantivo_masculino__1": [
+            "portu\u00f1ol"
+        ]
+    },
+    "patoneada": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_patoneada__sustantivo_femenino__1": [
+            "caminata"
+        ]
+    },
+    "pelotazo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_pelotazo__sustantivo_masculino__1": [
+            "trago"
+        ]
+    },
+    "peraleda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_peraleda__sustantivo_femenino__1": [
+            "huerto",
+            "cultivo",
+            "plantaci\u00f3n"
+        ]
+    },
+    "percance": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_percance__sustantivo_masculino__1": [
+            "utilidad",
+            "provecho"
+        ]
+    },
+    "pereda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pereda__sustantivo_femenino__1": [
+            "huerto",
+            "cultivo",
+            "plantaci\u00f3n"
+        ]
+    },
+    "perendengue": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_perendengue__sustantivo_masculino__1": [
+            "problema"
+        ]
+    },
+    "perendengues": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_perendengues__sustantivo_masculino__1": [
+            "problema"
+        ]
+    },
+    "perfolla": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_perfolla__sustantivo_femenino__1": [
+            "c\u00e1scara"
+        ]
+    },
+    "pezp\u00edtalo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pezp\u00edtalo__sustantivo_masculino__1": [
+            "lavandera"
+        ]
+    },
+    "plumafobia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_plumafobia__sustantivo_femenino__1": [
+            "homofobia"
+        ]
+    },
+    "plumofobia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_plumofobia__sustantivo_femenino__1": [
+            "homofobia"
+        ]
+    },
+    "primaz": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_primaz__sustantivo_masculino__1": [
+            "cat\u00f3lico",
+            "cura",
+            "cristiano",
+            "sacerdote",
+            "obispo"
+        ]
+    },
+    "primeridad": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_primeridad__sustantivo_femenino__1": [
+            "superioridad"
+        ]
+    },
+    "pelot\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_pelot\u00f3n__sustantivo_masculino__1": [
+            "tropa"
+        ]
+    },
+    "pinaza": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pinaza__sustantivo_masculino__1": [
+            "hojarasca"
+        ]
+    },
+    "primer\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_primer\u00eda__sustantivo_femenino__1": [
+            "superioridad",
+            "excelencia"
+        ]
+    },
+    "primicia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_primicia__sustantivo_femenino__1": [
+            "noticia"
+        ]
+    },
+    "progenitora": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_progenitora__sustantivo_femenino__1": [
+            "antepasado",
+            "ancestro",
+            "antecesor"
+        ]
+    },
+    "prosopagnosia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_prosopagnosia__sustantivo_femenino__1": [
+            "agnosia"
+        ]
+    },
+    "puche": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_puche__sustantivo_masculino__1": [
+            "pop\u00f3",
+            "excremento"
+        ]
+    },
+    "p\u00e9ndula": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_p\u00e9ndula__sustantivo_femenino__1": [
+            "p\u00e9ndulo"
+        ]
+    },
+    "rejoneador": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_rejoneador__sustantivo_masculino__1": [
+            "garrochista",
+            "agarrochador"
+        ]
+    },
+    "rejoneadora": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_rejoneadora__sustantivo_femenino__1": [
+            "garrochista",
+            "agarrochador"
+        ]
+    },
+    "pseudodesinencia": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pseudodesinencia__sustantivo_femenino__1": [
+            "morfema",
+            "afijo"
+        ]
+    },
+    "reigola": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_reigola__sustantivo_femenino__1": [
+            "flechadura"
+        ]
+    },
+    "rondana": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_rondana__sustantivo_femenino__1": [
+            "rodete"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_rondana__sustantivo_femenino__1": [
+            "rodaja"
+        ]
+    },
+    "sacali\u00f1a": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_sacali\u00f1a__sustantivo_femenino__1": [
+            "ardid"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sacali\u00f1a__sustantivo_femenino__1": [
+            "vara"
+        ]
+    },
+    "siguemepollo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_siguemepollo__sustantivo_masculino__1": [
+            "cinta"
+        ]
+    },
+    "retraducci\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_retraducci\u00f3n__sustantivo_femenino__1": [
+            "traducci\u00f3n"
+        ]
+    },
+    "sard\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sard\u00f3n__sustantivo_masculino__1": [
+            "erial",
+            "monte",
+            "espesura"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_sard\u00f3n__sustantivo_masculino__1": [
+            "mata"
+        ]
+    },
+    "tetradec\u00e1gono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tetradec\u00e1gono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "tridec\u00e1gono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tridec\u00e1gono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "tula": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tula__sustantivo_femenino_y_masculino__1": [
+            "pillado"
+        ]
+    },
+    "trapacer\u00eda": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_trapacer\u00eda__sustantivo_femenino__1": [
+            "artificio"
+        ]
+    },
+    "zanj\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_zanj\u00f3n__sustantivo_masculino__1": [
+            "surco"
+        ]
+    },
+    "basalto": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__basalto__nom__1": [
+            "roche volcanique"
+        ]
+    },
+    "aumentativo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_aumentativo__sustantivo_masculino__1": [
+            "vocablo",
+            "palabra"
+        ]
+    },
+    "caballero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_caballero__sustantivo_masculino__1": [
+            "hombre"
+        ]
+    },
+    "arm\u00edgero": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_arm\u00edgero__sustantivo_masculino__1": [
+            "escudero"
+        ]
+    },
+    "contingente": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_contingente__sustantivo_masculino__1": [
+            "tropa"
+        ]
+    },
+    "diminutivo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_diminutivo__sustantivo_masculino__1": [
+            "vocablo",
+            "palabra"
+        ]
+    },
+    "dirigible": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_dirigible__sustantivo_masculino__1": [
+            "aerostato"
+        ]
+    },
+    "instante": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_instante__sustantivo_masculino__1": [
+            "hora",
+            "rato",
+            "d\u00eda",
+            "minuto"
+        ]
+    },
+    "digital": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_digital__sustantivo_masculino__1": [
+            "digital"
+        ]
+    },
+    "mitad": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_mitad__sustantivo_femenino__1": [
+            "entero",
+            "totalidad"
+        ]
+    },
+    "oct\u00f3gono": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_oct\u00f3gono__sustantivo_masculino__1": [
+            "pol\u00edgono"
+        ]
+    },
+    "subordinado": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_subordinado__sustantivo_masculino__1": [
+            "inferior"
+        ]
+    },
+    "tricornio": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_tricornio__sustantivo_masculino__1": [
+            "polic\u00eda",
+            "madero"
+        ]
+    },
+    "alba\u00f1il": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__alba\u00f1il__nom__1": [
+            "obrero",
+            "artesano"
+        ]
+    },
+    "asno": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__asno__nom__1": [
+            "mam\u00edfero",
+            "animal"
+        ]
+    },
+    "avispa": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__avispa__nom__1": [
+            "insecto",
+            "animal"
+        ]
+    },
+    "ababa": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__ababa__nom__1": [
+            "planta"
+        ]
+    },
+    "abacer\u00eda": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__abacer\u00eda__nom__1": [
+            "comercio",
+            "puesto",
+            "tienda"
+        ]
+    },
+    "abajadero": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__abajadero__nom__1": [
+            "terreno"
+        ]
+    },
+    "lanz\u00f3n": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__lanz\u00f3n__nom__1": [
+            "lanza"
+        ]
+    },
+    "poro": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__poro__nom__2": [
+            "calabaza"
+        ]
+    },
+    "sicario": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__sicario__nom__1": [
+            "asesino"
+        ]
+    },
+    "animotop\u00f3nimo": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__animotop\u00f3nimo__nom__1": [
+            "top\u00f3nimo"
+        ]
+    },
+    "antropotop\u00f3nimo": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__antropotop\u00f3nimo__nom__1": [
+            "top\u00f3nimo"
+        ]
+    },
+    "jilguero": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__jilguero__nom__1": [
+            "ave",
+            "p\u00e1jaro",
+            "gorri\u00f3n"
+        ]
+    },
+    "astrotop\u00f3nimo": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__astrotop\u00f3nimo__nom__1": [
+            "top\u00f3nimo"
+        ]
+    },
+    "butaca": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__butaca__nom__1": [
+            "asiento"
+        ]
+    },
+    "cuca": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__cuca__nom__1": [
+            "bicho"
+        ]
+    },
+    "metate": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__metate__nom__1": [
+            "muela"
+        ]
+    },
+    "madrota": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__madrota__nom__1": [
+            "proxeneta"
+        ]
+    },
+    "desarrollador": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__desarrollador__nom__1": [
+            "programador"
+        ]
+    },
+    "trovador": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__trovador__nom__1": [
+            "poeta"
+        ]
+    },
+    "arenisca": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__arenisca__nom__1": [
+            "roca cl\u00e1stica"
+        ]
+    },
+    "costra calc\u00e1rea": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__costra_calc\u00e1rea__nom__1": [
+            "roca carbonatada"
+        ]
+    },
+    "formaci\u00f3n ferr\u00edfera": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__formaci\u00f3n_ferr\u00edfera__nom__1": [
+            "roca qu\u00edmica"
+        ]
+    },
+    "roca carbonatada": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__roca_carbonatada__nom__1": [
+            "roca sedimentaria"
+        ]
+    },
+    "roca carbonosa": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__roca_carbonosa__nom__1": [
+            "roca sedimentaria"
+        ]
+    },
+    "manopla": {
+        "NOT_A_SYNSET": [
+            "guante"
+        ]
+    },
+    "elote": {
+        "NOT_A_SYNSET": [
+            "mazorca"
+        ]
+    },
+    "damasco": {
+        "NOT_A_SYNSET": [
+            "albaricoque",
+            "albaricoquero"
+        ]
+    },
+    "tertulia": {
+        "NOT_A_SYNSET": [
+            "junta",
+            "corredor",
+            "reuni\u00f3n"
+        ]
+    },
+    "mole": {
+        "NOT_A_SYNSET": [
+            "salsa"
+        ]
+    },
+    "vibrador": {
+        "NOT_A_SYNSET": [
+            "consolador"
+        ]
+    },
+    "abalorio": {
+        "NOT_A_SYNSET": [
+            "vidrio"
+        ]
+    },
+    "caguama": {
+        "NOT_A_SYNSET": [
+            "botella",
+            "tortuga",
+            "envase"
+        ]
+    }
+}

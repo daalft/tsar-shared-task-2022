@@ -1,0 +1,8614 @@
+{
+    "expansion pack": [
+        "DLC"
+    ],
+    "antidote": [
+        "universal",
+        "universal",
+        "universal",
+        "universal",
+        "universal",
+        "universal",
+        "serum",
+        "serum",
+        "serum",
+        "serum",
+        "serum",
+        "serum",
+        "antivenin",
+        "theriac",
+        "mithridate",
+        "antivenene",
+        "antivenom",
+        "serum",
+        "treacle",
+        "universal",
+        "antiserum",
+        "antivenin",
+        "Venice treacle",
+        "mithridaticon",
+        "mithridatium"
+    ],
+    "catamaran": [
+        "AC45",
+        "AC72",
+        "AC45",
+        "AC72",
+        "AC45",
+        "AC72",
+        "AC45",
+        "AC72"
+    ],
+    "demon": [
+        "Maxwell's demon"
+    ],
+    "gland": [
+        "cable gland"
+    ],
+    "leaven": [
+        "baking powder",
+        "yeast"
+    ],
+    "member": [
+        "male member",
+        "crewmember",
+        "family member",
+        "party member"
+    ],
+    "pharaoh": [
+        "pharaohess"
+    ],
+    "approach": [
+        "instrument approach",
+        "nonprecision approach",
+        "precision approach"
+    ],
+    "concentration camp": [
+        "death camp",
+        "extermination camp",
+        "internment camp"
+    ],
+    "corn": [
+        "callus"
+    ],
+    "determiner": [
+        "much",
+        "much",
+        "each",
+        "each",
+        "much",
+        "much",
+        "much",
+        "much",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "any",
+        "article",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "article",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "this",
+        "an",
+        "an",
+        "this",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "an",
+        "any",
+        "this",
+        "an",
+        "the",
+        "most",
+        "most",
+        "the",
+        "the",
+        "most",
+        "most",
+        "the",
+        "three",
+        "most",
+        "the",
+        "the",
+        "most",
+        "the",
+        "the",
+        "most",
+        "most",
+        "most",
+        "the",
+        "the",
+        "most",
+        "the",
+        "three",
+        "most",
+        "the",
+        "the",
+        "most",
+        "the",
+        "the",
+        "quantifier",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "a",
+        "an",
+        "article",
+        "cardinal number",
+        "this",
+        "predeterminer",
+        "the",
+        "demonstrative determiner",
+        "possessive determiner",
+        "quantifier",
+        "most",
+        "postdeterminer",
+        "any",
+        "much",
+        "a",
+        "three",
+        "each",
+        "those"
+    ],
+    "fingerprint": [
+        "thumbprint"
+    ],
+    "hunter": [
+        "white hunter",
+        "headhunter",
+        "fortune hunter"
+    ],
+    "program": [
+        "subprogram",
+        "space program"
+    ],
+    "glider": [
+        "motor glider",
+        "sailplane",
+        "hang glider",
+        "paraglider"
+    ],
+    "agate": [
+        "moss agate"
+    ],
+    "interval": [
+        "half-open interval",
+        "open interval",
+        "closed interval",
+        "subinterval"
+    ],
+    "nun": [
+        "Poor Clare"
+    ],
+    "execution": [
+        "crucifixion",
+        "crucifixion",
+        "lethal injection",
+        "electrocution",
+        "hanging"
+    ],
+    "expert": [
+        "connoisseur",
+        "connoisseur"
+    ],
+    "heterosexuality": [
+        "heteroflexibility"
+    ],
+    "homosexuality": [
+        "lesbianism",
+        "lesbianism"
+    ],
+    "imaginary number": [
+        "purely imaginary number"
+    ],
+    "meaning": [
+        "proposition",
+        "proposition",
+        "proposition",
+        "proposition"
+    ],
+    "binary relation": [
+        "equivalence relation"
+    ],
+    "C": [
+        "high C",
+        "middle C"
+    ],
+    "alpine snowboarding": [
+        "slalom",
+        "slalom",
+        "slalom",
+        "slalom",
+        "slalom",
+        "slalom",
+        "slalom",
+        "slalom",
+        "giant slalom",
+        "parallel giant slalom",
+        "parallel slalom"
+    ],
+    "handler": [
+        "event handler",
+        "exception handler"
+    ],
+    "soda": [
+        "sodium bicarbonate",
+        "sodium carbonate",
+        "\u03b1\u03bd\u03b8\u03c1\u03b1\u03ba\u03b9\u03ba\u03cc \u03bd\u03ac\u03c4\u03c1\u03b9\u03bf",
+        "\u03b4\u03b9\u03c4\u03c4\u03b1\u03bd\u03b8\u03c1\u03b1\u03ba\u03b9\u03ba\u03cc \u03bd\u03ac\u03c4\u03c1\u03b9\u03bf"
+    ],
+    "thread": [
+        "green thread"
+    ],
+    "chipset": [
+        "northbridge",
+        "southbridge"
+    ],
+    "compatibility": [
+        "backward compatibility"
+    ],
+    "encoding": [
+        "base64"
+    ],
+    "jumper": [
+        "jumper wire",
+        "pin jumper"
+    ],
+    "server": [
+        "OCS",
+        "proxy server",
+        "web server"
+    ],
+    "rolling scissors": [
+        "defensive spiral"
+    ],
+    "regicide": [
+        "tyrannicide",
+        "tyrannicide"
+    ],
+    "rigid": [
+        "Zeppelin",
+        "Zeppelin"
+    ],
+    "step": [
+        "back",
+        "back",
+        "back",
+        "back",
+        "half",
+        "half",
+        "back",
+        "half",
+        "half step"
+    ],
+    "yard": [
+        "virgate",
+        "virgate"
+    ],
+    "real number": [
+        "rational number",
+        "irrational number"
+    ],
+    "rhyme": [
+        "pararhyme",
+        "end rhyme",
+        "half rhyme",
+        "slant rhyme",
+        "internal rhyme",
+        "perfect rhyme",
+        "exact rhyme",
+        "stave-rhyme",
+        "full rhyme"
+    ],
+    "soup": [
+        "bisque",
+        "pur\u00e9e",
+        "pur\u00e9e",
+        "pur\u00e9e",
+        "velout\u00e9",
+        "velout\u00e9",
+        "porridge",
+        "porridge",
+        "broth",
+        "bouillon",
+        "bouillon",
+        "consomm\u00e9",
+        "consomm\u00e9",
+        "consomm\u00e9",
+        "gazpacho",
+        "gazpacho",
+        "gazpacho",
+        "bouillon",
+        "gruel",
+        "consomm\u00e9",
+        "broth",
+        "gazpacho",
+        "velout\u00e9",
+        "porridge",
+        "summer soup",
+        "chowder",
+        "bisque",
+        "pur\u00e9e"
+    ],
+    "constructed language": [
+        "artlang",
+        "worldlang"
+    ],
+    "contract": [
+        "bailment"
+    ],
+    "master": [
+        "mistress"
+    ],
+    "nosegay": [
+        "tussie-mussie"
+    ],
+    "possession": [
+        "mortmain"
+    ],
+    "pottery": [
+        "china",
+        "china",
+        "china",
+        "china",
+        "china",
+        "china",
+        "china",
+        "porcelain",
+        "china"
+    ],
+    "surrogate": [
+        "high surrogate",
+        "low surrogate"
+    ],
+    "triple": [
+        "Hoare triple"
+    ],
+    "environmentalism": [
+        "ecosocialism",
+        "ecocapitalism"
+    ],
+    "regionalism": [
+        "Canadianism",
+        "Australianism",
+        "Briticism",
+        "Britishism",
+        "Americanism"
+    ],
+    "spiritualism": [
+        "spiritism",
+        "spiritism",
+        "Kardecism"
+    ],
+    "register": [
+        "cash register",
+        "parish register"
+    ],
+    "rival": [
+        "rivaless"
+    ],
+    "sadomasochism": [
+        "masochism",
+        "sadism",
+        "BDSM",
+        "masochism",
+        "sadism"
+    ],
+    "septum": [
+        "septum pellucidum",
+        "interventricular septum",
+        "nasal septum"
+    ],
+    "caret": [
+        "inverted caret"
+    ],
+    "junco": [
+        "dark-eyed junco",
+        "snowbird"
+    ],
+    "kelp": [
+        "kombu",
+        "kombu",
+        "kombu"
+    ],
+    "lessee": [
+        "sublessee",
+        "undertenant",
+        "subtenant",
+        "underlessee"
+    ],
+    "phenol": [
+        "glycin",
+        "cresol",
+        "cresol",
+        "paracetamol",
+        "morphine",
+        "paracetamol",
+        "paracetamol",
+        "paracetamol",
+        "paracetamol",
+        "tyrosine",
+        "thymol",
+        "metol",
+        "eugenol",
+        "eugenol",
+        "paraben",
+        "amidol",
+        "amidol",
+        "amidol",
+        "amidol",
+        "gossypol",
+        "sesamol",
+        "proanthocyanidin",
+        "eugenol",
+        "guaiacol",
+        "piceatannol",
+        "catechin",
+        "paraben",
+        "umbelliferone",
+        "amidol",
+        "anacardic acid",
+        "carvacrol",
+        "chloroxylenol",
+        "homocapsaicin",
+        "homogentisic acid",
+        "salicylaldoxime",
+        "thorin",
+        "xantocillin",
+        "aminosalicylic acid",
+        "ferulic acid",
+        "hexachlorophenol",
+        "parietin",
+        "ractopamine",
+        "cardanol",
+        "creosol",
+        "dichlorophenol",
+        "gingerol",
+        "oleuropein",
+        "butylparaben",
+        "theaflavin",
+        "oleocanthal",
+        "rosmarinic acid",
+        "alkylphenol",
+        "sulfanylphenol",
+        "punicalagins",
+        "syringol",
+        "salbutamol",
+        "salbutamol",
+        "estradiol",
+        "estradiol",
+        "pyrogallol",
+        "resveratrol",
+        "morphine",
+        "catechol",
+        "tannic acid",
+        "aurin",
+        "bisphenol",
+        "cresol",
+        "styphnic acid",
+        "metol",
+        "phenolphthalein",
+        "resveratrol",
+        "chlorophenol",
+        "ketobemidone",
+        "naphthol",
+        "nitrophenol",
+        "dichlorophen",
+        "dinoseb",
+        "dithranol",
+        "orcin",
+        "orsellinic acid",
+        "hematein",
+        "xibornol",
+        "chavicol",
+        "apocynin",
+        "probucol",
+        "nonylphenol",
+        "oxyphenisatine",
+        "cichoric acid",
+        "methylparaben",
+        "prenalterol",
+        "homovanillic acid",
+        "hordenine",
+        "propylparaben",
+        "phloroglucinol",
+        "picric acid",
+        "pyrogallol",
+        "tyrosine",
+        "thymol",
+        "pentachlorophenol",
+        "calcein",
+        "combretastatin",
+        "curcumin",
+        "polyphenol",
+        "glycin",
+        "propofol",
+        "triclosan",
+        "ethylvanillin",
+        "ketazocine",
+        "xylenol",
+        "bisoxatin",
+        "bithionol",
+        "diethylstilbestrol",
+        "homosalate",
+        "oxantel",
+        "xamoterol",
+        "zingerone",
+        "hydroxytyrosol",
+        "tyrosol",
+        "rubrocurcumin",
+        "gallic acid",
+        "salicylic acid",
+        "tyramine",
+        "methyl salicylate",
+        "salbutamol",
+        "alizarin",
+        "coumaric acid",
+        "honokiol",
+        "curcuminoid",
+        "paradol",
+        "bamethan",
+        "biclotymol",
+        "clofoctol",
+        "desaspidin",
+        "dimetofrine",
+        "etilefrine",
+        "gepefrine",
+        "ifenprodil",
+        "mequinol",
+        "mesalazine",
+        "monobenzone",
+        "norfenefrine",
+        "octabenzone",
+        "coumestrol",
+        "ethylparaben",
+        "shogaol",
+        "chromotropic acid",
+        "thyronamine",
+        "difluorophenol",
+        "paracetamol",
+        "vanillin",
+        "resorcinol",
+        "estradiol",
+        "ellagic acid",
+        "bromoxynil",
+        "salicylaldehyde",
+        "trichlorophenol",
+        "oxybenzone",
+        "picamar",
+        "magnolol",
+        "anthrapurpurin",
+        "rosocyanine",
+        "dioxybenzone"
+    ],
+    "pyrite": [
+        "pyrrhotite",
+        "iron pyrite",
+        "pyrrhotite"
+    ],
+    "riffle": [
+        "white water"
+    ],
+    "rotor": [
+        "wound rotor",
+        "tail rotor"
+    ],
+    "rugger": [
+        "rugby sevens",
+        "rugby union",
+        "rugby union",
+        "rugby league"
+    ],
+    "serum": [
+        "antidote",
+        "antidote",
+        "antivenom"
+    ],
+    "stasis": [
+        "equilibrium"
+    ],
+    "sumac": [
+        "skunkbush"
+    ],
+    "assignment": [
+        "augmented assignment"
+    ],
+    "logogram": [
+        "Arameogram",
+        "heterogram",
+        "Sumerogram"
+    ],
+    "sealskin": [
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin"
+    ],
+    "wryneck": [
+        "Eurasian wryneck"
+    ],
+    "term": [
+        "semester",
+        "semester",
+        "trimester",
+        "semester",
+        "trimester",
+        "semester",
+        "semester",
+        "trimester",
+        "quarter",
+        "quarter",
+        "umbrella term",
+        "semester",
+        "trimester",
+        "blanket term",
+        "quarter"
+    ],
+    "aspect": [
+        "progressive aspect",
+        "grammatical aspect",
+        "lexical aspect",
+        "aorist aspect",
+        "imperfective aspect",
+        "iterative aspect",
+        "perfective aspect",
+        "semelfactive aspect"
+    ],
+    "aspen": [
+        "quaking aspen"
+    ],
+    "erasure": [
+        "type erasure"
+    ],
+    "rugby": [
+        "union",
+        "union",
+        "union",
+        "union",
+        "union",
+        "union",
+        "union",
+        "union",
+        "union",
+        "union",
+        "RU",
+        "RU",
+        "RU",
+        "rugby sevens",
+        "rugby union",
+        "league",
+        "union",
+        "rugby union",
+        "rugby league"
+    ],
+    "theocracy": [
+        "sharia law"
+    ],
+    "Greek alphabet": [
+        "alphabets",
+        "alphabets",
+        "epichoric"
+    ],
+    "breviary": [
+        "psalter"
+    ],
+    "heart failure": [
+        "HFrEF"
+    ],
+    "porcelain": [
+        "softpaste",
+        "hard-paste",
+        "soft-paste"
+    ],
+    "taro": [
+        "swamp taro"
+    ],
+    "chastity belt": [
+        "chastity cage"
+    ],
+    "correspondent": [
+        "stringer"
+    ],
+    "pigskin": [
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin"
+    ],
+    "psalter": [
+        "quinquagene"
+    ],
+    "trolley": [
+        "interurban",
+        "interurban"
+    ],
+    "public assistance": [
+        "dole",
+        "dole",
+        "dole",
+        "dole",
+        "dole",
+        "dole",
+        "dole",
+        "dole",
+        "medicare",
+        "medicare",
+        "medicare",
+        "welfare",
+        "dole",
+        "welfare",
+        "social security",
+        "pogey",
+        "medicare"
+    ],
+    "banker": [
+        "usurer",
+        "saraf",
+        "saraf",
+        "saraf",
+        "loan shark",
+        "usurer",
+        "shroff"
+    ],
+    "beam": [
+        "H-beam",
+        "T-beam",
+        "I-beam"
+    ],
+    "caution": [
+        "precaution"
+    ],
+    "laker": [
+        "whaleback"
+    ],
+    "yucca": [
+        "Joshua tree",
+        "Adam's needle"
+    ],
+    "impostor": [
+        "quack"
+    ],
+    "pathobiology": [
+        "pathoanatomy",
+        "pathophysiology"
+    ],
+    "quartic": [
+        "squircle"
+    ],
+    "recurrence": [
+        "recrudescence",
+        "resurgence",
+        "reemergence",
+        "recrudescence"
+    ],
+    "compiler": [
+        "transcompiler",
+        "transpiler",
+        "cross compiler"
+    ],
+    "memory": [
+        "RAM",
+        "RAM",
+        "internal memory",
+        "physical memory",
+        "primary memory",
+        "prime memory",
+        "virtual memory",
+        "auxiliary memory",
+        "non-volatile memory",
+        "system memory",
+        "random access memory",
+        "cache memory",
+        "flash memory",
+        "main memory",
+        "register",
+        "secondary memory",
+        "volatile memory"
+    ],
+    "e-mail": [
+        "noreply",
+        "web-based email",
+        "webmail"
+    ],
+    "event": [
+        "event-based",
+        "event-driven",
+        "doomsday event",
+        "blessed event",
+        "sentinel event",
+        "speciation event",
+        "credit event",
+        "quick time event",
+        "K-T extinction event",
+        "current events"
+    ],
+    "function": [
+        "callback",
+        "event handler",
+        "higher-order function",
+        "listener",
+        "acidity function",
+        "executive ego function",
+        "subfunction",
+        "control function"
+    ],
+    "site": [
+        "static site",
+        "static website"
+    ],
+    "storage": [
+        "data storage",
+        "primary storage",
+        "disk storage",
+        "mass storage",
+        "storage device",
+        "storage disk",
+        "storage medium"
+    ],
+    "code": [
+        "boilerplate code",
+        "legacy code",
+        "pseudocode",
+        "source code"
+    ],
+    "directory": [
+        "home directory"
+    ],
+    "environment": [
+        "operating system",
+        "IDE",
+        "IDE",
+        "platform"
+    ],
+    "interpreter": [
+        "command-line interpreter",
+        "parts interpreter",
+        "historical interpreter"
+    ],
+    "shortcut": [
+        "keyboard shortcut",
+        "shortcut key",
+        "symbolic link"
+    ],
+    "variable": [
+        "bound variable",
+        "free variable",
+        "global variable",
+        "local variable",
+        "scope"
+    ],
+    "semiring": [
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring",
+        "ring"
+    ],
+    "spicebush": [
+        "Carolina allspice"
+    ],
+    "wireless network": [
+        "Wi-Fi",
+        "Wi-Fi",
+        "Wi-Fi"
+    ],
+    "endmember": [
+        "hedenbergite",
+        "anorthite"
+    ],
+    "PFAS": [
+        "PFOA",
+        "PFOS"
+    ],
+    "buckskin": [
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin"
+    ],
+    "flare": [
+        "parachute flare",
+        "fusee",
+        "Very light",
+        "Bengal light"
+    ],
+    "partition": [
+        "swap partition",
+        "DOS",
+        "active partition",
+        "bootable partition",
+        "partition table"
+    ],
+    "reseda": [
+        "weld",
+        "mignonette",
+        "weld",
+        "mignonette",
+        "dyer's rocket"
+    ],
+    "salamander": [
+        "eft",
+        "eft",
+        "ask",
+        "ask",
+        "ask",
+        "ask",
+        "ask",
+        "ask",
+        "ask",
+        "ask",
+        "ask",
+        "siredon",
+        "newt",
+        "eft"
+    ],
+    "anesthesia": [
+        "general anesthesia"
+    ],
+    "breadbasket": [
+        "rice bowl"
+    ],
+    "dipper": [
+        "water ouzel"
+    ],
+    "gudgeon": [
+        "joso"
+    ],
+    "life cycle": [
+        "software life cycle"
+    ],
+    "quadrangle": [
+        "square",
+        "trapezoid",
+        "trapezoid",
+        "trapezoid",
+        "rectangle",
+        "rectangle",
+        "rhombus",
+        "parallelogram",
+        "rhombus",
+        "square",
+        "trapezoid",
+        "rectangle",
+        "parallelogram"
+    ],
+    "measurable function": [
+        "simple function"
+    ],
+    "envenomation": [
+        "arachnidism"
+    ],
+    "homotopy": [
+        "isotopy"
+    ],
+    "Satanism": [
+        "LaVeyan Satanism",
+        "Luciferian",
+        "LaVeyanism"
+    ],
+    "Satanist": [
+        "Luciferian",
+        "LaVeyan Satanist"
+    ],
+    "betty": [
+        "househusband"
+    ],
+    "cravat": [
+        "ascot",
+        "ascot tie"
+    ],
+    "moiety": [
+        "submoiety"
+    ],
+    "monument": [
+        "cenotaph"
+    ],
+    "pitfall": [
+        "ifs, ands, or buts"
+    ],
+    "poisoning": [
+        "envenomation"
+    ],
+    "robbery": [
+        "carjacking",
+        "carjacking",
+        "mugging",
+        "extortion",
+        "dacoity",
+        "blagging",
+        "piracy",
+        "armed robbery",
+        "highway robbery",
+        "steaming"
+    ],
+    "scourge": [
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "knout",
+        "cat",
+        "cat-o'-nine-tails",
+        "knout"
+    ],
+    "Lagrangian": [
+        "Trojan",
+        "Trojan"
+    ],
+    "Solarian": [
+        "Selenite",
+        "Earthling",
+        "Jovian",
+        "Neptunian",
+        "Earthican",
+        "Callistoan",
+        "Europan",
+        "Titanian",
+        "Ganymedean",
+        "Callistan",
+        "Earther",
+        "Earthian",
+        "Lunarian",
+        "Mercurian",
+        "Plutonian",
+        "Saturnian",
+        "Terran",
+        "Uranian",
+        "Martian",
+        "Venusian",
+        "Selenite",
+        "Titanean",
+        "Belter"
+    ],
+    "cilium": [
+        "ciliolum"
+    ],
+    "Uniat": [
+        "Greek Catholic",
+        "Maronite"
+    ],
+    "superwoman": [
+        "supermom"
+    ],
+    "monotone function": [
+        "decreasing function",
+        "increasing function",
+        "monotonically"
+    ],
+    "skating rink": [
+        "hockey rink",
+        "roller rink"
+    ],
+    "financials": [
+        "income statement",
+        "profit and loss",
+        "balance sheet"
+    ],
+    "lie detection": [
+        "polygraphy"
+    ],
+    "linsang": [
+        "delundung"
+    ],
+    "creditor": [
+        "noteholder",
+        "debtholder",
+        "bondholder"
+    ],
+    "crossbill": [
+        "common crossbill",
+        "red crossbill",
+        "Cassia crossbill",
+        "Hispaniolan crossbill",
+        "Scottish crossbill",
+        "parrot crossbill",
+        "two-barred crossbill",
+        "white-winged crossbill"
+    ],
+    "parts": [
+        "girl parts",
+        "boy parts"
+    ],
+    "cashier": [
+        "saraf",
+        "saraf",
+        "saraf",
+        "shroff"
+    ],
+    "casserole": [
+        "lasagna",
+        "Chicago-style pizza",
+        "lasagna",
+        "tuna casserole"
+    ],
+    "dermatophyte": [
+        "tinea cruris",
+        "tinea pedis",
+        "athlete's foot",
+        "jock itch",
+        "tinea unguium",
+        "scalp ringworm"
+    ],
+    "feedback": [
+        "negative feedback",
+        "positive feedback"
+    ],
+    "Cantonese": [
+        "Hoisanese",
+        "Taishanese",
+        "Toisanese"
+    ],
+    "Chinaman": [
+        "Chinaman",
+        "Chinawoman"
+    ],
+    "Democrat": [
+        "Reagan Democrat"
+    ],
+    "Hummer": [
+        "humvee",
+        "HMMWV",
+        "Humvee"
+    ],
+    "comedian": [
+        "comedian",
+        "comedienne",
+        "comedian"
+    ],
+    "parade": [
+        "muster",
+        "muster",
+        "demonstration",
+        "demonstration",
+        "muster",
+        "strip mall"
+    ],
+    "serpentine": [
+        "lizardite",
+        "antigorite",
+        "chrysotile"
+    ],
+    "processing": [
+        "word processing",
+        "word processing",
+        "data processing"
+    ],
+    "black letter": [
+        "quadrata",
+        "rotunda",
+        "rotunda",
+        "rotunda",
+        "rotunda",
+        "rotunda",
+        "rotunda",
+        "rotunda",
+        "rotunda",
+        "rotunda",
+        "fraktur",
+        "fraktur",
+        "fraktur",
+        "fraktur",
+        "textura",
+        "textura",
+        "textura",
+        "textura",
+        "textura",
+        "textura",
+        "fraktur",
+        "textura",
+        "bastarda",
+        "bastarda",
+        "bastarda",
+        "bastarda",
+        "rotunda",
+        "Old English",
+        "bastarda"
+    ],
+    "sharkskin": [
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin"
+    ],
+    "chariot": [
+        "biga",
+        "biga",
+        "biga",
+        "biga",
+        "biga",
+        "biga",
+        "biga",
+        "biga",
+        "biga",
+        "triga",
+        "triga",
+        "triga",
+        "triga",
+        "triga",
+        "triga",
+        "quadriga",
+        "quadriga",
+        "quadriga",
+        "quadriga",
+        "quadriga",
+        "biga",
+        "quadriga"
+    ],
+    "crush hat": [
+        "gibus",
+        "gibus",
+        "gibus",
+        "opera hat"
+    ],
+    "sortie": [
+        "milk run",
+        "bombing run"
+    ],
+    "deacon": [
+        "transitional deacon"
+    ],
+    "governance": [
+        "data governance"
+    ],
+    "automorphism": [
+        "inner automorphism",
+        "outer automorphism",
+        "M\u00f6bius transformation"
+    ],
+    "esper": [
+        "telekinetic",
+        "telepath"
+    ],
+    "pan": [
+        "flat",
+        "flat",
+        "flat",
+        "flat",
+        "flat",
+        "flat",
+        "flat"
+    ],
+    "seafood boil": [
+        "Frogmore stew"
+    ],
+    "Lent": [
+        "Oculi Sunday",
+        "Quadragesima Sunday",
+        "Reminiscere Sunday",
+        "Palm Sunday",
+        "Passion Sunday",
+        "Holy Saturday",
+        "Clean Monday",
+        "Ash Wednesday",
+        "Laetare Sunday"
+    ],
+    "Nazi": [
+        "beefsteak Nazi"
+    ],
+    "cockchafer": [
+        "black-headed pasture cockchafer",
+        "common cockchafer"
+    ],
+    "crucifer": [
+        "arugula",
+        "radish",
+        "cauliflower",
+        "spring greens",
+        "cabbage",
+        "mustard greens",
+        "arugula",
+        "watercress"
+    ],
+    "lat": [
+        "santim"
+    ],
+    "oxgang": [
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "fardel",
+        "acre",
+        "nook"
+    ],
+    "remora": [
+        "whalesucker",
+        "pegador",
+        "pegador",
+        "pegador",
+        "swordfish sucker"
+    ],
+    "rosary": [
+        "psalter"
+    ],
+    "thimble": [
+        "thumbstall"
+    ],
+    "corticosteroid": [
+        "glucocorticoid",
+        "mineralocorticoid",
+        "glucocorticoid"
+    ],
+    "inequality": [
+        "Cauchy-Schwarz inequality",
+        "triangle inequality"
+    ],
+    "ledger": [
+        "sales ledger",
+        "nominal ledger",
+        "distributed ledger"
+    ],
+    "Jerusalemite": [
+        "West Jerusalemite",
+        "East Jerusalemite"
+    ],
+    "bisphosphonate": [
+        "clodronate",
+        "clodronic acid",
+        "alendronic acid",
+        "risedronate",
+        "risedronic acid",
+        "olpadronic acid",
+        "tiludronic acid",
+        "ibandronate",
+        "alendronate",
+        "tiludronate",
+        "ibandronic acid",
+        "medronic acid",
+        "neridronic acid",
+        "medronate",
+        "neridronate",
+        "olpadronate",
+        "zoledronate",
+        "zoledronic acid",
+        "pamidronate",
+        "pamidronic acid"
+    ],
+    "suslik": [
+        "russet ground squirrel"
+    ],
+    "tenderloin": [
+        "filet mignon",
+        "filet mignon"
+    ],
+    "disjunction": [
+        "inclusive disjunction",
+        "exclusive disjunction"
+    ],
+    "resource": [
+        "main memory",
+        "central processing unit",
+        "secondary memory",
+        "auxiliary memory",
+        "processor"
+    ],
+    "script": [
+        "batch file",
+        "shell script"
+    ],
+    "module": [
+        "function",
+        "library",
+        "subprogram",
+        "projective module",
+        "command module",
+        "lunar module",
+        "vector space",
+        "free module"
+    ],
+    "normalization": [
+        "first normal form",
+        "second normal form",
+        "1NF",
+        "2NF"
+    ],
+    "format": [
+        "MIDI",
+        "OpenDocument",
+        "txt",
+        "CSV",
+        "ODF"
+    ],
+    "freeware": [
+        "community edition"
+    ],
+    "ordered ring": [
+        "ordered field"
+    ],
+    "VALI": [
+        "VILI"
+    ],
+    "VAP": [
+        "VIP",
+        "VIP",
+        "VIP"
+    ],
+    "Brexiteer": [
+        "Lexiteer"
+    ],
+    "assisted dying": [
+        "euthanasia",
+        "assisted suicide",
+        "euthanasia"
+    ],
+    "Dissenter": [
+        "Anabaptist",
+        "Digger",
+        "Digger",
+        "Socinian",
+        "Fifth Monarchist",
+        "Grindletonian",
+        "Seeker",
+        "Sabbatarian",
+        "Philadelphian",
+        "Enthusiast",
+        "Anabaptist",
+        "Behmenist",
+        "Quaker",
+        "Muggletonian",
+        "Barrowist",
+        "Brownist",
+        "Ranter",
+        "Puritan",
+        "Adamite"
+    ],
+    "Trumpist": [
+        "Trumpette"
+    ],
+    "dry fog": [
+        "qobar"
+    ],
+    "ball hockey": [
+        "cosom hockey",
+        "cosom hockey"
+    ],
+    "ATD": [
+        "crash test dummy"
+    ],
+    "pox party": [
+        "measles party",
+        "chicken pox party",
+        "chickenpox party",
+        "corona party",
+        "coronavirus party",
+        "covid-19 party",
+        "covid party"
+    ],
+    "AUD": [
+        "alcoholism"
+    ],
+    "accumulation point": [
+        "condensation point"
+    ],
+    "white metal": [
+        "Babbitt metal",
+        "pewter",
+        "Britannia metal"
+    ],
+    "GSM": [
+        "GSM-R"
+    ],
+    "blood": [
+        "lifeblood"
+    ],
+    "ass": [
+        "onager",
+        "onager",
+        "wild ass",
+        "onager",
+        "donkey"
+    ],
+    "compass": [
+        "beam compass"
+    ],
+    "HIV": [
+        "HIV-1",
+        "HIV-2"
+    ],
+    "cow": [
+        "cowlet",
+        "cowling"
+    ],
+    "derivative": [
+        "option",
+        "option",
+        "swap",
+        "warrant",
+        "warrant",
+        "convertible",
+        "convertible",
+        "option",
+        "swap",
+        "warrant",
+        "convertible",
+        "convertible security",
+        "total return swap",
+        "credit default swap"
+    ],
+    "canonical hour": [
+        "prime",
+        "prime",
+        "prime",
+        "prime",
+        "prime",
+        "prime",
+        "terce",
+        "terce",
+        "matins",
+        "sext",
+        "matins",
+        "sext",
+        "none",
+        "none",
+        "none",
+        "none",
+        "none",
+        "none",
+        "none",
+        "nones",
+        "nones",
+        "lauds",
+        "lauds",
+        "tierce",
+        "vespers",
+        "none",
+        "prime",
+        "terce",
+        "tierce",
+        "nones",
+        "lauds",
+        "complin",
+        "compline",
+        "matins",
+        "sext"
+    ],
+    "Hebrew": [
+        "Jew",
+        "Samaritan",
+        "Neo-Hebraic",
+        "Ivrit",
+        "Biblical Hebrew"
+    ],
+    "hundred": [
+        "carucate"
+    ],
+    "brown sauce": [
+        "Madeira sauce"
+    ],
+    "abacus": [
+        "soroban",
+        "suanpan",
+        "soroban"
+    ],
+    "abbreviation": [
+        "symbol",
+        "symbol",
+        "symbol",
+        "symbol",
+        "symbol",
+        "symbol",
+        "symbol",
+        "symbol",
+        "acronym",
+        "initialism",
+        "sign",
+        "clipping"
+    ],
+    "elephant": [
+        "African forest elephant",
+        "African elephant",
+        "Indian elephant"
+    ],
+    "etymology": [
+        "onomastics"
+    ],
+    "false friend": [
+        "partial false friend"
+    ],
+    "swap": [
+        "total return swap",
+        "credit default swap"
+    ],
+    "banana": [
+        "jook-sing"
+    ],
+    "cherry": [
+        "sweet cherry",
+        "wild cherry"
+    ],
+    "trumpet": [
+        "natural trumpet"
+    ],
+    "yellow": [
+        "bronze yellow",
+        "yellow-green",
+        "fast yellow AB",
+        "quinoline yellow",
+        "yellow 2G",
+        "sulfur yellow",
+        "sulphur yellow",
+        "school bus yellow",
+        "cadmium yellow",
+        "taxi yellow"
+    ],
+    "banana skin": [
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin"
+    ],
+    "Chinese character": [
+        "character",
+        "character",
+        "Simplified Chinese",
+        "Traditional Chinese",
+        "character"
+    ],
+    "hand grenade": [
+        "grenado",
+        "grenado",
+        "Mills bomb",
+        "grenado",
+        "pineapple",
+        "potato masher"
+    ],
+    "meeting": [
+        "board meeting",
+        "race meeting",
+        "monthly meeting",
+        "prayer meeting",
+        "fringe meeting",
+        "annual general meeting"
+    ],
+    "sect": [
+        "denomination"
+    ],
+    "citizen": [
+        "first-class citizen",
+        "second-class citizen",
+        "third-class citizen"
+    ],
+    "experience": [
+        "user experience"
+    ],
+    "family": [
+        "nuclear family",
+        "immediate family",
+        "extended family"
+    ],
+    "grammar": [
+        "context-sensitive grammar"
+    ],
+    "pain": [
+        "pang",
+        "pang",
+        "pang",
+        "pang",
+        "pang",
+        "pang",
+        "anguish",
+        "agony",
+        "pang",
+        "neuropathic pain",
+        "phantom pain"
+    ],
+    "pin": [
+        "breastpin",
+        "absolute pin",
+        "partial pin",
+        "relative pin"
+    ],
+    "unit": [
+        "arithmetic logic unit"
+    ],
+    "Earthling": [
+        "Earthman",
+        "Earthwoman",
+        "Earthgirl",
+        "Earthboy"
+    ],
+    "battleship": [
+        "dreadnought",
+        "dreadnought",
+        "pre-dreadnought",
+        "super-dreadnought",
+        "dreadnought",
+        "semi-dreadnought"
+    ],
+    "bouillon": [
+        "Scotch broth"
+    ],
+    "pedophile": [
+        "korephile",
+        "mysoped"
+    ],
+    "pension": [
+        "AVC",
+        "AVC",
+        "AVC",
+        "personal pension",
+        "retirement annuity contract",
+        "bed-and-breakfast",
+        "SIPP",
+        "GSHP"
+    ],
+    "shift": [
+        "day shift",
+        "blueshift",
+        "night shift",
+        "redshift",
+        "swing shift",
+        "graveyard shift",
+        "make shift",
+        "antigenic shift"
+    ],
+    "supernova": [
+        "fast-evolving luminous transient"
+    ],
+    "tip": [
+        "tooltip"
+    ],
+    "mutton": [
+        "lamb",
+        "lamb",
+        "lamb",
+        "lamb",
+        "lamb",
+        "lamb"
+    ],
+    "soft drink": [
+        "coke",
+        "coke",
+        "coke",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "pop",
+        "soda",
+        "soda",
+        "soda",
+        "soda",
+        "soda",
+        "soda",
+        "soda",
+        "soda",
+        "soda",
+        "soda",
+        "soda",
+        "soda",
+        "soda",
+        "pop",
+        "soda",
+        "coke",
+        "lemonade",
+        "fizzy drink",
+        "soda pop"
+    ],
+    "decorator": [
+        "decoratress",
+        "decoratrix"
+    ],
+    "parking": [
+        "parallel parking",
+        "angle parking"
+    ],
+    "sinner": [
+        "fasiq"
+    ],
+    "usury": [
+        "payday loan"
+    ],
+    "implementation": [
+        "reference implementation"
+    ],
+    "LOC": [
+        "G-LOC"
+    ],
+    "lichen": [
+        "macrolichen",
+        "microlichen"
+    ],
+    "evolutionary theory": [
+        "adaptationism",
+        "transformism",
+        "orthogenesis",
+        "Lamarckism",
+        "transformism",
+        "transmutationism",
+        "transformationism",
+        "saltationism",
+        "natural selection"
+    ],
+    "general": [
+        "general of the air force",
+        "brigadier general",
+        "general of the army",
+        "major general",
+        "colonel general",
+        "lieutenant general"
+    ],
+    "pronunciation": [
+        "Received Pronunciation",
+        "Received Pronunciation",
+        "spelling pronunciation"
+    ],
+    "quotation": [
+        "bid",
+        "bid",
+        "bid",
+        "bid",
+        "bid",
+        "bid",
+        "bid",
+        "bid",
+        "offer",
+        "offer",
+        "offer",
+        "offer",
+        "offer",
+        "offer",
+        "offer",
+        "ask",
+        "ask",
+        "ask",
+        "ask",
+        "ask",
+        "ask",
+        "ask",
+        "ask",
+        "bid",
+        "ask",
+        "offer"
+    ],
+    "bell": [
+        "codon",
+        "codon",
+        "codon",
+        "squilla",
+        "squilla",
+        "campanella",
+        "campanella",
+        "corrigiuncula",
+        "corrigiunculum",
+        "petasius",
+        "campana",
+        "campana",
+        "campana",
+        "campana",
+        "campana",
+        "campana",
+        "campana",
+        "cascabel",
+        "cascabel",
+        "peal",
+        "tocsin",
+        "tocsin",
+        "signum",
+        "tintinnabulum",
+        "vesper",
+        "vesper",
+        "dupla",
+        "dupla",
+        "dupla",
+        "dupla",
+        "dupla",
+        "dupla",
+        "campane",
+        "campane",
+        "cascabel",
+        "vesper",
+        "campane",
+        "campanella",
+        "nola",
+        "nola",
+        "nola",
+        "crotal",
+        "crotal",
+        "signum",
+        "squilla",
+        "jingle bell",
+        "petasius",
+        "codon",
+        "peal",
+        "doorbell",
+        "church bell",
+        "campana",
+        "curfew",
+        "tocsin",
+        "dupla",
+        "handbell",
+        "yong bell",
+        "tintinnabulum",
+        "nola"
+    ],
+    "boat": [
+        "ark",
+        "ark",
+        "ark",
+        "ark",
+        "ark",
+        "ark",
+        "ark",
+        "hydrofoil",
+        "tjalk",
+        "skiff",
+        "caravel",
+        "troller",
+        "peniche",
+        "yacht",
+        "yacht",
+        "yacht",
+        "yacht",
+        "yacht",
+        "gig",
+        "tender",
+        "tender",
+        "tender",
+        "tender",
+        "tender",
+        "tender",
+        "tender",
+        "gig",
+        "kayak",
+        "kayak",
+        "kayak",
+        "sloop",
+        "kayak",
+        "canoe",
+        "kayak",
+        "sloop",
+        "canoe",
+        "kayak",
+        "kayak",
+        "kayak",
+        "gondola",
+        "raft",
+        "cutter",
+        "ferry",
+        "gondola",
+        "hovercraft",
+        "gondola",
+        "cutter",
+        "gondola",
+        "gondola",
+        "ferry",
+        "hovercraft",
+        "cutter",
+        "raft",
+        "ferry",
+        "raft",
+        "tug",
+        "tug",
+        "tug",
+        "tug",
+        "trawler",
+        "dinghy",
+        "schooner",
+        "trawler",
+        "jetski",
+        "trawler",
+        "ca\u00efque",
+        "sealship",
+        "junk",
+        "junk",
+        "submarine",
+        "catamaran",
+        "trimaran",
+        "junk",
+        "trimaran",
+        "catamaran",
+        "trimaran",
+        "ketch",
+        "yawl",
+        "yawl",
+        "kay\u0131k",
+        "barge",
+        "trireme",
+        "trireme",
+        "barge",
+        "yacht",
+        "cutter",
+        "hovercraft",
+        "dinghy",
+        "tug",
+        "tjalk",
+        "skiff",
+        "catamaran",
+        "junk",
+        "trimaran",
+        "gig",
+        "submarine",
+        "barge",
+        "ketch",
+        "gondola",
+        "raft",
+        "trawler",
+        "cruiser",
+        "dory",
+        "caravel",
+        "carrack",
+        "motorsailer",
+        "outrigger canoe",
+        "peniche",
+        "troller",
+        "water taxi",
+        "coracle",
+        "East Indiaman",
+        "sloop",
+        "tender",
+        "trireme",
+        "galleon",
+        "hydroplane",
+        "canoe",
+        "kayak",
+        "ark",
+        "dhow",
+        "galley",
+        "scow",
+        "hydrofoil",
+        "pinnace",
+        "yawl",
+        "ferry",
+        "jetski",
+        "schooner",
+        "ship of the line",
+        "felucca",
+        "ca\u00efque",
+        "steamboat",
+        "lifeboat",
+        "rowboat",
+        "sailboat",
+        "sailing ship",
+        "speedboat",
+        "steamboat",
+        "ship"
+    ],
+    "card": [
+        "affinity card",
+        "credit card",
+        "debit card"
+    ],
+    "scissors": [
+        "flat scissors",
+        "rolling scissors"
+    ],
+    "stay": [
+        "backstay",
+        "mainstay",
+        "forestay",
+        "triatic stay"
+    ],
+    "hornbeam": [
+        "blue beech"
+    ],
+    "infatuation": [
+        "crush",
+        "crush",
+        "crush",
+        "squish"
+    ],
+    "lease": [
+        "underletting",
+        "sublet",
+        "undertenancy",
+        "subletting",
+        "underlet",
+        "subtenancy"
+    ],
+    "migrant": [
+        "emigrant",
+        "immigrant",
+        "emigrant",
+        "emigrant",
+        "immigrant",
+        "immigrant",
+        "emigrant",
+        "emigrant",
+        "immigrant",
+        "emigrant",
+        "immigrant",
+        "emigrant",
+        "immigrant",
+        "emigrant",
+        "immigrant",
+        "emigrant",
+        "emigrant",
+        "emigrant",
+        "immigrant",
+        "emigrant",
+        "immigrant"
+    ],
+    "rolling stock": [
+        "locomotive",
+        "locomotive",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "wagon",
+        "wagon",
+        "wagon",
+        "wagon",
+        "wagon",
+        "coach",
+        "coach",
+        "coach",
+        "coach",
+        "coach",
+        "coach",
+        "car",
+        "wagon",
+        "railcar",
+        "coach",
+        "locomotive",
+        "waggon",
+        "multiple unit"
+    ],
+    "common bean": [
+        "kidney bean",
+        "green bean",
+        "pinto bean",
+        "black bean"
+    ],
+    "wine cooler": [
+        "psykter"
+    ],
+    "proofreader": [
+        "beta reader"
+    ],
+    "money changer": [
+        "saraf",
+        "saraf",
+        "saraf",
+        "shroff"
+    ],
+    "tax": [
+        "excise",
+        "transfer tax",
+        "church tax",
+        "gift tax",
+        "gross receipts tax",
+        "land tax",
+        "personal property tax",
+        "utilities tax",
+        "duty",
+        "sales tax",
+        "flat tax",
+        "income tax",
+        "property tax",
+        "value added tax",
+        "excise",
+        "sumptuary tax",
+        "use tax",
+        "corporation tax",
+        "real property tax",
+        "excise tax",
+        "estate tax",
+        "goods and services tax",
+        "head tax",
+        "inheritance tax",
+        "poll tax",
+        "sin tax"
+    ],
+    "actor": [
+        "actress",
+        "actress",
+        "enactor",
+        "reenactor"
+    ],
+    "bog": [
+        "boglet",
+        "boglet"
+    ],
+    "continent": [
+        "Eurasia",
+        "Eurasia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Asia",
+        "Oceania",
+        "Africa",
+        "Asia",
+        "Asia",
+        "Europe",
+        "Europe",
+        "Asia",
+        "Asia",
+        "Africa",
+        "Asia",
+        "Oceania",
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "Europe",
+        "Oceania",
+        "Antarctica",
+        "Asia",
+        "Asia",
+        "Oceania",
+        "Asia",
+        "Oceania",
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "Oceania",
+        "Asia",
+        "Gondwana",
+        "Gondwana",
+        "Gondwana",
+        "Gondwana",
+        "Gondwana",
+        "Gondwana",
+        "America",
+        "America",
+        "America",
+        "America",
+        "America",
+        "Pangaea",
+        "Australia",
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "Europe",
+        "Oceania",
+        "Gondwana",
+        "Laurasia",
+        "America",
+        "North America",
+        "South America",
+        "Eurasia"
+    ],
+    "ideal": [
+        "principal ideal",
+        "maximal ideal"
+    ],
+    "inflection": [
+        "comparison",
+        "conjugation",
+        "declination",
+        "declension"
+    ],
+    "wool": [
+        "tweed",
+        "tweed",
+        "tweed",
+        "tweed",
+        "tweed",
+        "felt",
+        "felt",
+        "felt",
+        "felt",
+        "felt",
+        "worsted",
+        "felt",
+        "tweed"
+    ],
+    "marble": [
+        "china",
+        "china",
+        "china",
+        "china",
+        "china",
+        "china",
+        "china",
+        "plaster",
+        "plaster",
+        "plaster",
+        "plaster",
+        "china"
+    ],
+    "poet": [
+        "versifier",
+        "poetess",
+        "versifier"
+    ],
+    "whirlwind": [
+        "tornado",
+        "tornado",
+        "tornado",
+        "tornado",
+        "tornado",
+        "tornado",
+        "tornado",
+        "tornado",
+        "tornado",
+        "tornado",
+        "tornado",
+        "tornado",
+        "tornado",
+        "waterspout",
+        "dust devil",
+        "fire whirl",
+        "landspout"
+    ],
+    "copier": [
+        "photocopier",
+        "photocopier",
+        "xerox machine"
+    ],
+    "nook": [
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "fardel",
+        "acre"
+    ],
+    "antitoxin": [
+        "antidote",
+        "antidote",
+        "antivenom",
+        "antiserum"
+    ],
+    "autism": [
+        "autism",
+        "Asperger",
+        "Asperger",
+        "autism",
+        "Asperger",
+        "Asperger's syndrome",
+        "Asperger syndrome",
+        "Asperger's"
+    ],
+    "mediator": [
+        "mediatrix",
+        "mediatrix",
+        "mediatress"
+    ],
+    "oil palm": [
+        "coconut palm"
+    ],
+    "gangway": [
+        "jet bridge"
+    ],
+    "goose": [
+        "gander",
+        "gander",
+        "gosling"
+    ],
+    "highway": [
+        "expressway",
+        "motorway"
+    ],
+    "pants": [
+        "jeans",
+        "jeans",
+        "jeans",
+        "jeans",
+        "jeans",
+        "jeans",
+        "cords",
+        "corduroys",
+        "briefs",
+        "shorts",
+        "shorts",
+        "boxers"
+    ],
+    "ring": [
+        "field",
+        "integral domain",
+        "principal ideal domain",
+        "Noetherian domain",
+        "commutative ring",
+        "unique factorization domain",
+        "Euclidean domain",
+        "algebra over a field"
+    ],
+    "cottontail": [
+        "tapeti",
+        "tapeti",
+        "brush rabbit",
+        "desert cottontail",
+        "swamp rabbit"
+    ],
+    "limestone": [
+        "malm",
+        "malm",
+        "malm",
+        "malm",
+        "malm",
+        "malm",
+        "tufa",
+        "tufa",
+        "calp",
+        "coquina",
+        "coquina",
+        "chalk",
+        "calp",
+        "malm",
+        "tufa",
+        "coquina",
+        "coral rag",
+        "marble",
+        "bluestone",
+        "travertine",
+        "burrstone"
+    ],
+    "cactus": [
+        "saguaro",
+        "saguaro",
+        "saguaro",
+        "nopal",
+        "nopal",
+        "saguaro",
+        "nopal"
+    ],
+    "prokaryote": [
+        "archaeon",
+        "bacterium",
+        "bacterium",
+        "archaeon"
+    ],
+    "protester": [
+        "demonstrator",
+        "demonstrator",
+        "tax protester"
+    ],
+    "linguist": [
+        "dialectician",
+        "dialectician",
+        "dialectologist",
+        "orthoepist"
+    ],
+    "result": [
+        "sum",
+        "sum",
+        "sum",
+        "sum",
+        "sum",
+        "sum",
+        "sum",
+        "sum",
+        "sum",
+        "sum",
+        "sum",
+        "sum",
+        "product",
+        "primitive",
+        "primitive",
+        "primitive",
+        "primitive",
+        "primitive",
+        "primitive",
+        "sum",
+        "product",
+        "difference",
+        "primitive"
+    ],
+    "slap": [
+        "cuff"
+    ],
+    "stag": [
+        "monarch",
+        "monarch"
+    ],
+    "casualty": [
+        "fatality"
+    ],
+    "NIV": [
+        "PAP",
+        "NIPPV",
+        "NPPV",
+        "NiPPV",
+        "PAP",
+        "BiPAP",
+        "NPV",
+        "CPAP"
+    ],
+    "TSB": [
+        "ANSV",
+        "BEA",
+        "ANSV",
+        "ANSV",
+        "KNKT",
+        "BEA",
+        "KNKT",
+        "AAIB",
+        "TSB",
+        "NTSB",
+        "ATSB"
+    ],
+    "beaker": [
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "tumbler"
+    ],
+    "rheum": [
+        "sleep",
+        "sleep",
+        "sleepy dust",
+        "crusty",
+        "gound"
+    ],
+    "rocket-propelled grenade": [
+        "bazooka",
+        "bazooka",
+        "bazooka",
+        "bazooka",
+        "bazooka",
+        "Panzerfaust",
+        "Panzerfaust",
+        "bazooka",
+        "Panzerfaust"
+    ],
+    "body hair": [
+        "facial hair",
+        "pubic hair",
+        "chest hair",
+        "asshair",
+        "ballhair"
+    ],
+    "flight control": [
+        "aileron",
+        "aileron",
+        "aileron",
+        "aileron",
+        "spoiler",
+        "spoiler",
+        "spoiler",
+        "stabilator",
+        "ruddervator",
+        "rudderon",
+        "spoileron",
+        "flaperon",
+        "elevator",
+        "elevator",
+        "joystick",
+        "joystick",
+        "elevator",
+        "joystick",
+        "joystick",
+        "joystick",
+        "joystick",
+        "joystick",
+        "elevator",
+        "control surface",
+        "flaperon",
+        "spoiler",
+        "elevator",
+        "joystick",
+        "aileron",
+        "yoke",
+        "rudder",
+        "sidestick",
+        "elevon"
+    ],
+    "dandelion": [
+        "California",
+        "California",
+        "California",
+        "California",
+        "California",
+        "California",
+        "California",
+        "California",
+        "Japanese",
+        "common dandelion",
+        "Russian"
+    ],
+    "louis": [
+        "napoleon",
+        "napoleon",
+        "napoleon",
+        "louis d'or",
+        "louis d'or",
+        "napoleon"
+    ],
+    "STM": [
+        "SE",
+        "SE",
+        "SE",
+        "SE",
+        "SE",
+        "SE",
+        "SE",
+        "SN",
+        "SN",
+        "SN",
+        "SE",
+        "SN"
+    ],
+    "grenade": [
+        "grenado",
+        "grenado",
+        "grenado",
+        "Mills bomb",
+        "pineapple",
+        "rocket-propelled grenade",
+        "potato masher",
+        "rifle grenade",
+        "hand grenade"
+    ],
+    "credit card": [
+        "affinity card"
+    ],
+    "suite": [
+        "test suite",
+        "validation suite",
+        "office suite"
+    ],
+    "traitor": [
+        "race traitor"
+    ],
+    "cruiser": [
+        "torpedo cruiser",
+        "battle-cruiser",
+        "battlecruiser",
+        "heavy cruiser",
+        "armored cruiser",
+        "protected cruiser"
+    ],
+    "Ebola": [
+        "Ebola Reston"
+    ],
+    "autem cackler": [
+        "autem quaver",
+        "autem dipper"
+    ],
+    "dividend": [
+        "regular dividend"
+    ],
+    "hog": [
+        "black hog",
+        "white hog"
+    ],
+    "martial art": [
+        "mixed martial arts"
+    ],
+    "piracy": [
+        "air piracy"
+    ],
+    "police dog": [
+        "cadaver dog",
+        "rescue dog"
+    ],
+    "ground beetle": [
+        "demetrid"
+    ],
+    "Vs": [
+        "Vs0"
+    ],
+    "standard": [
+        "double standard",
+        "bog standard",
+        "gold standard",
+        "time standard"
+    ],
+    "turkey": [
+        "wild turkey",
+        "turkey-cock",
+        "turkey-hen"
+    ],
+    "Briton": [
+        "Britoness",
+        "Britishman"
+    ],
+    "weather": [
+        "space weather",
+        "dirty weather"
+    ],
+    "slide": [
+        "helter-skelter"
+    ],
+    "adultery": [
+        "English vice"
+    ],
+    "granite": [
+        "syenite"
+    ],
+    "holocaust": [
+        "homocaust"
+    ],
+    "lighter": [
+        "cigarette lighter"
+    ],
+    "pantheism": [
+        "neo-pantheism"
+    ],
+    "perigee": [
+        "proxigee"
+    ],
+    "bigamy": [
+        "bigyny",
+        "biandry"
+    ],
+    "holystone": [
+        "prayer book"
+    ],
+    "macaroni": [
+        "elbow macaroni"
+    ],
+    "observer": [
+        "interobserver"
+    ],
+    "procedure": [
+        "stored procedure"
+    ],
+    "kill": [
+        "firepower kill",
+        "mission kill",
+        "mobility kill",
+        "one-hit kill",
+        "catastrophic kill",
+        "thrill kill"
+    ],
+    "tiger": [
+        "tiger cub",
+        "tigress"
+    ],
+    "polygamy": [
+        "polygyny",
+        "polyandry"
+    ],
+    "sentence": [
+        "conditional sentence",
+        "postilion sentence",
+        "compound sentence",
+        "complex sentence",
+        "affirmative sentence",
+        "simple sentence"
+    ],
+    "core": [
+        "drill core",
+        "apple core",
+        "bifacial core"
+    ],
+    "degradation": [
+        "graceful degradation",
+        "biodegradation",
+        "Marker degradation"
+    ],
+    "diabetes": [
+        "juvenile diabetes",
+        "IDDM"
+    ],
+    "document": [
+        "here document"
+    ],
+    "rally": [
+        "dead cat bounce"
+    ],
+    "splice": [
+        "comma splice",
+        "cunt splice",
+        "cut splice",
+        "eye splice"
+    ],
+    "lemniscate": [
+        "lemniscate of Bernoulli",
+        "hippopede"
+    ],
+    "oppression": [
+        "English vice"
+    ],
+    "oscillator": [
+        "pentadecathlon"
+    ],
+    "ICT": [
+        "FICT",
+        "ICTY"
+    ],
+    "emission": [
+        "nocturnal emission"
+    ],
+    "lump": [
+        "nubble"
+    ],
+    "space shuttle": [
+        "Space Shuttle"
+    ],
+    "takeoff": [
+        "rejected takeoff",
+        "rolling takeoff"
+    ],
+    "SEE": [
+        "SEL",
+        "SEU"
+    ],
+    "Vx": [
+        "Vxse"
+    ],
+    "hitch": [
+        "midshipman's hitch",
+        "rolling hitch",
+        "taut-line hitch"
+    ],
+    "immunization": [
+        "serotherapy"
+    ],
+    "stunt": [
+        "publicity stunt"
+    ],
+    "water power": [
+        "hydropower"
+    ],
+    "MAC": [
+        "HMAC"
+    ],
+    "cacozelia": [
+        "Graecism",
+        "soraismus",
+        "Hebraism"
+    ],
+    "champagne": [
+        "champansky",
+        "Bolly"
+    ],
+    "craftsperson": [
+        "craftsman",
+        "craftswoman"
+    ],
+    "electric current": [
+        "alternating current",
+        "direct current"
+    ],
+    "love interest": [
+        "tenderoni"
+    ],
+    "bit": [
+        "dirty bit",
+        "modified bit",
+        "parity bit"
+    ],
+    "therapy": [
+        "chemotherapy",
+        "psychotherapy"
+    ],
+    "source": [
+        "closed source",
+        "open source"
+    ],
+    "advertisement": [
+        "commercial",
+        "commercial",
+        "commercial",
+        "infomercial",
+        "infomercial"
+    ],
+    "attack": [
+        "injection attack"
+    ],
+    "proposition": [
+        "antinomy",
+        "hypothesis",
+        "atomic proposition",
+        "compound proposition",
+        "hypothetical proposition",
+        "material implication",
+        "conjecture",
+        "conjecture",
+        "paradox",
+        "axiom"
+    ],
+    "table": [
+        "kiddie table",
+        "partition table",
+        "MAC table",
+        "child table",
+        "detail table",
+        "file allocation table",
+        "forwarding table",
+        "master table",
+        "parent table",
+        "primary table",
+        "referenced table",
+        "routing table",
+        "symbol table",
+        "truth table"
+    ],
+    "collision": [
+        "collision attack",
+        "hash collision",
+        "naming collision"
+    ],
+    "page": [
+        "web page",
+        "homepage",
+        "manpage",
+        "Web page",
+        "man page",
+        "webpage"
+    ],
+    "tree": [
+        "binary tree"
+    ],
+    "application": [
+        "client application",
+        "web application"
+    ],
+    "drive": [
+        "boot drive",
+        "flash drive",
+        "disk drive",
+        "floppy disk drive",
+        "hard-disk drive",
+        "hard drive"
+    ],
+    "point": [
+        "end point",
+        "endpoint"
+    ],
+    "salt": [
+        "soda"
+    ],
+    "agaric": [
+        "fly agaric"
+    ],
+    "carcinoma": [
+        "adenocarcinoma",
+        "adenocarcinoma",
+        "adenocarcinoma",
+        "lymphoma",
+        "adenocarcinoma"
+    ],
+    "cubit": [
+        "royal cubit"
+    ],
+    "heresy": [
+        "material heresy",
+        "formal heresy"
+    ],
+    "hysteria": [
+        "piblokto",
+        "female hysteria",
+        "Arctic hysteria"
+    ],
+    "leprosy": [
+        "melas",
+        "melas",
+        "melas",
+        "vitiligo",
+        "vitiligo",
+        "vitiligo",
+        "vitiligo",
+        "vitiligo",
+        "vitiligo",
+        "alphos",
+        "vitiligo",
+        "melas"
+    ],
+    "loser": [
+        "wooden spooner",
+        "wooden spoonist"
+    ],
+    "minor scale": [
+        "harmonic minor scale",
+        "melodic minor scale",
+        "natural minor scale"
+    ],
+    "molasses": [
+        "maple syrup"
+    ],
+    "orgy": [
+        "suckfest",
+        "cuntfest",
+        "gangbang"
+    ],
+    "orthography": [
+        "spelling",
+        "spelling",
+        "spelling"
+    ],
+    "postman": [
+        "mailwoman",
+        "postwoman",
+        "mail lady",
+        "post lady"
+    ],
+    "shore": [
+        "beach",
+        "beach",
+        "beach",
+        "beach",
+        "headland",
+        "coast"
+    ],
+    "signature": [
+        "biosignature"
+    ],
+    "journalist": [
+        "presstitute"
+    ],
+    "mankind": [
+        "womenkind",
+        "womankind"
+    ],
+    "requirement": [
+        "quality requirement",
+        "functional requirement"
+    ],
+    "nuclear rocket": [
+        "fission rocket",
+        "fusion rocket",
+        "nuclear-electric rocket",
+        "nuclear-pulse rocket",
+        "nuclear-thermal rocket"
+    ],
+    "black box": [
+        "CVR",
+        "cockpit voice recorder",
+        "flight data recorder",
+        "FDR",
+        "VDR",
+        "voyage data recorder"
+    ],
+    "conversion": [
+        "type conversion"
+    ],
+    "wharf": [
+        "pier",
+        "pier",
+        "pier",
+        "pier",
+        "pier",
+        "jetty",
+        "staithe",
+        "staith"
+    ],
+    "coop": [
+        "hencoop",
+        "henhouse",
+        "chicken coop"
+    ],
+    "dungeon": [
+        "oubliette",
+        "oubliette",
+        "oubliette"
+    ],
+    "equilibrium": [
+        "heat death"
+    ],
+    "fireship": [
+        "hellburner"
+    ],
+    "handedness": [
+        "left-handedness",
+        "right-handedness"
+    ],
+    "healer": [
+        "shaman",
+        "faith healer",
+        "witch doctor",
+        "quack",
+        "medicine man"
+    ],
+    "relationship": [
+        "joking relationship"
+    ],
+    "venture": [
+        "joint venture",
+        "business venture"
+    ],
+    "vibrator": [
+        "stick shaker"
+    ],
+    "goatskin": [
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin"
+    ],
+    "toadflax": [
+        "yellow toadflax"
+    ],
+    "toman": [
+        "rial",
+        "rial",
+        "rial",
+        "rial",
+        "rial",
+        "rial",
+        "rial",
+        "dinar",
+        "dinar",
+        "dinar",
+        "dinar",
+        "dinar",
+        "dinar",
+        "dinar",
+        "dinar",
+        "dinar",
+        "kran",
+        "kran",
+        "kran",
+        "kran",
+        "kran",
+        "kran",
+        "kran",
+        "kran",
+        "kran",
+        "kran",
+        "rial",
+        "dinar",
+        "kran"
+    ],
+    "double-decker": [
+        "double-decker bus"
+    ],
+    "homomorphism": [
+        "isomorphism",
+        "monomorphism",
+        "endomorphism",
+        "automorphism",
+        "epimorphism"
+    ],
+    "opioid": [
+        "opiate",
+        "opiate",
+        "opiate"
+    ],
+    "optimisation": [
+        "premature optimisation"
+    ],
+    "acrostic": [
+        "telestich",
+        "word square"
+    ],
+    "filbert": [
+        "cobnut"
+    ],
+    "pixel": [
+        "megapixel",
+        "megapixel",
+        "megapixel",
+        "micropixel",
+        "macropixel",
+        "gigapixel",
+        "terapixel",
+        "megapixel",
+        "kilopixel"
+    ],
+    "religionist": [
+        "religtard"
+    ],
+    "sloth": [
+        "three-toed sloth",
+        "two-toed sloth",
+        "mammal"
+    ],
+    "stall": [
+        "deep stall"
+    ],
+    "animal shelter": [
+        "no-kill shelter",
+        "ASPCA"
+    ],
+    "deerskin": [
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin"
+    ],
+    "doeskin": [
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin"
+    ],
+    "moleskin": [
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin"
+    ],
+    "renewable": [
+        "renewable energy"
+    ],
+    "cartload": [
+        "load",
+        "load",
+        "load",
+        "load",
+        "load"
+    ],
+    "casualness": [
+        "English vice"
+    ],
+    "anticipation": [
+        "dread",
+        "anxiety",
+        "apprehension",
+        "dread"
+    ],
+    "bond energy": [
+        "bond dissociation energy"
+    ],
+    "free energy": [
+        "Helmholtz free energy",
+        "Gibbs free energy"
+    ],
+    "overloading": [
+        "function overloading",
+        "method overloading"
+    ],
+    "gooseberry-picker": [
+        "ghost writer"
+    ],
+    "dowry": [
+        "lobola",
+        "lobola",
+        "lobola"
+    ],
+    "drive-in": [
+        "drive-through"
+    ],
+    "ethanol": [
+        "GS",
+        "NS",
+        "NS",
+        "GS",
+        "NS",
+        "NGS",
+        "GNS",
+        "rectified spirit"
+    ],
+    "genocide": [
+        "Shoah",
+        "Shoah",
+        "Shoah",
+        "holocaust",
+        "holocaust",
+        "holocaust",
+        "holocaust",
+        "holocaust",
+        "ethnocide",
+        "Holocaust",
+        "Holocaust",
+        "Holocaust",
+        "Samudaripen",
+        "ethnic cleansing",
+        "holocaust",
+        "Holocaust",
+        "Shoah",
+        "ethnocide",
+        "Porajmos"
+    ],
+    "measles": [
+        "10-day measles",
+        "7-day measles",
+        "hard measles",
+        "red measles"
+    ],
+    "session": [
+        "bull session"
+    ],
+    "slipper": [
+        "chinela",
+        "chinela",
+        "chinela"
+    ],
+    "songbird": [
+        "songster",
+        "songstress"
+    ],
+    "subtyping": [
+        "behavioral subtyping"
+    ],
+    "oscillation": [
+        "quasi-biennial oscillation",
+        "Southern Oscillation",
+        "North Atlantic Oscillation"
+    ],
+    "query": [
+        "subquery"
+    ],
+    "strip": [
+        "rasher"
+    ],
+    "C-suite": [
+        "chief information officer",
+        "chief operating officer",
+        "chief legal officer",
+        "chief financial officer",
+        "chief executive officer"
+    ],
+    "conversationalist": [
+        "deipnosophist"
+    ],
+    "counting": [
+        "reference counting"
+    ],
+    "fishmonger": [
+        "fishwife",
+        "fishmongeress",
+        "fishwoman",
+        "piscatrix",
+        "piscatrix",
+        "fishwife",
+        "fishmongress"
+    ],
+    "tightrope": [
+        "high wire",
+        "highwire"
+    ],
+    "tolerance": [
+        "fault tolerance"
+    ],
+    "bus driver": [
+        "coach driver"
+    ],
+    "cave dweller": [
+        "cavewoman",
+        "caveman"
+    ],
+    "meadow vole": [
+        "Schidlovsky's vole"
+    ],
+    "brand": [
+        "badge",
+        "badge"
+    ],
+    "mercenary": [
+        "freelance",
+        "freelance",
+        "freelance",
+        "Landsknecht",
+        "routier",
+        "lansquenet",
+        "condottiere",
+        "condottiere",
+        "gallowglass",
+        "condottiere",
+        "freelance",
+        "routier",
+        "Landsknecht",
+        "Mamertine",
+        "turcopole",
+        "lansquenet"
+    ],
+    "option": [
+        "warrant",
+        "warrant",
+        "American option",
+        "Bermudan option",
+        "European option",
+        "warrant",
+        "call option",
+        "put option"
+    ],
+    "performer": [
+        "kinker"
+    ],
+    "purpose": [
+        "common purpose",
+        "metapurpose"
+    ],
+    "virus": [
+        "DNA virus",
+        "RNA virus"
+    ],
+    "Filipino": [
+        "Pinoy",
+        "Filipina",
+        "Filipina",
+        "Pinay",
+        "Pinoy",
+        "Filipina",
+        "Pinay"
+    ],
+    "backpack": [
+        "creel"
+    ],
+    "cranberry": [
+        "bearberry",
+        "fenberry",
+        "dingleberry",
+        "moorberry",
+        "highbush cranberry"
+    ],
+    "equestrian": [
+        "equestrienne"
+    ],
+    "molecule": [
+        "macromolecule"
+    ],
+    "shoulder": [
+        "hard shoulder",
+        "soft shoulder"
+    ],
+    "snowbird": [
+        "snow bunny"
+    ],
+    "stream": [
+        "river",
+        "river",
+        "river",
+        "river",
+        "river",
+        "river",
+        "river",
+        "rill",
+        "river",
+        "rill"
+    ],
+    "tunnel": [
+        "base tunnel",
+        "summit tunnel"
+    ],
+    "whisk": [
+        "eggwhisk"
+    ],
+    "dating": [
+        "radiocarbon dating"
+    ],
+    "environmentalist": [
+        "ecosocialist",
+        "ecocapitalist"
+    ],
+    "registration": [
+        "autoregistration"
+    ],
+    "pack animal": [
+        "burro",
+        "llama",
+        "yak",
+        "yak",
+        "burro",
+        "yak",
+        "burro",
+        "yak",
+        "burro",
+        "burro",
+        "burro",
+        "yak",
+        "burro",
+        "llama",
+        "llama",
+        "yak",
+        "burro",
+        "llama",
+        "yak",
+        "yak",
+        "yak",
+        "ox",
+        "mule",
+        "mule",
+        "mule",
+        "mule",
+        "mule",
+        "mule",
+        "mule",
+        "ox",
+        "mule",
+        "mule",
+        "horse",
+        "horse",
+        "llama",
+        "reindeer",
+        "yak",
+        "horse",
+        "burro",
+        "mule",
+        "ox",
+        "water buffalo",
+        "elephant",
+        "camel",
+        "goat"
+    ],
+    "adenosine phosphate": [
+        "ATP",
+        "ATP",
+        "adenosine diphosphate",
+        "adenylic acid",
+        "ADP",
+        "ATP",
+        "AMP",
+        "adenosine monophosphate",
+        "adenosine triphosphate"
+    ],
+    "cab": [
+        "black cab",
+        "hackney cab",
+        "Hansom cab",
+        "yellow cab",
+        "sleeper cab",
+        "crew cab",
+        "king cab",
+        "taxicab"
+    ],
+    "closet": [
+        "locker",
+        "locker",
+        "locker",
+        "room",
+        "room",
+        "cabinet",
+        "cabinet",
+        "armoire",
+        "larder",
+        "press",
+        "press",
+        "press",
+        "press",
+        "press",
+        "larder",
+        "walk-in closet",
+        "cupboard",
+        "press",
+        "wardrobe",
+        "sideboard",
+        "cabinet",
+        "storage",
+        "armoire",
+        "pantry",
+        "room",
+        "locker"
+    ],
+    "decimal": [
+        "binary-coded decimal"
+    ],
+    "genitalia": [
+        "clitoris",
+        "labia",
+        "clitoris",
+        "clitoris",
+        "labia",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "penis",
+        "scrotum",
+        "scrotum",
+        "scrotum",
+        "vulva",
+        "vulva",
+        "vulva",
+        "vulva",
+        "vulva",
+        "vulva",
+        "vulva",
+        "vagina",
+        "vagina",
+        "vagina",
+        "vagina",
+        "vagina",
+        "vagina",
+        "vagina",
+        "vagina",
+        "vagina",
+        "vagina",
+        "vagina",
+        "vagina",
+        "labia",
+        "clitoris",
+        "vagina",
+        "scrotum",
+        "penis",
+        "vulva"
+    ],
+    "moral": [
+        "golden rule"
+    ],
+    "office": [
+        "ticket office",
+        "post office",
+        "box office"
+    ],
+    "rugby football": [
+        "rugby sevens",
+        "rugby union",
+        "rugby union",
+        "rugby league"
+    ],
+    "stub": [
+        "stump",
+        "stump",
+        "stump",
+        "stump",
+        "stump",
+        "stubble",
+        "stump"
+    ],
+    "taste": [
+        "relish",
+        "savor",
+        "savor",
+        "savor",
+        "relish"
+    ],
+    "NP": [
+        "VIP",
+        "VIP",
+        "VAP",
+        "VIP"
+    ],
+    "axiom": [
+        "completeness axiom",
+        "axiom of power set",
+        "axiom of choice",
+        "axiom of infinity",
+        "axiom of pairing",
+        "axiom of regularity",
+        "axiom of union"
+    ],
+    "conservative": [
+        "small-c conservative",
+        "reactionary"
+    ],
+    "dryer": [
+        "dehumidifier"
+    ],
+    "onager": [
+        "kulan",
+        "kulan",
+        "kulan",
+        "Mongolian wild ass",
+        "khulan",
+        "khur",
+        "Indian wild ass",
+        "koulan",
+        "dziggetai",
+        "chigetai",
+        "khur",
+        "hemippe"
+    ],
+    "part": [
+        "car part",
+        "spare part"
+    ],
+    "blouse": [
+        "Watteau bodice"
+    ],
+    "council": [
+        "synod",
+        "synod",
+        "synod",
+        "RDC",
+        "parish council"
+    ],
+    "fault": [
+        "strike-slip fault",
+        "thrust fault",
+        "transform fault",
+        "normal fault",
+        "reverse fault"
+    ],
+    "fence": [
+        "picket fence",
+        "catch fence",
+        "electric fence",
+        "snow fence"
+    ],
+    "parallelogram": [
+        "square",
+        "rectangle",
+        "rectangle",
+        "rhombus",
+        "rhombus",
+        "square",
+        "rectangle",
+        "rhomboid"
+    ],
+    "role": [
+        "subrole"
+    ],
+    "yarn": [
+        "worsted"
+    ],
+    "API": [
+        "REST"
+    ],
+    "SDK": [
+        "JDK"
+    ],
+    "constituency": [
+        "functional constituency",
+        "group representation constituency"
+    ],
+    "dashboard": [
+        "board",
+        "board"
+    ],
+    "inflorescence": [
+        "raceme",
+        "panicle",
+        "catkin",
+        "tassel",
+        "raceme"
+    ],
+    "yo-yo": [
+        "high yo-yo",
+        "low yo-yo"
+    ],
+    "immunity": [
+        "diplomatic immunity"
+    ],
+    "mutilation": [
+        "female genital mutilation",
+        "male genital mutilation"
+    ],
+    "Bosnian": [
+        "Herzegovinian"
+    ],
+    "data": [
+        "big data",
+        "metadata",
+        "metadata",
+        "metadata",
+        "metadata",
+        "metadata",
+        "big data",
+        "raw data",
+        "primary data"
+    ],
+    "octet": [
+        "octennium",
+        "octennium"
+    ],
+    "singer": [
+        "chanteuse",
+        "cantrix",
+        "singeress",
+        "cantrix",
+        "chantress",
+        "songster",
+        "songstress",
+        "chanteuse"
+    ],
+    "anniversary": [
+        "yahrzeit",
+        "birthday"
+    ],
+    "aviator": [
+        "aviatrix"
+    ],
+    "diocese": [
+        "archdiocese"
+    ],
+    "hill": [
+        "toman",
+        "toman",
+        "toman",
+        "toman",
+        "hillock"
+    ],
+    "joystick": [
+        "sidestick"
+    ],
+    "math": [
+        "new math",
+        "napkin math"
+    ],
+    "politician": [
+        "politard"
+    ],
+    "assembly": [
+        "house of assembly",
+        "jural assembly"
+    ],
+    "commercial": [
+        "infomercial",
+        "infomercial"
+    ],
+    "failure": [
+        "ground failure",
+        "power failure"
+    ],
+    "homophobia": [
+        "lesbophobia",
+        "gayphobia",
+        "dykephobia"
+    ],
+    "rendition": [
+        "extraordinary rendition"
+    ],
+    "satellite": [
+        "minisatellite",
+        "microsatellite",
+        "minisatellite",
+        "nanosatellite",
+        "picosatellite",
+        "quasi-satellite",
+        "space satellite",
+        "spy satellite",
+        "anti-satellite",
+        "fixed satellite",
+        "microsatellite",
+        "quasisatellite",
+        "femtosatellite"
+    ],
+    "wild cat": [
+        "panther",
+        "cougar",
+        "jaguar",
+        "jaguar",
+        "jaguar",
+        "jaguar",
+        "jaguar",
+        "jaguar",
+        "jaguar",
+        "jaguar",
+        "jaguar",
+        "jaguar",
+        "jaguar",
+        "leopard",
+        "leopard",
+        "leopard",
+        "leopard",
+        "lion",
+        "leopard",
+        "lion",
+        "lion",
+        "liger",
+        "leopard",
+        "leopard",
+        "leopard",
+        "leopard",
+        "liger",
+        "tiger",
+        "tiger",
+        "tiger",
+        "tiger",
+        "tiger",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "puma",
+        "snow leopard",
+        "puma",
+        "clouded leopard",
+        "tion",
+        "tion",
+        "cheetah",
+        "leopard",
+        "lion",
+        "liger",
+        "leopon",
+        "Florida panther",
+        "jaguar",
+        "mountain lion",
+        "cougar",
+        "panther",
+        "tiger",
+        "tion",
+        "black panther",
+        "catamount"
+    ],
+    "coffin": [
+        "casket"
+    ],
+    "diarrhea": [
+        "Montezuma's revenge"
+    ],
+    "frottage": [
+        "tribadism",
+        "tribadism"
+    ],
+    "nominal": [
+        "noun",
+        "pronoun",
+        "noun"
+    ],
+    "runway": [
+        "airstrip",
+        "landing strip"
+    ],
+    "stranger": [
+        "outsider",
+        "outsider",
+        "outsider",
+        "outsider",
+        "outsider",
+        "outsider",
+        "alien",
+        "alien",
+        "alien",
+        "alien",
+        "nonnational",
+        "foreigner",
+        "alien",
+        "foreigner",
+        "outsider",
+        "non-resident",
+        "nonresident"
+    ],
+    "coercion": [
+        "type coercion"
+    ],
+    "controller": [
+        "game controller",
+        "microcontroller",
+        "fuzzy controller"
+    ],
+    "deputy": [
+        "vice admiral",
+        "vice president",
+        "vicegerent",
+        "vice director"
+    ],
+    "latitude": [
+        "geolatitude"
+    ],
+    "meta-analysis": [
+        "forest plot",
+        "metaregression"
+    ],
+    "ordo": [
+        "subordo",
+        "subordo"
+    ],
+    "jamb": [
+        "doorjamb",
+        "doorpost"
+    ],
+    "stuffed animal": [
+        "teddy bear"
+    ],
+    "warp drive": [
+        "Alcubierre drive"
+    ],
+    "asbestos": [
+        "amphibole",
+        "amphibole",
+        "richterite",
+        "riebeckite",
+        "amosite",
+        "winchite",
+        "tremolite",
+        "serpentine",
+        "serpentine",
+        "serpentine",
+        "actinolite",
+        "actinolite",
+        "actinolite",
+        "chrysotile",
+        "actinolite",
+        "amphibole",
+        "parachrysotile",
+        "serpentine",
+        "tremolite",
+        "anthophyllite",
+        "blue asbestos",
+        "amianthus",
+        "crocidolite"
+    ],
+    "narcissism": [
+        "NPD",
+        "NPD",
+        "NPD"
+    ],
+    "nationalism": [
+        "ultranationalism",
+        "jingoism",
+        "ethnonationalism"
+    ],
+    "norm": [
+        "absolute value",
+        "p-adic absolute value",
+        "trivial absolute value"
+    ],
+    "revolution": [
+        "quiet revolution"
+    ],
+    "rigging": [
+        "running rigging",
+        "standing rigging"
+    ],
+    "seaweed": [
+        "sea vegetable"
+    ],
+    "ATV": [
+        "quad bike"
+    ],
+    "amaranth": [
+        "prince's feather",
+        "love-lies-bleeding",
+        "flower-gentle",
+        "thrumwort"
+    ],
+    "hot dog": [
+        "junkyard dog",
+        "dagwood dog",
+        "veggie dog",
+        "cheese coney",
+        "pig in a blanket",
+        "footlong",
+        "ballpark frank",
+        "corndog",
+        "cheese dog",
+        "steamie",
+        "not dog",
+        "chili dog",
+        "Coney Island",
+        "Chicago-style hot dog",
+        "Chicago dog"
+    ],
+    "improvement": [
+        "self-improvement"
+    ],
+    "indole": [
+        "indometacin",
+        "indometacin",
+        "sumatriptan",
+        "ramosetron",
+        "sertindole",
+        "indican",
+        "indican",
+        "indican",
+        "gramine",
+        "indalpine",
+        "indoxyl",
+        "tropisetron",
+        "indican",
+        "pindolol",
+        "mebhydrolin",
+        "tenidap",
+        "indolequinone",
+        "acemetacin",
+        "atevirdine",
+        "dirlotapide",
+        "dolasetron",
+        "oxametacin",
+        "naltrindole",
+        "indoleamine",
+        "isoindole",
+        "cediranib",
+        "paxilline"
+    ],
+    "legislation": [
+        "rooster",
+        "rooster"
+    ],
+    "thriller": [
+        "fiction",
+        "crime",
+        "crime",
+        "crime",
+        "crime",
+        "crime",
+        "crime",
+        "fiction",
+        "horror movie",
+        "hard-boiled",
+        "ecothriller"
+    ],
+    "anacoluthon": [
+        "anapodoton",
+        "nominativus pendens"
+    ],
+    "casement": [
+        "French casement"
+    ],
+    "jester": [
+        "harlequin",
+        "pantaloon"
+    ],
+    "lancet": [
+        "fleam",
+        "fleam"
+    ],
+    "iced tea": [
+        "sweet tea",
+        "sun tea"
+    ],
+    "deer": [
+        "hart",
+        "hart",
+        "hart",
+        "hart",
+        "hart",
+        "hart",
+        "hart",
+        "hart",
+        "hart",
+        "hart",
+        "hart",
+        "hart",
+        "doe",
+        "fawn",
+        "doe",
+        "doe",
+        "doe",
+        "hind",
+        "hind",
+        "hind",
+        "hind",
+        "hind",
+        "hind",
+        "stag",
+        "hind",
+        "fawn",
+        "doe",
+        "hart",
+        "stag",
+        "buck",
+        "mammal"
+    ],
+    "reindeer": [
+        "caribou",
+        "caribou",
+        "mammal"
+    ],
+    "toe": [
+        "hallux",
+        "hallux",
+        "great toe",
+        "big toe",
+        "little toe"
+    ],
+    "zebra": [
+        "quagga",
+        "quagga",
+        "plains zebra",
+        "mountain zebra"
+    ],
+    "finger": [
+        "thumb",
+        "hallux",
+        "pinkie",
+        "thumb",
+        "hallux",
+        "pinkie",
+        "forefinger",
+        "little finger",
+        "middle finger",
+        "ring finger",
+        "index finger"
+    ],
+    "male": [
+        "boy",
+        "boy",
+        "boy",
+        "boy",
+        "boy",
+        "boy",
+        "boy",
+        "boy",
+        "boy",
+        "boy",
+        "boy",
+        "boy",
+        "boy",
+        "boy",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "boy",
+        "man"
+    ],
+    "coal": [
+        "lignite",
+        "lignite",
+        "lignite",
+        "anthracite",
+        "lignite",
+        "anthracite",
+        "brown coal",
+        "seacoal",
+        "charcoal",
+        "soft coal",
+        "sea coal"
+    ],
+    "hydrogen": [
+        "protium",
+        "protium",
+        "protium",
+        "deuterium",
+        "deuterium",
+        "deuterium",
+        "deuterium",
+        "protium",
+        "deuterium",
+        "tritium",
+        "tritium",
+        "tritium",
+        "tritium",
+        "tritium"
+    ],
+    "loch": [
+        "fjord",
+        "fjord",
+        "fjord",
+        "fjord",
+        "fjord",
+        "fjord",
+        "fjord",
+        "fjord",
+        "fjord",
+        "fjord",
+        "fjord",
+        "strait",
+        "estuary"
+    ],
+    "horse": [
+        "yearling",
+        "destrier",
+        "dame",
+        "dame",
+        "dame",
+        "dame",
+        "dame",
+        "dame",
+        "dame",
+        "dame",
+        "dame",
+        "palomino",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "colt",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "mare",
+        "pony",
+        "pony",
+        "pony",
+        "gelding",
+        "dame",
+        "pony",
+        "palomino",
+        "destrier",
+        "colt",
+        "mare",
+        "stallion",
+        "yearling",
+        "gelding",
+        "mustang",
+        "charger",
+        "mustang",
+        "mustang",
+        "sire",
+        "sire",
+        "sire",
+        "sire",
+        "sire",
+        "sire",
+        "sumpter",
+        "ridgeling",
+        "sire",
+        "filly",
+        "foal",
+        "brumby",
+        "mustang",
+        "rowney",
+        "charger",
+        "palfrey",
+        "mammal"
+    ],
+    "noisemaker": [
+        "clapper",
+        "clapper",
+        "party horn",
+        "vuvuzela",
+        "vuvuzela",
+        "vuvuzela",
+        "vuvuzela",
+        "vuvuzela",
+        "vuvuzela",
+        "vuvuzela",
+        "vuvuzela",
+        "vuvuzela",
+        "vuvuzela",
+        "vuvuzela",
+        "kazoo",
+        "air horn",
+        "caxirola",
+        "vuvuzela",
+        "blowout",
+        "squawker",
+        "squeaker",
+        "ratchet",
+        "clacker",
+        "caxirola"
+    ],
+    "metric system": [
+        "MTS",
+        "MTS",
+        "mks",
+        "cgs"
+    ],
+    "Eskimo": [
+        "Inuit",
+        "Inuit",
+        "Inuk",
+        "Inuk",
+        "Inuit",
+        "Yupik"
+    ],
+    "fungus": [
+        "mold",
+        "mold",
+        "mold",
+        "mold",
+        "mold",
+        "mold",
+        "ascomycete",
+        "basidiomycete",
+        "toadstool",
+        "yeast",
+        "mushroom"
+    ],
+    "wolf": [
+        "she-wolf",
+        "wolfess"
+    ],
+    "acre": [
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "lug",
+        "lug",
+        "lug",
+        "lug",
+        "lug",
+        "lug",
+        "rood",
+        "rood",
+        "fall",
+        "rood",
+        "lug",
+        "perch"
+    ],
+    "angel": [
+        "throne",
+        "throne",
+        "power",
+        "minion",
+        "minion",
+        "cherub",
+        "cherub",
+        "cherub",
+        "cherub",
+        "minion",
+        "throne",
+        "power",
+        "principality",
+        "seraph"
+    ],
+    "fiction": [
+        "science fiction",
+        "science fiction",
+        "speculative fiction"
+    ],
+    "headache": [
+        "migraine",
+        "migraine",
+        "hemicrania",
+        "hemicrania",
+        "hemicrania",
+        "migraine",
+        "tension headache",
+        "megrim",
+        "hangover"
+    ],
+    "herd": [
+        "parade",
+        "parade",
+        "parade",
+        "parade",
+        "parade",
+        "parade"
+    ],
+    "primate": [
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "ape",
+        "ape",
+        "simian",
+        "ape",
+        "ape",
+        "ape",
+        "ape",
+        "ape",
+        "ape",
+        "ape",
+        "simian",
+        "galago",
+        "galago",
+        "human",
+        "ape",
+        "galago",
+        "simian",
+        "tamarin",
+        "tamarin",
+        "lemur",
+        "lemur",
+        "lemur",
+        "lemur",
+        "lemur",
+        "lemur",
+        "lemur",
+        "indri",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "titi",
+        "potto",
+        "loris",
+        "douroucouli",
+        "saki",
+        "saki",
+        "saki",
+        "saki",
+        "saki",
+        "saki",
+        "saki",
+        "saki",
+        "uakari",
+        "gibbon",
+        "tarsier",
+        "gibbon",
+        "capuchin",
+        "lemur",
+        "monkey",
+        "gibbon",
+        "tarsier",
+        "loris",
+        "potto",
+        "woolly monkey",
+        "spider monkey",
+        "owl monkey",
+        "human being",
+        "aye-aye",
+        "great ape",
+        "uakari",
+        "marmoset",
+        "tamarin",
+        "saki",
+        "night monkey",
+        "titi",
+        "squirrel monkey",
+        "howler monkey",
+        "indri"
+    ],
+    "cod": [
+        "ling",
+        "ling",
+        "ling",
+        "ling",
+        "lutefisk",
+        "lutefisk",
+        "lutefisk",
+        "ling",
+        "scrod",
+        "salt cod",
+        "codling",
+        "stockfish",
+        "greenfish",
+        "clipfish",
+        "haberdine"
+    ],
+    "plaza": [
+        "circus",
+        "circus",
+        "circus"
+    ],
+    "castle": [
+        "keep",
+        "keep",
+        "keep",
+        "keep",
+        "motte and bailey"
+    ],
+    "hospital": [
+        "clinic",
+        "lazaret",
+        "lazaret",
+        "lazaret",
+        "lazaret",
+        "asylum",
+        "institution",
+        "institution",
+        "institution",
+        "lazaret",
+        "asylum",
+        "institution",
+        "clinic",
+        "field hospital",
+        "leprosarium",
+        "lazar house",
+        "lazaretto",
+        "leprosery"
+    ],
+    "couch": [
+        "chesterfield",
+        "chesterfield",
+        "daybed",
+        "love seat"
+    ],
+    "fodder": [
+        "load",
+        "load",
+        "load",
+        "load",
+        "load"
+    ],
+    "fother": [
+        "load",
+        "load",
+        "load",
+        "load",
+        "load"
+    ],
+    "Englishman": [
+        "Londoner",
+        "Londoner",
+        "Cornishman",
+        "Midlander",
+        "Blimp",
+        "Middle Englander",
+        "Geordie",
+        "Little Englander"
+    ],
+    "fish": [
+        "seafood",
+        "seafood"
+    ],
+    "gaggle": [
+        "parade",
+        "parade",
+        "parade",
+        "parade",
+        "parade",
+        "parade"
+    ],
+    "handle": [
+        "haft",
+        "haft",
+        "haft",
+        "haft",
+        "haft",
+        "haft",
+        "stilt",
+        "knob",
+        "bail",
+        "bail",
+        "bail",
+        "bail",
+        "bail",
+        "bail",
+        "bail",
+        "stail",
+        "knob",
+        "stail",
+        "haft",
+        "stilt",
+        "bail",
+        "stilt",
+        "hilt"
+    ],
+    "cancer": [
+        "adenocarcinoma",
+        "adenocarcinoma",
+        "adenocarcinoma",
+        "leukemia",
+        "carcinoma",
+        "carcinoma",
+        "sarcoma",
+        "carcinoma",
+        "carcinoma",
+        "carcinoma",
+        "sarcoma",
+        "carcinoma",
+        "sarcoma",
+        "leukemia",
+        "adenocarcinoma",
+        "lymphoma",
+        "leukaemia",
+        "lymphosarcoma"
+    ],
+    "carriage": [
+        "coup",
+        "cab",
+        "cab",
+        "cab",
+        "coup",
+        "coup",
+        "cab",
+        "cab",
+        "araba",
+        "araba",
+        "araba",
+        "araba",
+        "araba",
+        "araba",
+        "araba",
+        "sulky",
+        "chaise",
+        "chaise",
+        "chaise",
+        "Victoria",
+        "Victoria",
+        "fly",
+        "Victoria",
+        "Victoria",
+        "Victoria",
+        "fly",
+        "fly",
+        "Victoria",
+        "Victoria",
+        "Victoria",
+        "Victoria",
+        "fly",
+        "Victoria",
+        "Victoria",
+        "fly",
+        "unicorn",
+        "gig",
+        "double",
+        "cart",
+        "unicorn",
+        "gig",
+        "sociable",
+        "sociable",
+        "sociable",
+        "sociable",
+        "sociable",
+        "volante",
+        "volante",
+        "volante",
+        "volante",
+        "volante",
+        "carriole",
+        "carriole",
+        "Coburg",
+        "brake",
+        "brake",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "Berlin",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "caravan",
+        "Catherine",
+        "Catherine",
+        "whisky",
+        "whisky",
+        "whisky",
+        "whisky",
+        "whisky",
+        "whisky",
+        "whisky",
+        "whisky",
+        "whisky",
+        "whisky",
+        "whisky",
+        "whisky",
+        "whisky",
+        "whisky",
+        "whisky",
+        "vinaigrette",
+        "vinaigrette",
+        "vinaigrette",
+        "landau",
+        "fiacre",
+        "fiacre",
+        "fiacre",
+        "dormeuse",
+        "jaun",
+        "jaun",
+        "Jersey",
+        "Jersey",
+        "Jersey",
+        "Jersey",
+        "Jersey",
+        "Jersey",
+        "Jersey",
+        "Jersey",
+        "vettura",
+        "family",
+        "brake",
+        "sulky",
+        "volante",
+        "vettura",
+        "whisky",
+        "gig",
+        "jaun",
+        "voiturin",
+        "Victoria",
+        "double",
+        "coup",
+        "vinaigrette",
+        "landau",
+        "sociable",
+        "Coburg",
+        "Berlin",
+        "cart",
+        "unicorn",
+        "cab",
+        "solo",
+        "Jersey",
+        "caravan",
+        "fly",
+        "Catherine",
+        "araba",
+        "chaise",
+        "fiacre",
+        "carriole",
+        "tarantass",
+        "coachee",
+        "coach",
+        "coach",
+        "coach",
+        "coach",
+        "coach",
+        "coach",
+        "booby",
+        "barouche",
+        "hackery",
+        "coach",
+        "hearse",
+        "horse-fly",
+        "curricle",
+        "dobbin",
+        "wagonette",
+        "hansom",
+        "clarence",
+        "Gladstone",
+        "Rockaway",
+        "croydon",
+        "hutch",
+        "phaeton",
+        "four-wheeler",
+        "gharry",
+        "carryall",
+        "vis-\u00e1-vis",
+        "shigram",
+        "dennet",
+        "calash",
+        "sledge",
+        "hackney",
+        "surrey",
+        "droshky",
+        "brougham",
+        "noddy",
+        "whirlicote"
+    ],
+    "haze": [
+        "smog",
+        "smog",
+        "smog",
+        "smog",
+        "smog",
+        "smog",
+        "smog",
+        "smog",
+        "smog",
+        "vog",
+        "vog",
+        "vog",
+        "smog",
+        "vog",
+        "qobar",
+        "smaze"
+    ],
+    "full house": [
+        "underfull",
+        "underfull",
+        "overfull"
+    ],
+    "growth": [
+        "tumor",
+        "tumor",
+        "tumor",
+        "tumor",
+        "tumor",
+        "tumor",
+        "tumor",
+        "tumor",
+        "tumor"
+    ],
+    "letter": [
+        "missive",
+        "missive",
+        "missive",
+        "epistle"
+    ],
+    "chicken": [
+        "hen",
+        "hen",
+        "hen",
+        "hen",
+        "hen",
+        "hen",
+        "hen",
+        "hen",
+        "hen",
+        "hen",
+        "hen",
+        "hen",
+        "hen",
+        "chick",
+        "hen",
+        "rooster",
+        "chick",
+        "hen",
+        "rooster",
+        "cock",
+        "broiler",
+        "cockerel"
+    ],
+    "donkey": [
+        "jenny",
+        "jack",
+        "jack",
+        "jack",
+        "jack",
+        "jenny",
+        "jackass"
+    ],
+    "fox": [
+        "kit",
+        "kit",
+        "kit",
+        "kit",
+        "kit",
+        "kit",
+        "kit",
+        "kit",
+        "kit",
+        "kit",
+        "kit",
+        "kit",
+        "kit",
+        "kit",
+        "kit",
+        "vixen",
+        "mammal"
+    ],
+    "sex": [
+        "male",
+        "transgender",
+        "male",
+        "male",
+        "transgender",
+        "male",
+        "male",
+        "male",
+        "male",
+        "male",
+        "male",
+        "transgender",
+        "male",
+        "male",
+        "male",
+        "male",
+        "homosexual",
+        "homosexual",
+        "homosexual",
+        "homosexual",
+        "homosexual",
+        "female",
+        "male",
+        "transgender",
+        "homosexual",
+        "eunuch",
+        "eunuch",
+        "eunuch",
+        "eunuch",
+        "bigender",
+        "genderfluid",
+        "clergy",
+        "eunuch",
+        "genderless",
+        "intersex"
+    ],
+    "incense": [
+        "stick",
+        "stick",
+        "stick",
+        "stick",
+        "joss stick"
+    ],
+    "clay": [
+        "kaolin",
+        "kaolin",
+        "kaolin",
+        "kaolin",
+        "kaolin",
+        "kaolin",
+        "kaoline"
+    ],
+    "fetter": [
+        "shackles",
+        "shackles",
+        "shackle",
+        "handcuff",
+        "leg irons",
+        "manacle",
+        "handcuffs",
+        "manacles",
+        "shackle"
+    ],
+    "midget": [
+        "homunculus",
+        "homunculus",
+        "manikin",
+        "homunculus",
+        "manikin",
+        "pygmy",
+        "lilliputian"
+    ],
+    "statism": [
+        "fascism",
+        "fascism",
+        "authoritarianism",
+        "totalitarianism"
+    ],
+    "statue": [
+        "bust",
+        "bust",
+        "bust",
+        "figurine",
+        "figurine",
+        "figurine",
+        "figurine",
+        "bust"
+    ],
+    "concept": [
+        "rule",
+        "conceptualisation",
+        "law",
+        "law",
+        "law",
+        "dimension",
+        "dimension",
+        "dimension",
+        "law",
+        "law",
+        "law",
+        "division",
+        "division",
+        "division",
+        "hypothesis",
+        "abstraction",
+        "abstract",
+        "abstract",
+        "abstract",
+        "attribute",
+        "scheme",
+        "scheme",
+        "part",
+        "part",
+        "part",
+        "part",
+        "part",
+        "part",
+        "part",
+        "part",
+        "part",
+        "part",
+        "part",
+        "part",
+        "part",
+        "part",
+        "dimension",
+        "scheme",
+        "hypothesis",
+        "division",
+        "rule",
+        "abstract",
+        "abstraction",
+        "law",
+        "attribute",
+        "part",
+        "conceptualisation",
+        "notion",
+        "section",
+        "conceptuality",
+        "whole",
+        "theory",
+        "section",
+        "possibility",
+        "regulation",
+        "natural law",
+        "law of nature",
+        "quantity",
+        "fact",
+        "notion",
+        "property",
+        "conceptualization"
+    ],
+    "septet": [
+        "septennium",
+        "septennium"
+    ],
+    "fascine": [
+        "rouleau",
+        "saucisse",
+        "saucisse",
+        "saucisse",
+        "saucisse",
+        "rouleau",
+        "sap fagot"
+    ],
+    "mist": [
+        "camanchaca",
+        "camanchaca",
+        "Scotch mist"
+    ],
+    "relation": [
+        "function"
+    ],
+    "shield": [
+        "pavais",
+        "rondache",
+        "targe",
+        "targe",
+        "targe",
+        "pavais",
+        "rondache",
+        "target",
+        "target",
+        "target",
+        "target",
+        "heatshield",
+        "sunshield",
+        "buckler",
+        "pavache",
+        "roundel",
+        "tallevas",
+        "target"
+    ],
+    "vambrace": [
+        "couter",
+        "couter",
+        "cannon",
+        "rerebrace",
+        "cowter"
+    ],
+    "sympathy card": [
+        "Mass card"
+    ],
+    "case": [
+        "court case"
+    ],
+    "grandfather": [
+        "maternal grandfather",
+        "paternal grandfather"
+    ],
+    "grandmother": [
+        "maternal grandmother",
+        "paternal grandmother"
+    ],
+    "honey": [
+        "honeydew",
+        "honeycomb",
+        "honey extractor",
+        "creamed honey"
+    ],
+    "sister-in-law": [
+        "Ah Soh"
+    ],
+    "thumb": [
+        "opposable thumb"
+    ],
+    "wing": [
+        "left wing",
+        "right wing"
+    ],
+    "analysis": [
+        "psychoanalysis",
+        "cryptanalysis"
+    ],
+    "committee": [
+        "program committee"
+    ],
+    "crush": [
+        "squish"
+    ],
+    "era": [
+        "erathem"
+    ],
+    "iron": [
+        "driving iron",
+        "flatiron",
+        "ironman",
+        "charcoal iron",
+        "clothes iron",
+        "box iron",
+        "leg irons"
+    ],
+    "community": [
+        "subcommunity"
+    ],
+    "creationism": [
+        "intelligent design"
+    ],
+    "mask": [
+        "sleep mask",
+        "domino mask"
+    ],
+    "massacre": [
+        "atrocity",
+        "war crime",
+        "ethnic cleansing"
+    ],
+    "pipe": [
+        "briar"
+    ],
+    "atomic clock": [
+        "hydrogen maser atomic clock"
+    ],
+    "carene": [
+        "quadragene",
+        "Lent",
+        "Lent"
+    ],
+    "excavator": [
+        "dragline excavator",
+        "dragline",
+        "dragline"
+    ],
+    "schoolyard": [
+        "blacktop"
+    ],
+    "diamond anniversary": [
+        "diamond wedding",
+        "diamond jubilee"
+    ],
+    "density": [
+        "charge density",
+        "electron density"
+    ],
+    "marriage": [
+        "wedlease"
+    ],
+    "value": [
+        "lvalue",
+        "rvalue",
+        "market value",
+        "note value",
+        "face value",
+        "par value",
+        "intrinsic value"
+    ],
+    "absolutism": [
+        "Meiklejohnian absolutism",
+        "enlightened absolutism"
+    ],
+    "pizza": [
+        "apizza"
+    ],
+    "safe": [
+        "failsafe"
+    ],
+    "barony": [
+        "carucate"
+    ],
+    "deity": [
+        "household deity"
+    ],
+    "emperor": [
+        "barracks emperor"
+    ],
+    "field": [
+        "ordered field",
+        "residue field",
+        "extension field"
+    ],
+    "creed": [
+        "Nicene Creed",
+        "Apostles' Creed"
+    ],
+    "lava": [
+        "pillow lava",
+        "cryolava"
+    ],
+    "plane": [
+        "SMP",
+        "coronal plane",
+        "transverse plane",
+        "real plane",
+        "SIP",
+        "SMP",
+        "SSP",
+        "BMP",
+        "TIP",
+        "BMP",
+        "frontal plane",
+        "complex plane",
+        "sagittal plane",
+        "PUP",
+        "SPUA",
+        "supplementary plane"
+    ],
+    "problem": [
+        "Entscheidungsproblem",
+        "Entscheidungsproblem"
+    ],
+    "punishment": [
+        "mirror punishment",
+        "retribution",
+        "corporal punishment"
+    ],
+    "resistor": [
+        "tax resister"
+    ],
+    "rock": [
+        "country rock"
+    ],
+    "slash": [
+        "fraction slash"
+    ],
+    "batsman": [
+        "batswoman"
+    ],
+    "chief": [
+        "chiefess"
+    ],
+    "destruction": [
+        "self-destruction"
+    ],
+    "flashlight": [
+        "pocket light"
+    ],
+    "portal": [
+        "jet bridge"
+    ],
+    "steward": [
+        "flight attendant"
+    ],
+    "amphibian": [
+        "extinct",
+        "batrachian"
+    ],
+    "cicada": [
+        "seventeen-year locust"
+    ],
+    "grace note": [
+        "afterstroke",
+        "forestroke"
+    ],
+    "lobster": [
+        "langouste",
+        "langouste",
+        "spiny lobster",
+        "cray",
+        "rock lobster",
+        "crustacean"
+    ],
+    "mink": [
+        "European mink",
+        "American mink"
+    ],
+    "sack": [
+        "bindle"
+    ],
+    "smoker": [
+        "smokeress"
+    ],
+    "stepchild": [
+        "stepdaughter",
+        "stepson"
+    ],
+    "flanker": [
+        "openside flanker",
+        "blindside flanker"
+    ],
+    "adverb": [
+        "intransitive preposition"
+    ],
+    "AC": [
+        "RBAC"
+    ],
+    "egg": [
+        "weeaboo",
+        "Koreaboo",
+        "weeb",
+        "wumao",
+        "wapanese"
+    ],
+    "episode": [
+        "bottle episode"
+    ],
+    "mustard": [
+        "mustard gas",
+        "nitrogen mustard"
+    ],
+    "CSS": [
+        "OOCSS"
+    ],
+    "ROM": [
+        "PROM"
+    ],
+    "AGP": [
+        "AGMP"
+    ],
+    "batter": [
+        "batsman",
+        "batswoman"
+    ],
+    "creole": [
+        "Antillean Creole",
+        "Mauritian Creole",
+        "Cape Verdean Creole",
+        "Torres Strait Creole",
+        "Haitian Creole",
+        "Louisiana Creole",
+        "Jamaican Creole"
+    ],
+    "earthworm": [
+        "baitworm",
+        "fishing worm",
+        "fishworm",
+        "angleworm"
+    ],
+    "log": [
+        "chip log",
+        "taffrail log",
+        "Yule log",
+        "Swiss roll"
+    ],
+    "robber": [
+        "mugger",
+        "graverobber",
+        "bank robber"
+    ],
+    "timber": [
+        "crosstree"
+    ],
+    "adjutant": [
+        "greater adjutant",
+        "marabou"
+    ],
+    "eyebrow": [
+        "monobrow",
+        "unibrow"
+    ],
+    "measure": [
+        "Borel measure",
+        "Lebesgue measure",
+        "complete measure",
+        "complex measure",
+        "positive measure",
+        "\u03c3-finite measure"
+    ],
+    "ninja": [
+        "kunoichi"
+    ],
+    "terrorist": [
+        "lone wolfer"
+    ],
+    "vetch": [
+        "bitter vetch",
+        "bush vetch"
+    ],
+    "amino acid": [
+        "essential amino acid",
+        "nonessential amino acid"
+    ],
+    "affirmative action": [
+        "positive action"
+    ],
+    "marsh grass": [
+        "salt hay"
+    ],
+    "amount": [
+        "notional amount"
+    ],
+    "ant": [
+        "thief ant",
+        "black garden ant",
+        "army ant",
+        "bull ant",
+        "red ant",
+        "piss ant",
+        "carpenter ant",
+        "fire ant",
+        "honey-pot ant",
+        "pharaoh ant",
+        "wood ant",
+        "leafcutter ant",
+        "sauba ant"
+    ],
+    "declension": [
+        "weak declension",
+        "mixed declension",
+        "strong declension"
+    ],
+    "quarantine": [
+        "leprosarium",
+        "lazar house"
+    ],
+    "superlative": [
+        "relative superlative",
+        "absolute superlative"
+    ],
+    "corporation": [
+        "public limited company"
+    ],
+    "election": [
+        "primary election",
+        "direct election",
+        "indirect election",
+        "general election",
+        "snap election"
+    ],
+    "gearbox": [
+        "slushbox"
+    ],
+    "bead": [
+        "hair pipe"
+    ],
+    "lattice": [
+        "complete lattice",
+        "distributive lattice"
+    ],
+    "scale": [
+        "Richter scale",
+        "Kinsey scale",
+        "wage scale"
+    ],
+    "seed": [
+        "crack seed"
+    ],
+    "broadening": [
+        "Doppler broadening"
+    ],
+    "cowpoke": [
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowgirl"
+    ],
+    "power supply": [
+        "wall wart",
+        "power brick",
+        "PSU",
+        "switched-mode power supply"
+    ],
+    "spare tire": [
+        "donut",
+        "donut",
+        "donut",
+        "donut",
+        "donut",
+        "donut",
+        "donut"
+    ],
+    "tetrapod": [
+        "batrachomorph",
+        "reptiliomorph"
+    ],
+    "AD": [
+        "EAD"
+    ],
+    "medicine": [
+        "evidence-based medicine",
+        "clinical medicine",
+        "traditional Chinese medicine",
+        "traditional medicine",
+        "alternative medicine",
+        "complementary medicine",
+        "Ayurvedic medicine",
+        "folk medicine",
+        "indigenous medicine",
+        "integrative medicine"
+    ],
+    "metric": [
+        "Euclidean metric",
+        "Hausdorff metric",
+        "uniform metric",
+        "ultrametric"
+    ],
+    "numeral": [
+        "cardinal numeral",
+        "ordinal numeral",
+        "multiplicative numeral",
+        "part of speech"
+    ],
+    "astronaut": [
+        "taikonaut",
+        "vyomanaut",
+        "astronautess",
+        "spationaut"
+    ],
+    "lavender": [
+        "common lavender"
+    ],
+    "martyr": [
+        "shahid",
+        "shaheed"
+    ],
+    "door": [
+        "plantation door",
+        "front door",
+        "sliding door"
+    ],
+    "guitar": [
+        "acoustic guitar",
+        "electric guitar"
+    ],
+    "New Yorker": [
+        "Nuyorican"
+    ],
+    "champion": [
+        "championess"
+    ],
+    "crosswalk": [
+        "crossover",
+        "crossover",
+        "toucan crossing",
+        "pelican crossing",
+        "zebra crossing",
+        "crossover",
+        "puffin crossing"
+    ],
+    "declaration": [
+        "forward declaration"
+    ],
+    "emu": [
+        "Kangaroo Island emu",
+        "Tasmanian emu"
+    ],
+    "hook": [
+        "grappling hook"
+    ],
+    "intro": [
+        "cracktro",
+        "invitro",
+        "4ktro"
+    ],
+    "sphinx": [
+        "criosphinx",
+        "androsphinx",
+        "criosphinx",
+        "gynosphinx"
+    ],
+    "spot": [
+        "sweet spot",
+        "shot spot",
+        "sitspot"
+    ],
+    "catapult": [
+        "trebuchet"
+    ],
+    "bush pig": [
+        "red river hog"
+    ],
+    "congressperson": [
+        "congressman",
+        "congresswoman"
+    ],
+    "constructor": [
+        "copy constructor",
+        "empty constructor"
+    ],
+    "inner man": [
+        "spirit man"
+    ],
+    "table hockey": [
+        "air hockey",
+        "air hockey"
+    ],
+    "pumpkin suit": [
+        "LES"
+    ],
+    "apocalypse": [
+        "judgement day",
+        "zombie apocalypse",
+        "Final Judgment"
+    ],
+    "boxing": [
+        "autoboxing",
+        "autoboxing"
+    ],
+    "load": [
+        "truss",
+        "wey",
+        "wey",
+        "wey",
+        "truss",
+        "fotmal"
+    ],
+    "support": [
+        "moral support"
+    ],
+    "venue": [
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "arena",
+        "stadium",
+        "stadium",
+        "stadium",
+        "stadium",
+        "stadium",
+        "stadium",
+        "stadium",
+        "arena",
+        "stadium"
+    ],
+    "vine": [
+        "liana",
+        "liana",
+        "liana",
+        "liana",
+        "liana"
+    ],
+    "lawnmower": [
+        "reel mower",
+        "push mower",
+        "riding mower"
+    ],
+    "learning": [
+        "higher learning"
+    ],
+    "gingernut": [
+        "ginger knob"
+    ],
+    "pharmaceutics": [
+        "pharmacology"
+    ],
+    "wild rice": [
+        "Manchurian wild rice",
+        "northern wild rice"
+    ],
+    "plurisexuality": [
+        "pansexuality",
+        "bisexuality"
+    ],
+    "word play": [
+        "pun",
+        "pun",
+        "pun",
+        "pun",
+        "pun",
+        "pun",
+        "pun",
+        "pun",
+        "spoonerism"
+    ],
+    "gluteus": [
+        "gluteus medius",
+        "gluteus minimus",
+        "gluteus maximus"
+    ],
+    "Belgian Sheepdog": [
+        "Belgian Groenendael",
+        "Belgian Laekenois",
+        "Belgian Malinois",
+        "Belgian Tervuren",
+        "Groenendael"
+    ],
+    "MQ": [
+        "MQTT"
+    ],
+    "FAT": [
+        "FAT12",
+        "FAT16",
+        "FAT32",
+        "FAT64",
+        "FATX",
+        "VFAT",
+        "exFAT"
+    ],
+    "buttonbush": [
+        "Mexican buttonbush",
+        "common buttonbush"
+    ],
+    "steel guitar": [
+        "console steel guitar",
+        "lap steel guitar",
+        "table steel guitar",
+        "pedal steel guitar"
+    ],
+    "tritiated water": [
+        "super-heavy water"
+    ],
+    "lark": [
+        "crested lark",
+        "shorelark",
+        "skylark",
+        "magpie-lark",
+        "woodlark",
+        "sea lark",
+        "horned lark"
+    ],
+    "round": [
+        "catch",
+        "catch"
+    ],
+    "shape": [
+        "contest shape"
+    ],
+    "loan": [
+        "mutuum",
+        "commodatum",
+        "mutuum"
+    ],
+    "mayor": [
+        "mayor",
+        "mayor",
+        "mayor",
+        "mayor",
+        "mayor",
+        "mayor",
+        "mayor",
+        "mayor",
+        "mayoress",
+        "Lord Mayor"
+    ],
+    "neutronium": [
+        "neutron",
+        "neutron",
+        "neutron",
+        "neutron",
+        "neutron",
+        "neutron",
+        "neutron",
+        "neutron",
+        "neutron",
+        "neutron",
+        "neutron",
+        "neutron",
+        "neutron",
+        "dineutron",
+        "tetraneutron",
+        "trineutron",
+        "neutron"
+    ],
+    "significant other": [
+        "wife",
+        "husband",
+        "boyfriend",
+        "husband",
+        "wife",
+        "boyfriend",
+        "girlfriend",
+        "spouse"
+    ],
+    "tangle": [
+        "kombu",
+        "kombu",
+        "kombu"
+    ],
+    "ovenbird": [
+        "miner",
+        "miner",
+        "miner",
+        "miner",
+        "miner",
+        "miner",
+        "miner",
+        "miner",
+        "miner",
+        "leaftosser",
+        "woodcreeper"
+    ],
+    "queerness": [
+        "homosexuality",
+        "gayness"
+    ],
+    "daikon": [
+        "Korean radish",
+        "Sakurajima radish",
+        "fodder radish",
+        "lo bak",
+        "true daikon",
+        "watermelon radish"
+    ],
+    "motorsport": [
+        "auto racing"
+    ],
+    "AIS": [
+        "CAIS"
+    ],
+    "ultrafilter": [
+        "free ultrafilter",
+        "principal ultrafilter"
+    ],
+    "footbath": [
+        "ashiyu",
+        "maundy",
+        "pedilavium",
+        "pediluvium"
+    ],
+    "bluebill": [
+        "greater scaup",
+        "lesser scaup"
+    ],
+    "PPV": [
+        "ventilator",
+        "ventilator",
+        "ventilator",
+        "ventilator",
+        "ventilator",
+        "IPPV",
+        "ventilator",
+        "NIPPV",
+        "NPPV",
+        "NiPPV"
+    ],
+    "bishop": [
+        "cardinal",
+        "cardinal",
+        "cardinal",
+        "cardinal",
+        "cardinal",
+        "cardinal",
+        "pope",
+        "pope",
+        "pope",
+        "pope",
+        "metropolitan",
+        "metropolitan",
+        "catholicos",
+        "patriarch",
+        "primate",
+        "primate",
+        "primate",
+        "primate",
+        "patriarch",
+        "metropolitan",
+        "primate",
+        "prince-bishop",
+        "pope",
+        "auxiliary bishop",
+        "coadjutor bishop",
+        "exarch",
+        "cardinal",
+        "archbishop",
+        "catholicos",
+        "eparch",
+        "metropolitan bishop",
+        "titular bishop"
+    ],
+    "class": [
+        "lecture",
+        "seminar",
+        "seminar",
+        "seminar",
+        "seminar",
+        "seminar",
+        "seminar",
+        "seminar",
+        "seminar",
+        "seminar",
+        "seminar",
+        "lecture",
+        "preceptorial"
+    ],
+    "mollusc": [
+        "conchiferan"
+    ],
+    "polyhedron": [
+        "cube",
+        "cube",
+        "cube",
+        "cube",
+        "zonohedron",
+        "Catalan solid",
+        "dual polyhedron",
+        "tetrahedron",
+        "Platonic solid",
+        "octahedron",
+        "deltahedron",
+        "cube",
+        "hexahedron",
+        "prism",
+        "dodecahedron",
+        "icosahedron",
+        "antiprism",
+        "Kepler-Poinsot polyhedron",
+        "star polyhedron",
+        "trapezohedron",
+        "Archimedean solid",
+        "Johnson solid",
+        "dipyramid"
+    ],
+    "quaternion": [
+        "versor",
+        "versor",
+        "versor",
+        "versor"
+    ],
+    "Georgian": [
+        "Tush"
+    ],
+    "element": [
+        "chemical element",
+        "data element"
+    ],
+    "glass": [
+        "pyrex",
+        "pyrex",
+        "Pyrex",
+        "lechatelierite"
+    ],
+    "sandwich": [
+        "hamburger",
+        "hamburger",
+        "hamburger",
+        "hamburger",
+        "hamburger",
+        "hamburger",
+        "hamburger",
+        "hamburger",
+        "hamburger",
+        "hamburger",
+        "hamburger",
+        "-burger",
+        "burger",
+        "burger",
+        "burger",
+        "burger",
+        "burger",
+        "burger",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "open-faced",
+        "banh mi",
+        "patty melt",
+        "burger",
+        "-burger",
+        "hamburger",
+        "BLT",
+        "hot dog"
+    ],
+    "monarch": [
+        "king",
+        "king",
+        "king",
+        "king",
+        "queen",
+        "emperor",
+        "empress",
+        "king",
+        "queen"
+    ],
+    "orbit": [
+        "sun-synchronous orbit"
+    ],
+    "ape": [
+        "apess",
+        "apeling",
+        "apelet",
+        "mammal"
+    ],
+    "automaton": [
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot",
+        "robot"
+    ],
+    "fustian": [
+        "beaverteen"
+    ],
+    "jackal": [
+        "black-backed jackal",
+        "side-striped jackal",
+        "golden jackal"
+    ],
+    "leopard": [
+        "cub",
+        "cub",
+        "cub",
+        "cub",
+        "cub",
+        "leopardess",
+        "mammal"
+    ],
+    "panacea": [
+        "theriac",
+        "mithridate"
+    ],
+    "priestess": [
+        "bacchante",
+        "bacchante",
+        "high priestess"
+    ],
+    "toxin": [
+        "venom",
+        "venom"
+    ],
+    "valley": [
+        "closed-cut valley",
+        "open valley"
+    ],
+    "bodice": [
+        "yem",
+        "yem",
+        "blouse",
+        "blouse",
+        "yem",
+        "blouse",
+        "jelick",
+        "angiya",
+        "dudou",
+        "underbodice",
+        "jumps"
+    ],
+    "green bean": [
+        "snap bean",
+        "bobby bean",
+        "fine bean",
+        "runner bean",
+        "string bean",
+        "French bean"
+    ],
+    "synaesthesia": [
+        "chromesthesia"
+    ],
+    "twilight": [
+        "astronomical twilight",
+        "nautical twilight",
+        "first light",
+        "evenfall",
+        "eventide",
+        "cockcrow",
+        "civil twilight"
+    ],
+    "Earthian": [
+        "Earthman",
+        "Earthwoman",
+        "Earthgirl"
+    ],
+    "DT": [
+        "DTP",
+        "DTP",
+        "DTP"
+    ],
+    "gameboard": [
+        "chessboard",
+        "checkerboard"
+    ],
+    "ingroup": [
+        "clique",
+        "clique",
+        "clique",
+        "clique",
+        "faction",
+        "coterie",
+        "coterie",
+        "coterie",
+        "camp",
+        "camp",
+        "camp",
+        "faction",
+        "clique",
+        "camp",
+        "coterie",
+        "tribe",
+        "inner circle"
+    ],
+    "HAP": [
+        "VIP",
+        "VIP",
+        "VIP",
+        "VAP"
+    ],
+    "ram": [
+        "torpedo ram"
+    ],
+    "rood": [
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "lug",
+        "lug",
+        "lug",
+        "lug",
+        "lug",
+        "lug",
+        "fall",
+        "lug",
+        "perch"
+    ],
+    "beta": [
+        "closed beta",
+        "perpetual beta",
+        "open beta"
+    ],
+    "due": [
+        "light due"
+    ],
+    "elf": [
+        "elfe",
+        "elfe",
+        "elven",
+        "elven",
+        "elven",
+        "elven",
+        "elven",
+        "elfe",
+        "wood-elf"
+    ],
+    "host": [
+        "localhost"
+    ],
+    "pitch": [
+        "football pitch"
+    ],
+    "tank": [
+        "bobbin tank",
+        "flail tank",
+        "main battle tank",
+        "MBT",
+        "tankette"
+    ],
+    "noise": [
+        "boom",
+        "boom",
+        "boom",
+        "boom",
+        "boom",
+        "boom",
+        "boom",
+        "boom",
+        "bang",
+        "bang",
+        "bang",
+        "bang",
+        "bang",
+        "bang",
+        "crash",
+        "bang",
+        "bang",
+        "bang",
+        "bang",
+        "bang",
+        "bang",
+        "bang",
+        "bang",
+        "crash",
+        "bang",
+        "bang",
+        "bang",
+        "crash",
+        "bang",
+        "bang",
+        "bang",
+        "bang",
+        "thud",
+        "crash",
+        "boom",
+        "bang",
+        "thud"
+    ],
+    "risk": [
+        "variance",
+        "variance",
+        "standard deviation"
+    ],
+    "slave": [
+        "bozal",
+        "bozal",
+        "bossale",
+        "bossale"
+    ],
+    "temple": [
+        "hof",
+        "hof",
+        "hof",
+        "hof",
+        "hof",
+        "hof",
+        "hof",
+        "hof",
+        "mosque",
+        "mosque",
+        "synagogue",
+        "gurudwara",
+        "mosque",
+        "athenaeum",
+        "church",
+        "synagogue",
+        "Mithraeum",
+        "Iseion",
+        "Iseum",
+        "serapeum",
+        "gurdwara",
+        "hof"
+    ],
+    "tomato sauce": [
+        "pomodoro sauce"
+    ],
+    "LV": [
+        "RLV",
+        "ELV",
+        "HLLV"
+    ],
+    "animalcule": [
+        "amoeba",
+        "rotifer",
+        "paramecium",
+        "slipper animalcule",
+        "wheel animalcule",
+        "stentor",
+        "stentor",
+        "stentor",
+        "amoeba",
+        "paramecium",
+        "eye animalcule",
+        "globe animalcule",
+        "rotifer",
+        "peritrich",
+        "bell animalcule"
+    ],
+    "coroner": [
+        "ME",
+        "medical examiner",
+        "ME"
+    ],
+    "prism": [
+        "cylinder",
+        "cylinder",
+        "cylinder",
+        "cylinder"
+    ],
+    "provocateur": [
+        "provocateuse"
+    ],
+    "headband": [
+        "katyusha",
+        "katyusha"
+    ],
+    "lookup table": [
+        "list",
+        "list",
+        "list",
+        "list",
+        "list",
+        "list",
+        "list",
+        "list",
+        "list",
+        "list",
+        "list",
+        "array",
+        "list",
+        "list",
+        "list",
+        "vector",
+        "vector",
+        "vector",
+        "vector",
+        "vector",
+        "vector",
+        "vector",
+        "list",
+        "associative array",
+        "hash table",
+        "array",
+        "vector"
+    ],
+    "pasta sauce": [
+        "marinara",
+        "marinara",
+        "marinara",
+        "marinara",
+        "pesto",
+        "pesto",
+        "pesto",
+        "pesto",
+        "pesto",
+        "pomodoro",
+        "pesto",
+        "pesto",
+        "meat sauce",
+        "bolognese",
+        "carbonara",
+        "amatriciana",
+        "arrabbiata",
+        "bolognese",
+        "carbonara",
+        "amatriciana",
+        "amatriciana",
+        "carbonara",
+        "marinara",
+        "tomato sauce",
+        "pesto",
+        "pomodoro",
+        "amatriciana",
+        "arrabbiata",
+        "bolognese",
+        "carbonara",
+        "alfredo"
+    ],
+    "sprit": [
+        "bowsprit"
+    ],
+    "cordage": [
+        "guy",
+        "guy",
+        "cunningham",
+        "tack",
+        "tack",
+        "lift",
+        "lift",
+        "lift",
+        "lift",
+        "lift",
+        "lift",
+        "lift",
+        "lift",
+        "lift",
+        "lift",
+        "lift",
+        "lift",
+        "cunningham",
+        "horse",
+        "horse",
+        "halyard",
+        "cringle",
+        "horse",
+        "lift",
+        "tack",
+        "guy",
+        "downhaul",
+        "footrope",
+        "outhaul",
+        "stay",
+        "sheet",
+        "buntline",
+        "clewline",
+        "shroud"
+    ],
+    "imaging": [
+        "magnetic resonance imaging",
+        "thermography",
+        "tomography",
+        "sonography"
+    ],
+    "snapper": [
+        "cockney",
+        "cockney",
+        "squire",
+        "cockney",
+        "squire"
+    ],
+    "worsted": [
+        "serge",
+        "gabardine",
+        "gabardine",
+        "gabardine",
+        "gabardine",
+        "gabardine",
+        "serge",
+        "whipcord",
+        "tamin"
+    ],
+    "asteismus": [
+        "pun",
+        "pun",
+        "pun",
+        "pun",
+        "pun",
+        "pun",
+        "pun",
+        "antanaclasis",
+        "pun"
+    ],
+    "irregular warfare": [
+        "guerrilla warfare",
+        "asymmetric warfare"
+    ],
+    "longsword": [
+        "claymore",
+        "claymore",
+        "claymore"
+    ],
+    "perch": [
+        "darter",
+        "bass",
+        "bass",
+        "bass",
+        "bass",
+        "bass",
+        "bass",
+        "bass",
+        "bass",
+        "bass",
+        "darter",
+        "yellow perch",
+        "zander",
+        "European perch",
+        "pike-perch"
+    ],
+    "bitch": [
+        "brach",
+        "brach",
+        "brach",
+        "brach",
+        "brach",
+        "she-wolf",
+        "vixen"
+    ],
+    "combustion": [
+        "detonation",
+        "detonation",
+        "deflagration"
+    ],
+    "gasoline": [
+        "autogas",
+        "avgas",
+        "avgas",
+        "autogas",
+        "mogas"
+    ],
+    "ironwood": [
+        "Olea",
+        "diesel tree",
+        "American hornbeam",
+        "lignum vitae",
+        "hop hornbeam"
+    ],
+    "movie": [
+        "short",
+        "short",
+        "short",
+        "short",
+        "short",
+        "short",
+        "short",
+        "art film",
+        "feature",
+        "documentary",
+        "feature film"
+    ],
+    "polynomial": [
+        "binomial",
+        "binomial",
+        "binomial",
+        "binomial",
+        "binomial",
+        "quantic",
+        "quadrinomial",
+        "homogeneous polynomial",
+        "monomial",
+        "trinomial"
+    ],
+    "punch": [
+        "jab",
+        "jab",
+        "jab",
+        "hook",
+        "uppercut",
+        "uppercut",
+        "uppercut",
+        "jab",
+        "uppercut",
+        "hook",
+        "king hit",
+        "pounding"
+    ],
+    "rectangle": [
+        "square",
+        "oblong",
+        "oblong",
+        "oblong",
+        "square",
+        "oblong"
+    ],
+    "vegetarian": [
+        "vegan",
+        "vegan",
+        "vegan",
+        "vegan",
+        "vegan",
+        "vegan",
+        "vegan",
+        "lactoovovegetarian",
+        "ovolactovegetarian",
+        "eggetarian",
+        "ovovegetarian",
+        "ovo-lacto-vegetarian",
+        "lacto-ovo-vegetarian",
+        "lactarian",
+        "lactovegetarian"
+    ],
+    "front": [
+        "bow",
+        "bow"
+    ],
+    "parrot": [
+        "kea",
+        "kea",
+        "kea",
+        "kea",
+        "kea",
+        "kakapo",
+        "kakapo",
+        "kakapo",
+        "kakapo",
+        "rosella",
+        "rosella",
+        "rosella",
+        "kea",
+        "kakapo",
+        "macaw",
+        "lorikeet",
+        "lory",
+        "lovebird",
+        "budgerigar",
+        "cockatoo",
+        "galah",
+        "parakeet",
+        "cockatiel",
+        "corella"
+    ],
+    "FRC": [
+        "CFRP",
+        "CNRP",
+        "CNTRP",
+        "GFRP",
+        "FRC",
+        "FRP"
+    ],
+    "annulus": [
+        "torus",
+        "torus",
+        "torus",
+        "torus",
+        "torus"
+    ],
+    "seafood": [
+        "algae",
+        "algae",
+        "crustaceans",
+        "mammals",
+        "fish",
+        "shellfish",
+        "molluscs",
+        "seaweed",
+        "finfish"
+    ],
+    "pig": [
+        "boar",
+        "boar",
+        "boar",
+        "boar",
+        "piglet",
+        "sow",
+        "brood sow",
+        "herd boar",
+        "piggy",
+        "mammal"
+    ],
+    "sovereign": [
+        "king",
+        "king",
+        "king",
+        "king",
+        "queen",
+        "king",
+        "queen"
+    ],
+    "spaceship": [
+        "glider",
+        "glider",
+        "knightship",
+        "starship",
+        "space station",
+        "generation ship"
+    ],
+    "MP": [
+        "MEP",
+        "MEP",
+        "MEP"
+    ],
+    "file": [
+        "rasp",
+        "rasp",
+        "rasp",
+        "rasp"
+    ],
+    "hamburger": [
+        "slider",
+        "slider",
+        "cheeseburger",
+        "cheeseburger",
+        "slider",
+        "cheeseburger",
+        "quarter-pounder"
+    ],
+    "ALP": [
+        "axion",
+        "axion"
+    ],
+    "aerospace": [
+        "aeronautics",
+        "astronautics"
+    ],
+    "wallaroo": [
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "euro",
+        "antilopine wallaroo"
+    ],
+    "speculoos": [
+        "speculaas",
+        "speculaas",
+        "speculoos"
+    ],
+    "digit": [
+        "toe",
+        "finger",
+        "toe",
+        "finger",
+        "toe",
+        "toe",
+        "toe",
+        "finger",
+        "toe",
+        "finger",
+        "finger",
+        "finger",
+        "thumb",
+        "finger",
+        "toe",
+        "toe",
+        "finger",
+        "thumb"
+    ],
+    "forward reference": [
+        "declaration",
+        "reference"
+    ],
+    "clipping": [
+        "apocope",
+        "apocope",
+        "apocope",
+        "syncope",
+        "syncope",
+        "syncope",
+        "syncope",
+        "apocope",
+        "apheresis"
+    ],
+    "wearable": [
+        "smartwatch",
+        "smartwatch",
+        "heart rate monitor"
+    ],
+    "winter squash": [
+        "cushaw",
+        "spaghetti squash",
+        "acorn squash",
+        "kabocha",
+        "Japanese pumpkin",
+        "turban squash",
+        "butternut squash",
+        "red kuri squash",
+        "Hubbard squash"
+    ],
+    "throw-out": [
+        "pop-up",
+        "gatefold"
+    ],
+    "pussyboy": [
+        "pussyman"
+    ],
+    "fizzies": [
+        "bath bombs"
+    ],
+    "squash": [
+        "pumpkin"
+    ],
+    "doghood": [
+        "puppyhood"
+    ],
+    "mitrailleur": [
+        "Gatling gun"
+    ],
+    "synostosis": [
+        "syndactyly",
+        "craniosynostosis"
+    ],
+    "namepiece": [
+        "title track"
+    ],
+    "star system": [
+        "double star",
+        "binary star"
+    ],
+    "PAP": [
+        "BiPAP",
+        "CPAP"
+    ],
+    "valediction": [
+        "sincerely"
+    ],
+    "infantryman": [
+        "infantrywoman"
+    ],
+    "silverside": [
+        "neotropical silverside"
+    ],
+    "imidazolinone": [
+        "imazapyr",
+        "imazamox",
+        "imazaquin",
+        "imazethapyr"
+    ],
+    "sibling-in-law": [
+        "brother-in-law",
+        "sister-in-law"
+    ],
+    "manga": [
+        "doujinshi"
+    ],
+    "Christmas tree": [
+        "Charlie Brown tree"
+    ],
+    "coefficient": [
+        "coefficient of friction"
+    ],
+    "mast": [
+        "topmast",
+        "mainmast",
+        "mizzenmast",
+        "foremast"
+    ],
+    "vector": [
+        "Burgers vector",
+        "poxvector",
+        "wave vector",
+        "gyrovector",
+        "column vector",
+        "row vector",
+        "spinor",
+        "unit vector",
+        "position vector",
+        "axial vector",
+        "Poynting vector"
+    ],
+    "course": [
+        "MOOC",
+        "crash course",
+        "bird course",
+        "due course"
+    ],
+    "perspective": [
+        "metaperspective",
+        "linear perspective",
+        "microperspective"
+    ],
+    "type": [
+        "movable type",
+        "built-in type",
+        "composite type",
+        "primitive type"
+    ],
+    "Boer": [
+        "trekboer"
+    ],
+    "corkscrew": [
+        "waiter's friend",
+        "wing corkscrew"
+    ],
+    "inheritance": [
+        "multiple inheritance",
+        "classical inheritance"
+    ],
+    "swordsman": [
+        "swordstress",
+        "swordswoman"
+    ],
+    "GDI": [
+        "GDI+"
+    ],
+    "adder's tongue": [
+        "trout lily"
+    ],
+    "cross-country skiing": [
+        "classic skiing",
+        "skate skiing",
+        "ski skating"
+    ],
+    "jay": [
+        "American jay",
+        "gray jay"
+    ],
+    "peacock": [
+        "peacock",
+        "peahen",
+        "peachick",
+        "bird"
+    ],
+    "rabbit": [
+        "jackrabbit",
+        "bunny rabbit"
+    ],
+    "rooster": [
+        "cockerel"
+    ],
+    "shrew": [
+        "common shrew"
+    ],
+    "weasel": [
+        "Siberian weasel",
+        "least weasel",
+        "short-tailed weasel",
+        "mammal"
+    ],
+    "wildcat": [
+        "African wildcat",
+        "Chinese mountain cat",
+        "European wildcat",
+        "Scottish wildcat",
+        "Asiatic wildcat"
+    ],
+    "woodpecker": [
+        "flicker"
+    ],
+    "context": [
+        "subcontext"
+    ],
+    "granary": [
+        "rice bowl"
+    ],
+    "sequence": [
+        "escape sequence",
+        "presequence"
+    ],
+    "clover": [
+        "trefoil",
+        "shamrock"
+    ],
+    "club": [
+        "sports club"
+    ],
+    "grid": [
+        "national grid",
+        "supergrid"
+    ],
+    "worker": [
+        "employee"
+    ],
+    "safety belt": [
+        "seat belt"
+    ],
+    "freeman": [
+        "freedman"
+    ],
+    "darnel": [
+        "Persian darnel"
+    ],
+    "lookahead": [
+        "negative lookahead",
+        "positive lookahead"
+    ],
+    "K-theory": [
+        "algebraic K-theory"
+    ],
+    "top surgery": [
+        "mammectomy"
+    ],
+    "RTC": [
+        "WebRTC"
+    ],
+    "90s": [
+        "1890s",
+        "1990s"
+    ],
+    "oximeter": [
+        "CO-oximeter",
+        "pulse oximeter"
+    ],
+    "carpet snake": [
+        "carpet python"
+    ],
+    "hypocentre": [
+        "ground zero"
+    ],
+    "trigram": [
+        "inner trigram",
+        "outer trigram"
+    ],
+    "multigraph": [
+        "multidigraph"
+    ],
+    "bailment": [
+        "loan",
+        "loan",
+        "loan",
+        "loan",
+        "mandate",
+        "mandate",
+        "mandate",
+        "deposit",
+        "loan",
+        "pledge",
+        "pawn",
+        "mandate"
+    ],
+    "sea monster": [
+        "lusca",
+        "wasserman",
+        "Charybdis",
+        "Charybdis",
+        "Scylla",
+        "Kraken",
+        "Kraken",
+        "lusca",
+        "leviathan",
+        "sea serpent",
+        "Scylla",
+        "merhorse",
+        "Charybdis",
+        "mermaid",
+        "Kraken"
+    ],
+    "bird strike": [
+        "avian ingestion"
+    ],
+    "phonebook": [
+        "white pages",
+        "yellow pages"
+    ],
+    "trinitite": [
+        "trinitite",
+        "Alamogordo glass",
+        "atomsite"
+    ],
+    "Murasugi sum": [
+        "plumbing"
+    ],
+    "loose change": [
+        "nickels",
+        "nickels",
+        "nickels"
+    ],
+    "ERV": [
+        "HERV",
+        "PERV"
+    ],
+    "metaplasm": [
+        "ellipsis",
+        "diastole",
+        "diastole",
+        "synaeresis",
+        "diastole",
+        "diastole",
+        "diastole",
+        "apocope",
+        "apocope",
+        "paragoge",
+        "paragoge",
+        "apocope",
+        "paragoge",
+        "systole",
+        "systole",
+        "syncope",
+        "syncope",
+        "syncope",
+        "antisthecon",
+        "epenthesis",
+        "diaeresis",
+        "prothesis",
+        "metathesis",
+        "synaloepha",
+        "ellipsis",
+        "syncope",
+        "synizesis",
+        "diaeresis",
+        "epenthesis",
+        "apocope",
+        "paragoge",
+        "systole",
+        "synaeresis",
+        "aphaeresis",
+        "ecthlipsis",
+        "diastole"
+    ],
+    "utricle": [
+        "prostatic utricle"
+    ],
+    "cot-quean": [
+        "househusband"
+    ],
+    "speargrass": [
+        "black speargrass"
+    ],
+    "temperer": [
+        "annealer"
+    ],
+    "SDL": [
+        "SSDL",
+        "CSDL"
+    ],
+    "ploughland": [
+        "carucate"
+    ],
+    "ampliatio": [
+        "prolepsis",
+        "prolepsis"
+    ],
+    "bigeye": [
+        "catalufa"
+    ],
+    "gomer": [
+        "Gomerette"
+    ],
+    "henhussy": [
+        "househusband"
+    ],
+    "spellwork": [
+        "wandwork",
+        "charmwork"
+    ],
+    "fardel": [
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "acre",
+        "fifth"
+    ],
+    "lambskin": [
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin"
+    ],
+    "metonym": [
+        "synecdoche",
+        "synecdoche"
+    ],
+    "nootropic": [
+        "caffeine",
+        "piracetam",
+        "caffeine"
+    ],
+    "nougat": [
+        "Viennese nougat"
+    ],
+    "pyromancy": [
+        "plastrons",
+        "plastrons",
+        "osteomancy",
+        "botanomancy",
+        "capnomancy",
+        "daphnomancy",
+        "scapulimancy",
+        "sideromancy",
+        "plastrons",
+        "alomancy"
+    ],
+    "rollercoaster": [
+        "megacoaster",
+        "hypercoaster",
+        "Virginia reel",
+        "watercoaster"
+    ],
+    "saurian": [
+        "choristodere",
+        "archosauromorph",
+        "lepidosauromorph",
+        "sauropterygian",
+        "choristoderan",
+        "pantestudine"
+    ],
+    "closure": [
+        "hasp",
+        "hasp",
+        "hook and eye",
+        "clasp",
+        "latch",
+        "hasp"
+    ],
+    "divisionism": [
+        "pointillism",
+        "pointillism"
+    ],
+    "glaring": [
+        "kindle"
+    ],
+    "macrolide": [
+        "clarithromycin",
+        "tacrolimus",
+        "azithromycin",
+        "erythromycin"
+    ],
+    "rustler": [
+        "napper",
+        "napper",
+        "napper",
+        "horse thief",
+        "sheepstealer"
+    ],
+    "coder": [
+        "clean coder"
+    ],
+    "pathopoeia": [
+        "exuscitatio"
+    ],
+    "recursive function": [
+        "function"
+    ],
+    "sheepskin": [
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin",
+        "skin"
+    ],
+    "tardigrade": [
+        "macrobiotid"
+    ],
+    "milkweed": [
+        "butterfly milkweed",
+        "purple milkweed",
+        "swamp milkweed"
+    ],
+    "consequentialism": [
+        "utilitarianism"
+    ],
+    "dogshit": [
+        "dogpile"
+    ],
+    "brachylogy": [
+        "syllepsis",
+        "zeugma",
+        "zeugma",
+        "zeugma",
+        "zeugma",
+        "zeugma",
+        "zeugma",
+        "zeugma",
+        "zeugma",
+        "zeugma",
+        "asyndeton",
+        "asyndeton",
+        "asyndeton",
+        "asyndeton",
+        "apokoinou",
+        "apokoinou",
+        "syllepsis",
+        "praegnans constructio",
+        "zeugma",
+        "aposiopesis"
+    ],
+    "sexbot": [
+        "malebot",
+        "fembot"
+    ],
+    "pseudo-scholarship": [
+        "pseudohistory",
+        "pseudo-linguistics",
+        "pseudoarchaeology",
+        "pseudoscience"
+    ],
+    "batfish": [
+        "red-lipped batfish",
+        "rosy-lipped batfish"
+    ],
+    "SPG": [
+        "tank destroyer"
+    ],
+    "ice giant": [
+        "Uranus",
+        "Uranus",
+        "Uranus",
+        "Uranus",
+        "Uranus",
+        "Neptune",
+        "Uranus",
+        "Uranus",
+        "Uranus",
+        "Uranus",
+        "Uranus",
+        "Uranus",
+        "Neptune",
+        "Uranus"
+    ],
+    "Great Year": [
+        "Sothic period"
+    ],
+    "country rock": [
+        "magma",
+        "magma",
+        "magma",
+        "magma",
+        "magma",
+        "magma",
+        "magma",
+        "magma",
+        "magma",
+        "magma",
+        "magma",
+        "magma",
+        "magma",
+        "magma",
+        "magma",
+        "xenolith",
+        "magma",
+        "igneous"
+    ],
+    "mesology": [
+        "milieu",
+        "milieu",
+        "milieu",
+        "milieu",
+        "milieu",
+        "surroundings",
+        "milieu"
+    ],
+    "water": [
+        "ice",
+        "ice",
+        "ice",
+        "ice",
+        "water vapor",
+        "hard water",
+        "soft water",
+        "meltwater",
+        "steam",
+        "drinkwater",
+        "water vapour",
+        "drinkwater",
+        "freshwater",
+        "heavy water",
+        "ice",
+        "mineral water"
+    ],
+    "earthly branch": [
+        "rat",
+        "north",
+        "west",
+        "rat",
+        "east",
+        "rat",
+        "rat",
+        "rat",
+        "west",
+        "rat",
+        "west",
+        "rat",
+        "west",
+        "rat",
+        "west",
+        "rat",
+        "rat",
+        "ox",
+        "dragon",
+        "dragon",
+        "dragon",
+        "dragon",
+        "dragon",
+        "dragon",
+        "dragon",
+        "dragon",
+        "ox",
+        "dragon",
+        "dragon",
+        "dragon",
+        "Vietnam",
+        "Vietnam",
+        "Vietnam",
+        "tiger",
+        "Vietnam",
+        "tiger",
+        "Vietnam",
+        "Vietnam",
+        "Vietnam",
+        "cat",
+        "cat",
+        "Vietnam",
+        "Vietnam",
+        "cat",
+        "Vietnam",
+        "Vietnam",
+        "Vietnam",
+        "Vietnam",
+        "Vietnam",
+        "tiger",
+        "Vietnam",
+        "tiger",
+        "cat",
+        "Vietnam",
+        "Vietnam",
+        "Vietnam",
+        "Vietnam",
+        "tiger",
+        "Vietnam",
+        "pig",
+        "pig",
+        "rabbit",
+        "rabbit",
+        "i.e.",
+        "rooster",
+        "chicken",
+        "pig",
+        "pig",
+        "horse",
+        "horse",
+        "horse",
+        "cow",
+        "monkey",
+        "ox",
+        "lunar months",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "i.e.",
+        "Chinese dragon",
+        "cat",
+        "Vietnam",
+        "east",
+        "north",
+        "snake",
+        "south",
+        "west",
+        "dragon",
+        "tiger",
+        "rat",
+        "chicken",
+        "goat",
+        "pig",
+        "rabbit",
+        "rooster",
+        "dog"
+    ],
+    "EV": [
+        "BEV",
+        "FCEV",
+        "HEV",
+        "PHEV",
+        "ZEV",
+        "FCV"
+    ],
+    "subsatellite": [
+        "moonmoon",
+        "sub-moon",
+        "submoon",
+        "tertiary planet"
+    ],
+    "antiform": [
+        "anticline"
+    ],
+    "baby hatch": [
+        "foundling wheel"
+    ],
+    "MLC": [
+        "TLC",
+        "SLC",
+        "SLC",
+        "TLC",
+        "QLC"
+    ],
+    "Michigander": [
+        "Troll",
+        "Michigoose",
+        "Troll",
+        "Yooper"
+    ],
+    "can opener": [
+        "church key"
+    ],
+    "criticality": [
+        "delayed criticality",
+        "prompt criticality"
+    ],
+    "endomorphism": [
+        "automorphism"
+    ],
+    "stepparents": [
+        "stepfathers",
+        "stepmothers"
+    ],
+    "busser": [
+        "busgirl"
+    ],
+    "firestarter": [
+        "torch",
+        "arsonist",
+        "torch",
+        "firebug",
+        "incendiary",
+        "pyromaniac",
+        "fireraiser"
+    ],
+    "handball": [
+        "Gaelic handball"
+    ],
+    "false witness": [
+        "lie",
+        "lie",
+        "lie",
+        "lie",
+        "libel",
+        "perjury",
+        "lying",
+        "lie",
+        "calumny",
+        "libel",
+        "slander",
+        "defamation"
+    ],
+    "genius loci": [
+        "genius locorum"
+    ],
+    "pocket pistol": [
+        "mouse gun",
+        "derringer"
+    ],
+    "hetfic": [
+        "hetsmut"
+    ],
+    "kidfic": [
+        "parentlock",
+        "babyfic"
+    ],
+    "original character": [
+        "OMC",
+        "OMC",
+        "OMC",
+        "OMC",
+        "trollsona",
+        "OMC",
+        "fursona",
+        "fantroll",
+        "OFC",
+        "gemsona",
+        "ponysona"
+    ],
+    "PUA": [
+        "SPUA"
+    ],
+    "stremma": [
+        "square",
+        "square",
+        "royal stremma",
+        "plethron",
+        "dunam"
+    ],
+    "Trekfic": [
+        "Treksmut"
+    ],
+    "eighties": [
+        "1880s",
+        "1980s"
+    ],
+    "golfer": [
+        "linkswoman"
+    ],
+    "milker": [
+        "milkmaid"
+    ],
+    "hyperparasite": [
+        "hyperparasitoid"
+    ],
+    "slash fiction": [
+        "altfic",
+        "boyslash",
+        "femslash"
+    ],
+    "three-quarter sibling": [
+        "three-quarter brother",
+        "three-quarter sister"
+    ],
+    "ground squirrel": [
+        "marmot",
+        "marmot",
+        "chipmunk",
+        "prairie dog",
+        "marmot",
+        "groundhog",
+        "suslik"
+    ],
+    "human shield": [
+        "white shield"
+    ],
+    "fullam": [
+        "highmen",
+        "uphills"
+    ],
+    "sodium glutamate": [
+        "MSG",
+        "monosodium glutamate"
+    ],
+    "wind egg": [
+        "cock egg"
+    ],
+    "para-athlete": [
+        "Paralympian"
+    ],
+    "soulbond": [
+        "waifu",
+        "husbando"
+    ],
+    "military widow": [
+        "gold star wife",
+        "war widow"
+    ],
+    "parahockey": [
+        "sledge hockey",
+        "para ice hockey"
+    ],
+    "coffee cake": [
+        "babka",
+        "babka",
+        "babka",
+        "babka"
+    ],
+    "deuterated water": [
+        "heavy water",
+        "semiheavy water"
+    ],
+    "primitive polynomial": [
+        "monic"
+    ],
+    "houseboy": [
+        "Chinaboy"
+    ],
+    "coast": [
+        "seashore",
+        "oceanfront"
+    ],
+    "preorder": [
+        "partial order",
+        "total order",
+        "equivalence relation",
+        "well-order"
+    ],
+    "hyawa": [
+        "elemi",
+        "elemi"
+    ],
+    "predicate logic": [
+        "many-sorted logic",
+        "second-order logic",
+        "first-order logic"
+    ],
+    "seaplane tender": [
+        "seaplane carrier"
+    ],
+    "type erasure": [
+        "erasure"
+    ],
+    "loricatan": [
+        "crocodylomorph",
+        "rauisuchid",
+        "prestosuchid"
+    ],
+    "shortfic": [
+        "drabble"
+    ],
+    "findom": [
+        "findomme"
+    ],
+    "Bt": [
+        "Bti"
+    ],
+    "military science": [
+        "naval science"
+    ],
+    "old rose": [
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "alba",
+        "damask",
+        "damask",
+        "gallica",
+        "gallica",
+        "noisette",
+        "China rose",
+        "apothecary rose",
+        "cabbage rose",
+        "centifolia",
+        "moss rose",
+        "tea rose",
+        "damask",
+        "alba",
+        "noisette",
+        "gallica"
+    ],
+    "droop snoot": [
+        "nose",
+        "nose",
+        "nose",
+        "nose",
+        "nose",
+        "nose",
+        "nose"
+    ],
+    "Rinkeby Swedish": [
+        "Rinkeby Swedish"
+    ],
+    "anti-shipper": [
+        "anti-relationshipper",
+        "noromo"
+    ],
+    "H2RA": [
+        "ranitidine",
+        "ranitidine",
+        "famotidine",
+        "antacid"
+    ],
+    "QTM": [
+        "LQTM"
+    ],
+    "southern yellow pine": [
+        "shortleaf pine",
+        "slash pine",
+        "longleaf pine",
+        "loblolly pine"
+    ],
+    "Old World blackbird": [
+        "common blackbird"
+    ],
+    "search and rescue": [
+        "USAR"
+    ],
+    "fill in the blank": [
+        "cloze"
+    ],
+    "social justice warrior": [
+        "wokescold",
+        "wokie",
+        "woketard",
+        "Tumblrina",
+        "wokester",
+        "wokeling"
+    ],
+    "modulus of elasticity": [
+        "Young's modulus"
+    ],
+    "highly composite number": [
+        "superior highly composite number"
+    ],
+    "end of the world": [
+        "TEOTWAWKI",
+        "doomsday",
+        "judgement day",
+        "Ragnarok",
+        "Ragnarok"
+    ],
+    "day of reckoning": [
+        "day",
+        "day",
+        "day",
+        "day",
+        "day",
+        "day"
+    ],
+    "von Neumann machine": [
+        "von Neumann probe"
+    ],
+    "barium copper silicate": [
+        "barium copper disilicate",
+        "barium copper tetrasilicate"
+    ],
+    "new energy vehicle": [
+        "BEV",
+        "hybrid electric vehicle",
+        "PHEV",
+        "hydrogen vehicle",
+        "EV",
+        "fuel cell vehicle",
+        "battery electric vehicle",
+        "HEV",
+        "electric vehicle",
+        "PEV"
+    ],
+    "partially ordered set": [
+        "lattice",
+        "lattice",
+        "totally ordered set"
+    ],
+    "principal ideal ring": [
+        "principal ideal domain"
+    ],
+    "female genital mutilation": [
+        "female circumcision",
+        "female genital cutting",
+        "FGC"
+    ],
+    "butane": [
+        "n-butane",
+        "n-butane"
+    ],
+    "para ice hockey": [
+        "sledge hockey"
+    ],
+    "hosiery": [
+        "stocking",
+        "sock",
+        "pantyhose"
+    ],
+    "goat": [
+        "he-goat",
+        "she-goat",
+        "billy goat",
+        "nanny goat",
+        "kid",
+        "kid",
+        "kid",
+        "kid",
+        "kid",
+        "mammal"
+    ],
+    "screw": [
+        "wrench",
+        "twist",
+        "twist",
+        "twist",
+        "twist",
+        "wrench"
+    ],
+    "ship": [
+        "yacht",
+        "steamboat",
+        "clipper",
+        "cutter",
+        "destroyer",
+        "cutter",
+        "cutter",
+        "gunboat",
+        "polacca",
+        "brig",
+        "brig",
+        "brig",
+        "ferry",
+        "smack",
+        "schooner",
+        "ferry",
+        "smack",
+        "ferry",
+        "smack",
+        "schooner",
+        "sloop",
+        "steamer",
+        "yacht",
+        "sloop",
+        "frigate",
+        "steam ship",
+        "whaler",
+        "lugger",
+        "lugger",
+        "lugger",
+        "tender",
+        "lifeboat",
+        "rowboat",
+        "sailboat",
+        "sailing ship",
+        "speedboat",
+        "steamboat",
+        "ketch",
+        "corvette",
+        "boat",
+        "boat",
+        "tug",
+        "tug",
+        "canoe",
+        "brigantine",
+        "brig",
+        "tender",
+        "tender",
+        "tender",
+        "tender",
+        "tender",
+        "ketch",
+        "coaster",
+        "sloop",
+        "steamer",
+        "destroyer",
+        "clipper",
+        "cutter"
+    ],
+    "hat": [
+        "derby",
+        "trilby",
+        "derby",
+        "derby",
+        "bonnet",
+        "bonnet",
+        "panama",
+        "panama",
+        "panama",
+        "boater",
+        "fez",
+        "fez",
+        "Homburg",
+        "Homburg",
+        "fez",
+        "cap",
+        "bowler",
+        "Homburg",
+        "cap",
+        "cap",
+        "cap",
+        "cap",
+        "cap",
+        "cap",
+        "cap",
+        "cap",
+        "fedora",
+        "panama",
+        "sombrero",
+        "sombrero",
+        "sombrero",
+        "sombrero",
+        "sombrero",
+        "sombrero",
+        "sombrero",
+        "derby",
+        "trilby"
+    ],
+    "illness": [
+        "hypochondriac"
+    ],
+    "ooze": [
+        "abyssal ooze",
+        "calcareous ooze",
+        "carbonate ooze",
+        "coccolith ooze",
+        "deep-sea ooze",
+        "diatom ooze",
+        "foraminiferal ooze",
+        "globigerina ooze",
+        "lagoonal ooze",
+        "pteropod ooze",
+        "radiolarian ooze",
+        "siliceous ooze"
+    ],
+    "sink": [
+        "defect sink",
+        "vacancy sink"
+    ],
+    "lore": [
+        "folklore",
+        "folklore",
+        "folklore",
+        "folklore",
+        "folklore",
+        "folklore"
+    ],
+    "cutter": [
+        "milling cutter"
+    ],
+    "bearing": [
+        "roulement \u00e0 rouleaux",
+        "roulement \u00e0 billes",
+        "couronne d\u2019orientation",
+        "roulement \u00e0 aiguilles"
+    ],
+    "Christianity": [
+        "Catholicism",
+        "Protestantism"
+    ],
+    "clause": [
+        "main clause",
+        "adverbial clause",
+        "subordinate clause",
+        "dependent clause"
+    ],
+    "gulf": [
+        "Persian Gulf",
+        "Gulf of Mexico"
+    ],
+    "sibling": [
+        "sister",
+        "brother"
+    ],
+    "poster child": [
+        "poster boy",
+        "poster girl"
+    ],
+    "trimester": [
+        "quarter",
+        "quarter",
+        "quarter",
+        "quarter"
+    ],
+    "rubber": [
+        "butyl"
+    ],
+    "hose": [
+        "hosiery"
+    ],
+    "fire drill": [
+        "hand drill"
+    ],
+    "livebirth": [
+        "ovoviviparity"
+    ],
+    "WAN": [
+        "Internet",
+        "Web",
+        "Internet",
+        "Web",
+        "Internet",
+        "Internet",
+        "Web",
+        "Internet",
+        "Internet"
+    ],
+    "breeder": [
+        "canon",
+        "gun",
+        "gun",
+        "canon",
+        "rake",
+        "canon",
+        "gun",
+        "gun",
+        "canon",
+        "puffer",
+        "gun",
+        "canon",
+        "canon"
+    ],
+    "tit": [
+        "bird"
+    ],
+    "antelope": [
+        "mammal"
+    ],
+    "boar": [
+        "mammal"
+    ],
+    "pelican": [
+        "bird"
+    ],
+    "crane": [
+        "bird"
+    ],
+    "dolphin": [
+        "mammal"
+    ],
+    "duck": [
+        "bird"
+    ],
+    "eagle": [
+        "bird"
+    ],
+    "lion": [
+        "mammal"
+    ],
+    "lizard": [
+        "reptile",
+        "reptile"
+    ],
+    "lynx": [
+        "mammal"
+    ],
+    "mathematics": [
+        "scienza"
+    ],
+    "mole": [
+        "mammal"
+    ],
+    "mule": [
+        "mammal"
+    ],
+    "sheep": [
+        "mammal"
+    ],
+    "geology": [
+        "science",
+        "science"
+    ],
+    "orange": [
+        "citrus",
+        "citrus",
+        "mandarin",
+        "fruit",
+        "fruit",
+        "fruit"
+    ],
+    "panther": [
+        "mammal"
+    ],
+    "philosophy": [
+        "science",
+        "science"
+    ],
+    "salmon": [
+        "fish"
+    ],
+    "snail": [
+        "mollusc"
+    ],
+    "squid": [
+        "mollusc"
+    ],
+    "squirrel": [
+        "mammal"
+    ],
+    "thrush": [
+        "bird"
+    ],
+    "tuna": [
+        "fish",
+        "plant"
+    ],
+    "vulture": [
+        "bird"
+    ],
+    "crab": [
+        "crustacean"
+    ],
+    "cricket": [
+        "insect",
+        "insect"
+    ],
+    "drake": [
+        "bird"
+    ],
+    "heron": [
+        "bird"
+    ],
+    "beaver": [
+        "mammal"
+    ],
+    "badger": [
+        "mammal"
+    ],
+    "bee": [
+        "insect",
+        "insect"
+    ],
+    "bull": [
+        "mammal"
+    ],
+    "cat": [
+        "mammal"
+    ],
+    "chameleon": [
+        "reptile",
+        "reptile"
+    ],
+    "cock": [
+        "bird"
+    ],
+    "hand": [
+        "forefinger",
+        "little finger",
+        "middle finger",
+        "pinkie",
+        "ring finger",
+        "thumb",
+        "index",
+        "index"
+    ],
+    "hare": [
+        "mammal"
+    ],
+    "hawk": [
+        "bird"
+    ],
+    "hedgehog": [
+        "mammal"
+    ],
+    "mouse": [
+        "mammal"
+    ]
+}

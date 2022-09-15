@@ -1,0 +1,562 @@
+{
+    "vagueblog": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_vagueblog__Verb__1": [
+            "subtweet",
+            "vaguebook"
+        ]
+    },
+    "interface": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__interface__\u03c1\u03ae\u03bc\u03b1__1": [
+            "UI",
+            "NVMe",
+            "\u03c5\u03bb\u03b9\u03c3\u03bc\u03b9\u03ba\u03cc",
+            "PI",
+            "network interface card",
+            "command-line interface",
+            "device file",
+            "API",
+            "NIC",
+            "programming interface",
+            "ATA",
+            "GUI",
+            "SATA",
+            "character user interface",
+            "\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03b9\u03ba\u03cc",
+            "TUI",
+            "text-based user interface",
+            "Unix",
+            "device driver",
+            "graphical user interface",
+            "user interface",
+            "application programming interface",
+            "PCIe",
+            "CLI",
+            "network interface controller",
+            "HDMI"
+        ]
+    },
+    "segment": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_segment__Verb__1": [
+            "supreme"
+        ]
+    },
+    "leglock": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_leglock__Verb__1": [
+            "hip lock"
+        ]
+    },
+    "off-gas": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_off-gas__Verb__1": [
+            "desorption"
+        ]
+    },
+    "pad": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__pad__\u03c1\u03ae\u03bc\u03b1__1": [
+            "keypad",
+            "trackpad",
+            "mouse pad",
+            "gamepad",
+            "touchpad"
+        ]
+    },
+    "looksmaxx": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_looksmaxx__Verb__1": [
+            "gymcel",
+            "surgerymaxx"
+        ]
+    },
+    "vidchat": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_vidchat__Verb__1": [
+            "facetime",
+            "skype"
+        ]
+    },
+    "replant": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_replant__Verb__1": [
+            "reseed",
+            "resow",
+            "overseed",
+            "oversow"
+        ]
+    },
+    "ultrasound": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_ultrasound__Verb__1": [
+            "ultrasonicate"
+        ]
+    },
+    "demedicalize": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_demedicalize__Verb__1": [
+            "depathologization"
+        ]
+    },
+    "reclock": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_reclock__Verb__1": [
+            "downclock",
+            "upclock"
+        ]
+    },
+    "rook": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_rook__Verb__1": [
+            "Greek"
+        ]
+    },
+    "uncondition": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_uncondition__Verb__1": [
+            "unbrainwash"
+        ]
+    },
+    "draw lots": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_draw_lots__Verb__1": [
+            "draw straws",
+            "pick out of a hat",
+            "toss a coin"
+        ]
+    },
+    "recut": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_recut__Verb__1": [
+            "resaw",
+            "remill"
+        ]
+    },
+    "conservatize": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_conservatize__Verb__1": [
+            "torify"
+        ]
+    },
+    "pay the price": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_pay_the_price__Verb__1": [
+            "pay the ultimate price"
+        ]
+    },
+    "change one's spots": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_change_one's_spots__Verb__1": [
+            "turn over a new leaf"
+        ]
+    },
+    "get one's shit together": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_get_one's_shit_together__Verb__1": [
+            "sober up"
+        ]
+    },
+    "pull to publish": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_pull_to_publish__Verb__1": [
+            "file off the serial numbers"
+        ]
+    },
+    "breathe": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__eng__breathe__verbo_intransitivo__1": [
+            "exhale"
+        ]
+    },
+    "fly": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__eng__fly__verb__1": [
+            "insect"
+        ]
+    },
+    "hog": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__eng__hog__verb__1": [
+            "mammal"
+        ]
+    },
+    "rat": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__eng__rat__verb__1": [
+            "mammal"
+        ]
+    },
+    "wolf": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__eng__wolf__verb__1": [
+            "mammal"
+        ]
+    },
+    "squick": {
+        "NOT_A_SYNSET": [
+            "skull-fuck"
+        ]
+    },
+    "fill": {
+        "NOT_A_SYNSET": [
+            "polyfill",
+            "backfill",
+            "refill"
+        ]
+    },
+    "ingest": {
+        "NOT_A_SYNSET": [
+            "imbibe"
+        ]
+    },
+    "brag": {
+        "NOT_A_SYNSET": [
+            "brag on"
+        ]
+    },
+    "bail out": {
+        "NOT_A_SYNSET": [
+            "eject"
+        ]
+    },
+    "navigate": {
+        "NOT_A_SYNSET": [
+            "circumnavigate"
+        ]
+    },
+    "quoted": {
+        "NOT_A_SYNSET": [
+            "double-quoted"
+        ]
+    },
+    "unfasten": {
+        "NOT_A_SYNSET": [
+            "untie",
+            "unzip",
+            "unbutton"
+        ]
+    },
+    "ask": {
+        "NOT_A_SYNSET": [
+            "question",
+            "frain",
+            "beg",
+            "interrogate",
+            "supplicate",
+            "implore",
+            "prompt",
+            "query",
+            "petition",
+            "demand",
+            "beseech",
+            "solicit",
+            "enquire",
+            "request",
+            "entreat"
+        ]
+    },
+    "close": {
+        "NOT_A_SYNSET": [
+            "autoclose"
+        ]
+    },
+    "swap": {
+        "NOT_A_SYNSET": [
+            "hot-swap",
+            "swap in",
+            "swap out"
+        ]
+    },
+    "open": {
+        "NOT_A_SYNSET": [
+            "crack"
+        ]
+    },
+    "discretize": {
+        "NOT_A_SYNSET": [
+            "dichotomize",
+            "binarize"
+        ]
+    },
+    "gesture": {
+        "NOT_A_SYNSET": [
+            "beckon"
+        ]
+    },
+    "kneel": {
+        "NOT_A_SYNSET": [
+            "kneel down",
+            "genuflect"
+        ]
+    },
+    "outlive": {
+        "NOT_A_SYNSET": [
+            "postdecease"
+        ]
+    },
+    "survive": {
+        "NOT_A_SYNSET": [
+            "postdecease"
+        ]
+    },
+    "bask": {
+        "NOT_A_SYNSET": [
+            "sun",
+            "apricate"
+        ]
+    },
+    "kill": {
+        "NOT_A_SYNSET": [
+            "instakill"
+        ]
+    },
+    "know": {
+        "NOT_A_SYNSET": [
+            "grok"
+        ]
+    },
+    "drive": {
+        "NOT_A_SYNSET": [
+            "test-drive"
+        ]
+    },
+    "freeze": {
+        "NOT_A_SYNSET": [
+            "deep-freeze"
+        ]
+    },
+    "slap": {
+        "NOT_A_SYNSET": [
+            "cuff"
+        ]
+    },
+    "go hard": {
+        "NOT_A_SYNSET": [
+            "as",
+            "AF",
+            "go H.A.M.",
+            "a",
+            "as fuck",
+            "go HAM",
+            "as hell",
+            "motherfucker",
+            "go hard",
+            "go ham"
+        ]
+    },
+    "relapse": {
+        "NOT_A_SYNSET": [
+            "fall off the wagon"
+        ]
+    },
+    "denature": {
+        "NOT_A_SYNSET": [
+            "downblend"
+        ]
+    },
+    "examine": {
+        "NOT_A_SYNSET": [
+            "cross examine",
+            "re-examine"
+        ]
+    },
+    "wave": {
+        "NOT_A_SYNSET": [
+            "wave off"
+        ]
+    },
+    "phase": {
+        "NOT_A_SYNSET": [
+            "phase in",
+            "phase out"
+        ]
+    },
+    "decapitate": {
+        "NOT_A_SYNSET": [
+            "guillotine"
+        ]
+    },
+    "isolate": {
+        "NOT_A_SYNSET": [
+            "quarantine",
+            "self-quarantine"
+        ]
+    },
+    "control": {
+        "NOT_A_SYNSET": [
+            "hold the reins",
+            "take the reins",
+            "take control"
+        ]
+    },
+    "cook": {
+        "NOT_A_SYNSET": [
+            "roast",
+            "grill",
+            "barbecue",
+            "braise",
+            "bake",
+            "poach",
+            "fry",
+            "steam",
+            "microwave",
+            "boil",
+            "stew",
+            "scramble"
+        ]
+    },
+    "braking": {
+        "NOT_A_SYNSET": [
+            "aerobraking"
+        ]
+    },
+    "recycle": {
+        "NOT_A_SYNSET": [
+            "downcycle",
+            "upcycle"
+        ]
+    },
+    "bite": {
+        "NOT_A_SYNSET": [
+            "bite down"
+        ]
+    },
+    "defeat": {
+        "NOT_A_SYNSET": [
+            "cream",
+            "crush",
+            "rout",
+            "zilch",
+            "conquer",
+            "shutout"
+        ]
+    },
+    "scale": {
+        "NOT_A_SYNSET": [
+            "scale down",
+            "scale up",
+            "scale back"
+        ]
+    },
+    "demagnetize": {
+        "NOT_A_SYNSET": [
+            "deperm",
+            "degauss"
+        ]
+    },
+    "size": {
+        "NOT_A_SYNSET": [
+            "resize"
+        ]
+    },
+    "fetter": {
+        "NOT_A_SYNSET": [
+            "shackle",
+            "handcuff",
+            "manacle"
+        ]
+    },
+    "castrate": {
+        "NOT_A_SYNSET": [
+            "emasculate"
+        ]
+    },
+    "do up": {
+        "NOT_A_SYNSET": [
+            "tie",
+            "zip",
+            "tie up",
+            "button up",
+            "zip up",
+            "button",
+            "buckle",
+            "buckle up"
+        ]
+    },
+    "lift": {
+        "NOT_A_SYNSET": [
+            "airlift"
+        ]
+    },
+    "hold it": {
+        "NOT_A_SYNSET": [
+            "hold one's water"
+        ]
+    },
+    "cross": {
+        "NOT_A_SYNSET": [
+            "crisscross"
+        ]
+    },
+    "combust": {
+        "NOT_A_SYNSET": [
+            "detonate",
+            "deflagrate"
+        ]
+    },
+    "vote": {
+        "NOT_A_SYNSET": [
+            "vote down",
+            "vote in",
+            "vote out"
+        ]
+    },
+    "dipping": {
+        "NOT_A_SYNSET": [
+            "double-dipping"
+        ]
+    },
+    "collect": {
+        "NOT_A_SYNSET": [
+            "garbage collect"
+        ]
+    },
+    "monsterize": {
+        "NOT_A_SYNSET": [
+            "vampirize",
+            "vampirise",
+            "zombify"
+        ]
+    },
+    "finger": {
+        "NOT_A_SYNSET": [
+            "forefinger",
+            "middle finger",
+            "ring finger",
+            "digit"
+        ]
+    },
+    "seal": {
+        "NOT_A_SYNSET": [
+            "mammal"
+        ]
+    },
+    "bear": {
+        "NOT_A_SYNSET": [
+            "mammal"
+        ]
+    },
+    "bird": {
+        "NOT_A_SYNSET": [
+            "loon",
+            "prion",
+            "robin",
+            "wanderer",
+            "auk",
+            "bittern",
+            "canary",
+            "coot",
+            "egret",
+            "ibis",
+            "pelican",
+            "penguin",
+            "dove",
+            "kiwi",
+            "diver",
+            "duck",
+            "fowl",
+            "nightingale",
+            "ostrich",
+            "owl",
+            "parrot",
+            "pigeon",
+            "rail",
+            "raven",
+            "rooster",
+            "stork",
+            "thrush",
+            "woodpecker",
+            "gull",
+            "jay",
+            "tom",
+            "ratite",
+            "flamingo",
+            "heron",
+            "shag",
+            "turaco",
+            "weka",
+            "hen",
+            "bird of prey",
+            "chanticleer",
+            "chick",
+            "cock",
+            "crow"
+        ]
+    }
+}

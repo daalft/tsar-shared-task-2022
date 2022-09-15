@@ -1,0 +1,410 @@
+{
+    "ess": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_ess__Verb__1": [
+            "wind"
+        ]
+    },
+    "reimburse": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_reimburse__Verb__1": [
+            "pay",
+            "compensate"
+        ]
+    },
+    "curtsey": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_curtsey__Verb__1": [
+            "conge",
+            "congee",
+            "cong\u00e9"
+        ]
+    },
+    "backport": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__backport__\u03c1\u03ae\u03bc\u03b1__1": [
+            "port"
+        ]
+    },
+    "stick weld": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_stick_weld__Verb__1": [
+            "weld"
+        ]
+    },
+    "saddleback": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_saddleback__Verb__1": [
+            "take it up the arse",
+            "buttfuck",
+            "take it up the ass"
+        ]
+    },
+    "link": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__link__\u03c1\u03ae\u03bc\u03b1__1": [
+            "network device"
+        ]
+    },
+    "surgerymaxx": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_surgerymaxx__Verb__1": [
+            "looksmaxx"
+        ]
+    },
+    "gymcel": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_gymcel__Verb__1": [
+            "looksmaxx"
+        ]
+    },
+    "map": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__map__\u03c1\u03ae\u03bc\u03b1__1": [
+            "collection"
+        ]
+    },
+    "wackyparse": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_wackyparse__Verb__1": [
+            "misparse"
+        ]
+    },
+    "FaceTime": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_FaceTime__Verb__1": [
+            "vidchat",
+            "vidcall"
+        ]
+    },
+    "euthanize": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_euthanize__Verb__1": [
+            "kill"
+        ]
+    },
+    "enplane": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_enplane__Verb__1": [
+            "embark"
+        ]
+    },
+    "e-stalk": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_e-stalk__Verb__1": [
+            "stalk"
+        ]
+    },
+    "postdecease": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_postdecease__Verb__1": [
+            "outlive",
+            "survive"
+        ]
+    },
+    "hot-swap": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_hot-swap__Verb__1": [
+            "swap"
+        ]
+    },
+    "downclock": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_downclock__Verb__1": [
+            "reclock"
+        ]
+    },
+    "upclock": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_upclock__Verb__1": [
+            "reclock"
+        ]
+    },
+    "indebt": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_indebt__Verb__1": [
+            "obligate"
+        ]
+    },
+    "fornicate": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_fornicate__Verb__1": [
+            "seduce",
+            "have sex",
+            "make love"
+        ]
+    },
+    "line feed": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_line_feed__Verb__1": [
+            "control code",
+            "control character"
+        ]
+    },
+    "unmurder": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_unmurder__Verb__1": [
+            "unkill"
+        ]
+    },
+    "re-examine": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_re-examine__Verb__1": [
+            "examine"
+        ]
+    },
+    "canonicalize": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_canonicalize__Verb__1": [
+            "normalize"
+        ]
+    },
+    "Ottomanize": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_Ottomanize__Verb__1": [
+            "Turkify"
+        ]
+    },
+    "Turkify": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_Turkify__Verb__1": [
+            "Ottomanize"
+        ]
+    },
+    "deperm": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_deperm__Verb__1": [
+            "demagnetize"
+        ]
+    },
+    "upfit": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_upfit__Verb__1": [
+            "upgrade"
+        ]
+    },
+    "pushbike": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_pushbike__Verb__1": [
+            "bicycle",
+            "cycle"
+        ]
+    },
+    "predoom": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_predoom__Verb__1": [
+            "doom"
+        ]
+    },
+    "downcycle": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_downcycle__Verb__1": [
+            "recycle"
+        ]
+    },
+    "stylemog": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_stylemog__Verb__1": [
+            "patronize"
+        ]
+    },
+    "undream": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_undream__Verb__1": [
+            "unthink"
+        ]
+    },
+    "psychiatrize": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_psychiatrize__Verb__1": [
+            "medicalize"
+        ]
+    },
+    "unaccept": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_unaccept__Verb__1": [
+            "reject"
+        ]
+    },
+    "autoclose": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_autoclose__Verb__1": [
+            "close"
+        ]
+    },
+    "transcompile": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_transcompile__Verb__1": [
+            "compile"
+        ]
+    },
+    "put to death": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_put_to_death__Verb__1": [
+            "kill",
+            "slaughter",
+            "slay"
+        ]
+    },
+    "file off the serial numbers": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_file_off_the_serial_numbers__Verb__1": [
+            "pull-to-publish"
+        ]
+    },
+    "vote with one's feet": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_vote_with_one's_feet__Verb__1": [
+            "vote"
+        ]
+    },
+    "spamvertise": {
+        "NOT_A_SYNSET": [
+            "spam"
+        ]
+    },
+    "conjugate": {
+        "NOT_A_SYNSET": [
+            "inflect"
+        ]
+    },
+    "skype": {
+        "NOT_A_SYNSET": [
+            "vidchat",
+            "vidcall"
+        ]
+    },
+    "dash": {
+        "NOT_A_SYNSET": [
+            "punctuation mark"
+        ]
+    },
+    "tune in": {
+        "NOT_A_SYNSET": [
+            "tune"
+        ]
+    },
+    "tune out": {
+        "NOT_A_SYNSET": [
+            "tune"
+        ]
+    },
+    "deflagrate": {
+        "NOT_A_SYNSET": [
+            "combust"
+        ]
+    },
+    "speak volumes": {
+        "NOT_A_SYNSET": [
+            "connote"
+        ]
+    },
+    "zombify": {
+        "NOT_A_SYNSET": [
+            "monsterize"
+        ]
+    },
+    "pay": {
+        "NOT_A_SYNSET": [
+            "compensate"
+        ]
+    },
+    "spin": {
+        "NOT_A_SYNSET": [
+            "revolve",
+            "turn",
+            "rotate"
+        ]
+    },
+    "broadcast": {
+        "NOT_A_SYNSET": [
+            "cast"
+        ]
+    },
+    "spotlight": {
+        "NOT_A_SYNSET": [
+            "light"
+        ]
+    },
+    "fellate": {
+        "NOT_A_SYNSET": [
+            "go down on"
+        ]
+    },
+    "resize": {
+        "NOT_A_SYNSET": [
+            "size"
+        ]
+    },
+    "bow": {
+        "NOT_A_SYNSET": [
+            "cong\u00e9",
+            "conge",
+            "congee",
+            "gesture"
+        ]
+    },
+    "peep": {
+        "NOT_A_SYNSET": [
+            "glance"
+        ]
+    },
+    "eject": {
+        "NOT_A_SYNSET": [
+            "bail out"
+        ]
+    },
+    "imbibe": {
+        "NOT_A_SYNSET": [
+            "ingest"
+        ]
+    },
+    "cook": {
+        "NOT_A_SYNSET": [
+            "devise",
+            "plan",
+            "prepare",
+            "concoct",
+            "contrive",
+            "make up"
+        ]
+    },
+    "deep copy": {
+        "NOT_A_SYNSET": [
+            "copy"
+        ]
+    },
+    "test-drive": {
+        "NOT_A_SYNSET": [
+            "drive"
+        ]
+    },
+    "download": {
+        "NOT_A_SYNSET": [
+            "transfer",
+            "copy",
+            "move"
+        ]
+    },
+    "detonate": {
+        "NOT_A_SYNSET": [
+            "combust"
+        ]
+    },
+    "circumnavigate": {
+        "NOT_A_SYNSET": [
+            "navigate"
+        ]
+    },
+    "punch": {
+        "NOT_A_SYNSET": [
+            "perforate",
+            "pierce"
+        ]
+    },
+    "garbage collect": {
+        "NOT_A_SYNSET": [
+            "collect"
+        ]
+    },
+    "sun": {
+        "NOT_A_SYNSET": [
+            "bask"
+        ]
+    },
+    "turn up": {
+        "NOT_A_SYNSET": [
+            "turn"
+        ]
+    },
+    "skull-fuck": {
+        "NOT_A_SYNSET": [
+            "squick"
+        ]
+    },
+    "tune up": {
+        "NOT_A_SYNSET": [
+            "tune"
+        ]
+    },
+    "uncloak": {
+        "NOT_A_SYNSET": [
+            "doff",
+            "divest"
+        ]
+    },
+    "double-dipping": {
+        "NOT_A_SYNSET": [
+            "dipping"
+        ]
+    },
+    "upcycle": {
+        "NOT_A_SYNSET": [
+            "recycle"
+        ]
+    },
+    "turn around": {
+        "NOT_A_SYNSET": [
+            "turn"
+        ]
+    }
+}
