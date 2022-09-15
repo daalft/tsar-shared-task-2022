@@ -1,0 +1,27 @@
+{
+    "antimis\u00f3gino": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__antimis\u00f3gino__adjetivo__1": [
+            "feminista"
+        ]
+    },
+    "fazedor": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__fazedor__adjetivo__1": [
+            "refazedor"
+        ]
+    },
+    "doce": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__doce__adjetivo__1": [
+            "melado"
+        ]
+    },
+    "fanzoca": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_fanzoca__Adjetivo__1": [
+            "f\u00e3za\u00e7o"
+        ]
+    },
+    "parenteral": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_parenteral__Adjetivo__1": [
+            "subcut\u00e2neo"
+        ]
+    }
+}

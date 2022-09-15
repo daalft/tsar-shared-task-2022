@@ -1,0 +1,597 @@
+{
+    "principiar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_principiar__verbo_transitivo__1": [
+            "incoar"
+        ]
+    },
+    "ta\u00f1er": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ta\u00f1er__verbo_transitivo__1": [
+            "pulsar",
+            "citarizar",
+            "doblar",
+            "rasguear",
+            "puntear",
+            "repicar"
+        ]
+    },
+    "agachar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_agachar__verbo_transitivo__1": [
+            "acurrucarse",
+            "acuclillarse"
+        ]
+    },
+    "agacharse": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_agacharse__verbo_pronominal__1": [
+            "acuclillarse",
+            "acurrucarse",
+            "agazaparse"
+        ]
+    },
+    "amarrar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_amarrar__verbo_transitivo__1": [
+            "apiolar",
+            "apegualar"
+        ]
+    },
+    "atar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_atar__verbo_transitivo__1": [
+            "apiolar",
+            "apegualar"
+        ]
+    },
+    "atascarse": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_atascarse__verbo_pronominal__1": [
+            "atollarse",
+            "atragantarse",
+            "sonrodarse"
+        ]
+    },
+    "chuchear": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chuchear__verbo_intransitivo__1": [
+            "serrar",
+            "ajear",
+            "titear"
+        ]
+    },
+    "chorizar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_chorizar__verbo_transitivo__1": [
+            "atracar",
+            "sisar",
+            "estafar"
+        ]
+    },
+    "comerciar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_comerciar__verbo_intransitivo__1": [
+            "trocar",
+            "traficar",
+            "trapichear",
+            "tratar"
+        ]
+    },
+    "comprender": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_comprender__verbo_transitivo__1": [
+            "leer",
+            "descifrar"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_comprender__verbo_transitivo__1": [
+            "comprometer",
+            "complicar"
+        ]
+    },
+    "comprenderse": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_comprenderse__verbo_pronominal__1": [
+            "apreciarse",
+            "fraternizar",
+            "acordarse"
+        ]
+    },
+    "contextualizar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_contextualizar__verbo_transitivo__1": [
+            "historizar"
+        ]
+    },
+    "cuchichiar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cuchichiar__verbo_intransitivo__1": [
+            "serrar",
+            "ajear",
+            "titear"
+        ]
+    },
+    "decaer": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_decaer__verbo_intransitivo__1": [
+            "abatir",
+            "derivar"
+        ]
+    },
+    "dactilografiar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_dactilografiar__verbo_transitivo__1": [
+            "chuzografiar"
+        ]
+    },
+    "cultiparlar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cultiparlar__verbo_intransitivo__1": [
+            "gongorizar"
+        ]
+    },
+    "cultivar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_cultivar__verbo_transitivo__1": [
+            "plantar",
+            "arar",
+            "labrar",
+            "roturar",
+            "sembrar"
+        ]
+    },
+    "derrengar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_derrengar__verbo_transitivo__1": [
+            "descuadrillarse"
+        ]
+    },
+    "descurtir": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_descurtir__verbo_transitivo__1": [
+            "desempercudir"
+        ]
+    },
+    "desembravecer": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_desembravecer__verbo_transitivo__1": [
+            "desbravar"
+        ]
+    },
+    "desigualarse": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_desigualarse__verbo_pronominal__1": [
+            "desempatar"
+        ]
+    },
+    "desollar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_desollar__verbo_transitivo__1": [
+            "cuerear"
+        ]
+    },
+    "despercudir": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_despercudir__verbo_transitivo__1": [
+            "desempercudir"
+        ]
+    },
+    "desri\u00f1onar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_desri\u00f1onar__verbo_transitivo__1": [
+            "descuadrillarse"
+        ]
+    },
+    "desva\u00edr": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_desva\u00edr__verbo_transitivo__1": [
+            "decolorar",
+            "descolorir",
+            "descolorar"
+        ]
+    },
+    "destituir": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_destituir__verbo_transitivo__1": [
+            "suspender",
+            "deponer",
+            "revocar",
+            "destronar"
+        ]
+    },
+    "duplicar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_duplicar__verbo_transitivo__1": [
+            "doblar",
+            "reduplicar"
+        ]
+    },
+    "encobar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_encobar__verbo_intransitivo__1": [
+            "encloquecer",
+            "aclocar",
+            "enclocar",
+            "encluecar"
+        ]
+    },
+    "entallecer": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_entallecer__verbo_intransitivo__1": [
+            "retallecer"
+        ]
+    },
+    "entrecavar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_entrecavar__verbo_transitivo__1": [
+            "escavar"
+        ]
+    },
+    "escurrirse": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_5_escurrirse__verbo_pronominal__1": [
+            "escaquearse"
+        ]
+    },
+    "escatimar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_escatimar__verbo_transitivo__1": [
+            "ahorrar"
+        ]
+    },
+    "esterilizar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_esterilizar__verbo_transitivo__1": [
+            "capar",
+            "castrar"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_esterilizar__verbo_transitivo__1": [
+            "pasteurizar",
+            "desinfectar"
+        ]
+    },
+    "excavar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_excavar__verbo_transitivo__1": [
+            "minar"
+        ]
+    },
+    "hebillar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_hebillar__verbo_transitivo__1": [
+            "enhebillar"
+        ]
+    },
+    "heder": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_heder__verbo_intransitivo__1": [
+            "husmear"
+        ]
+    },
+    "humedecer": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_humedecer__verbo_transitivo__1": [
+            "humidificar"
+        ]
+    },
+    "ingerir": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ingerir__verbo_transitivo__1": [
+            "tomar",
+            "beber",
+            "comer"
+        ]
+    },
+    "litografiar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_litografiar__verbo_transitivo__1": [
+            "litofotografiar",
+            "fotolitografiar"
+        ]
+    },
+    "llamarse": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_llamarse__verbo_pronominal__1": [
+            "apellidarse"
+        ]
+    },
+    "maltratarse": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_maltratarse__verbo_pronominal__1": [
+            "despearse"
+        ]
+    },
+    "mecanografiar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mecanografiar__verbo_transitivo__1": [
+            "chuzografiar"
+        ]
+    },
+    "migrar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_migrar__verbo_intransitivo__1": [
+            "inmigrar",
+            "emigrar",
+            "transmigrar"
+        ]
+    },
+    "multiplicar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_multiplicar__verbo_transitivo__1": [
+            "sextuplicar",
+            "decuplicar",
+            "reduplicar",
+            "doblar",
+            "centuplicar",
+            "quintuplicar",
+            "duplicar",
+            "triplicar",
+            "septuplicar",
+            "cuadruplicar"
+        ]
+    },
+    "neviscar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_neviscar__verbo_intransitivo__1": [
+            "algaracear"
+        ]
+    },
+    "pavimentar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pavimentar__verbo_transitivo__1": [
+            "enlosar",
+            "asfaltar",
+            "empedrar",
+            "adoquinar"
+        ]
+    },
+    "percudir": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_percudir__verbo_transitivo__1": [
+            "empercudir"
+        ]
+    },
+    "pillar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_pillar__verbo_transitivo__1": [
+            "sorprender",
+            "coger"
+        ]
+    },
+    "ponerse": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_ponerse__verbo_pronominal__1": [
+            "vestir",
+            "calzar"
+        ]
+    },
+    "predefinir": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_predefinir__verbo_transitivo__1": [
+            "prefinir"
+        ]
+    },
+    "predeterminar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_predeterminar__verbo_transitivo__1": [
+            "prefinir",
+            "predefinir"
+        ]
+    },
+    "prefijar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_prefijar__verbo_transitivo__1": [
+            "prefinir",
+            "predefinir"
+        ]
+    },
+    "ralear": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ralear__verbo_transitivo__1": [
+            "florear",
+            "deshijar"
+        ]
+    },
+    "rengar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_rengar__verbo_transitivo__1": [
+            "descuadrillarse"
+        ]
+    },
+    "repoblar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_repoblar__verbo_transitivo__1": [
+            "reforestar"
+        ]
+    },
+    "re\u00edr": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_re\u00edr__verbo_intransitivo__1": [
+            "sonre\u00edr"
+        ]
+    },
+    "ringar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_ringar__verbo_transitivo__1": [
+            "descuadrillarse"
+        ]
+    },
+    "re\u00edrse": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_re\u00edrse__verbo_pronominal__1": [
+            "sonre\u00edr"
+        ]
+    },
+    "sepultar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sepultar__verbo_transitivo__1": [
+            "enterrar",
+            "inhumar"
+        ]
+    },
+    "separarse": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_separarse__verbo_pronominal__1": [
+            "divorciarse"
+        ]
+    },
+    "sofocar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_sofocar__verbo_transitivo__1": [
+            "estrangular"
+        ]
+    },
+    "tallecer": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_tallecer__verbo_intransitivo__1": [
+            "entallecer",
+            "retallecer"
+        ]
+    },
+    "telegrafiar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_telegrafiar__verbo_transitivo__1": [
+            "cablegrafiar"
+        ]
+    },
+    "tocar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_tocar__verbo_transitivo__1": [
+            "rasgar",
+            "tamborilear",
+            "doblar"
+        ]
+    },
+    "trasminar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_trasminar__verbo_transitivo__1": [
+            "permear"
+        ]
+    },
+    "trastrocar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_trastrocar__verbo_transitivo__1": [
+            "trasponer",
+            "trasnombrar"
+        ]
+    },
+    "bailar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_11_bailar__verbo_transitivo__1": [
+            "fusilar",
+            "lapidar",
+            "envenenar",
+            "pasar",
+            "despanzurrar",
+            "apu\u00f1alar",
+            "empalar",
+            "linchar",
+            "destripar",
+            "rematar",
+            "exterminar",
+            "sacrificar",
+            "acogotar",
+            "degollar",
+            "despenar",
+            "escabechar",
+            "estrangular",
+            "decapitar",
+            "guillotinar",
+            "acuchillar",
+            "apiolar",
+            "electrocutar",
+            "asaetear",
+            "ahorcar"
+        ]
+    },
+    "comer": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_comer__verbo_intransitivo__1": [
+            "cenar",
+            "almorzar",
+            "merendar",
+            "desayunar"
+        ]
+    },
+    "concluir": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_concluir__verbo_transitivo__1": [
+            "liquidar",
+            "despachar"
+        ]
+    },
+    "oler": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_oler__verbo_intransitivo__1": [
+            "heder",
+            "apestar",
+            "aromatizar",
+            "perfumar"
+        ],
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_oler__verbo_transitivo__1": [
+            "olfatear",
+            "husmear",
+            "oliscar",
+            "olismear",
+            "olisquear"
+        ]
+    },
+    "mojar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_mojar__verbo_transitivo__1": [
+            "empapar",
+            "humedecer"
+        ]
+    },
+    "ligar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3_ligar__verbo_transitivo__1": [
+            "alear"
+        ]
+    },
+    "matar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_matar__verbo_transitivo__1": [
+            "degollar",
+            "empalar",
+            "pasar",
+            "rematar",
+            "apiolar",
+            "lapidar",
+            "estrangular",
+            "sacrificar",
+            "ahorcar",
+            "apu\u00f1alar",
+            "despenar",
+            "linchar",
+            "acuchillar",
+            "fusilar",
+            "decapitar",
+            "acogotar",
+            "asaetear",
+            "despanzurrar",
+            "destripar",
+            "electrocutar",
+            "envenenar",
+            "escabechar",
+            "exterminar",
+            "guillotinar"
+        ]
+    },
+    "atestarse": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_atestarse__verbo_pronominal__1": [
+            "ahitarse",
+            "hartarse",
+            "saciarse",
+            "empacharse"
+        ]
+    },
+    "amojonar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_amojonar__verbo_transitivo__1": [
+            "mojonar"
+        ]
+    },
+    "banalizar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_banalizar__verbo_transitivo__1": [
+            "prostituir"
+        ]
+    },
+    "despalotar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_4_despalotar__verbo_transitivo__1": [
+            "beber",
+            "comer"
+        ]
+    },
+    "desabejar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_desabejar__verbo_transitivo__1": [
+            "deshilar",
+            "enjambrar"
+        ]
+    },
+    "desherbar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_desherbar__verbo_transitivo__1": [
+            "escardar",
+            "desmalezar",
+            "surquear"
+        ]
+    },
+    "deshierbar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_deshierbar__verbo_transitivo__1": [
+            "escardar",
+            "desmalezar",
+            "surquear"
+        ]
+    },
+    "desyerbar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_desyerbar__verbo_transitivo__1": [
+            "escardar",
+            "surquear",
+            "desmalezar"
+        ]
+    },
+    "forrajear": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_forrajear__verbo_transitivo__1": [
+            "rebuscar",
+            "vendimiar"
+        ]
+    },
+    "piscar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_piscar__verbo_transitivo__1": [
+            "tapiscar"
+        ]
+    },
+    "pixcar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1_pixcar__verbo_transitivo__1": [
+            "tapiscar"
+        ]
+    },
+    "pasar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_9_pasar__verbo_transitivo__1": [
+            "cerner",
+            "colar",
+            "cribar"
+        ]
+    },
+    "subir": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2_subir__verbo_intransitivo__1": [
+            "abordar",
+            "embarcar"
+        ]
+    },
+    "forjar": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__spa__forjar__verb__1": [
+            "fraguar"
+        ]
+    },
+    "drogar": {
+        "NOT_A_SYNSET": [
+            "empastillar"
+        ]
+    }
+}

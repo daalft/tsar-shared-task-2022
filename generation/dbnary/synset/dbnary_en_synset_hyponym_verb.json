@@ -1,0 +1,177 @@
+{
+    "vagueblog": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_vagueblog__Verb__1": [
+            "subtweet",
+            "vaguebook"
+        ]
+    },
+    "interface": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__interface__\u03c1\u03ae\u03bc\u03b1__1": [
+            "UI",
+            "NVMe",
+            "\u03c5\u03bb\u03b9\u03c3\u03bc\u03b9\u03ba\u03cc",
+            "PI",
+            "network interface card",
+            "command-line interface",
+            "device file",
+            "API",
+            "NIC",
+            "programming interface",
+            "ATA",
+            "GUI",
+            "SATA",
+            "character user interface",
+            "\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03b9\u03ba\u03cc",
+            "TUI",
+            "text-based user interface",
+            "Unix",
+            "device driver",
+            "API",
+            "graphical user interface",
+            "user interface",
+            "application programming interface",
+            "PCIe",
+            "CLI",
+            "PI",
+            "network interface controller",
+            "HDMI"
+        ]
+    },
+    "segment": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_segment__Verb__1": [
+            "supreme",
+            "supreme",
+            "supreme"
+        ]
+    },
+    "leglock": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_leglock__Verb__1": [
+            "hip lock"
+        ]
+    },
+    "off-gas": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_off-gas__Verb__1": [
+            "desorption"
+        ]
+    },
+    "pad": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__pad__\u03c1\u03ae\u03bc\u03b1__1": [
+            "keypad",
+            "trackpad",
+            "mouse pad",
+            "gamepad",
+            "touchpad"
+        ]
+    },
+    "looksmaxx": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_looksmaxx__Verb__1": [
+            "gymcel",
+            "surgerymaxx"
+        ]
+    },
+    "vidchat": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_vidchat__Verb__1": [
+            "facetime",
+            "skype",
+            "skype"
+        ]
+    },
+    "replant": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_replant__Verb__1": [
+            "reseed",
+            "resow",
+            "overseed",
+            "oversow"
+        ]
+    },
+    "ultrasound": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_ultrasound__Verb__1": [
+            "ultrasonicate"
+        ]
+    },
+    "demedicalize": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_demedicalize__Verb__1": [
+            "depathologization"
+        ]
+    },
+    "reclock": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_reclock__Verb__1": [
+            "downclock",
+            "upclock"
+        ]
+    },
+    "rook": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_rook__Verb__1": [
+            "Greek"
+        ]
+    },
+    "uncondition": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_uncondition__Verb__1": [
+            "unbrainwash"
+        ]
+    },
+    "draw lots": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_draw_lots__Verb__1": [
+            "draw straws",
+            "pick out of a hat",
+            "toss a coin"
+        ]
+    },
+    "recut": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_recut__Verb__1": [
+            "resaw",
+            "remill"
+        ]
+    },
+    "conservatize": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_conservatize__Verb__1": [
+            "torify"
+        ]
+    },
+    "pay the price": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_pay_the_price__Verb__1": [
+            "pay the ultimate price"
+        ]
+    },
+    "change one's spots": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_change_one's_spots__Verb__1": [
+            "turn over a new leaf"
+        ]
+    },
+    "get one's shit together": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_get_one's_shit_together__Verb__1": [
+            "sober up"
+        ]
+    },
+    "pull to publish": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_pull_to_publish__Verb__1": [
+            "file off the serial numbers"
+        ]
+    },
+    "breathe": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__eng__breathe__verbo_intransitivo__1": [
+            "exhale"
+        ]
+    },
+    "fly": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__eng__fly__verb__1": [
+            "insect",
+            "insect"
+        ]
+    },
+    "hog": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__eng__hog__verb__1": [
+            "mammal"
+        ]
+    },
+    "rat": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__eng__rat__verb__1": [
+            "mammal"
+        ]
+    },
+    "wolf": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__eng__wolf__verb__1": [
+            "mammal"
+        ]
+    }
+}

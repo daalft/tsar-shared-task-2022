@@ -1,0 +1,460 @@
+{
+    "infinite": [
+        "countably infinite",
+        "uncountable"
+    ],
+    "fluffy": [
+        "downy",
+        "furry",
+        "furry",
+        "furry"
+    ],
+    "bisexual": [
+        "heteroflexible",
+        "homoflexible",
+        "heteroflexible"
+    ],
+    "readable": [
+        "machine-readable",
+        "human-readable"
+    ],
+    "relational": [
+        "relational model",
+        "relational database",
+        "RDBMS",
+        "relational algebra",
+        "relational database management system"
+    ],
+    "typed": [
+        "dynamically-typed",
+        "statically-typed"
+    ],
+    "wildcard": [
+        "single-character wildcard",
+        "list wildcard",
+        "multi-character wildcard"
+    ],
+    "circular": [
+        "semicircular",
+        "semicircular",
+        "semicircular",
+        "semicircular"
+    ],
+    "prime": [
+        "semiprime",
+        "coprime",
+        "biprime",
+        "pseudoprime"
+    ],
+    "chimerical": [
+        "hyperbolic",
+        "self-luminous",
+        "stygian"
+    ],
+    "protected": [
+        "semi-protected"
+    ],
+    "valid": [
+        "sound",
+        "sound"
+    ],
+    "portable": [
+        "handheld"
+    ],
+    "multicore": [
+        "quadcore",
+        "hexacore",
+        "quad-core"
+    ],
+    "crepuscular": [
+        "matutinal",
+        "vespertine",
+        "vespertine",
+        "vespertine",
+        "matutinal"
+    ],
+    "mammalian": [
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human"
+    ],
+    "Lagrangian": [
+        "Trojan",
+        "Trojan"
+    ],
+    "faunal": [
+        "bestial",
+        "bestial",
+        "bestial",
+        "bestial",
+        "bestial",
+        "bestial"
+    ],
+    "grained": [
+        "fine-grained",
+        "coarse-grained"
+    ],
+    "ill-defined": [
+        "defined"
+    ],
+    "linked": [
+        "downlinked",
+        "interlinked"
+    ],
+    "rated": [
+        "X-rated"
+    ],
+    "well-behaved": [
+        "polite",
+        "polite",
+        "polite"
+    ],
+    "well-defined": [
+        "defined"
+    ],
+    "wheeled": [
+        "two-wheeled"
+    ],
+    "close": [
+        "thisclose"
+    ],
+    "free": [
+        "-free"
+    ],
+    "designed": [
+        "well-designed"
+    ],
+    "broken": [
+        "housebroken",
+        "heartbroken",
+        "jailbroken"
+    ],
+    "liberal": [
+        "small-l liberal"
+    ],
+    "self-referential": [
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "autological",
+        "meta"
+    ],
+    "diagnostic": [
+        "pathognomonic"
+    ],
+    "stylized": [
+        "hieratic",
+        "hieratic"
+    ],
+    "showy": [
+        "slutty"
+    ],
+    "volcanic": [
+        "cryovolcanic"
+    ],
+    "catching": [
+        "eye-catching"
+    ],
+    "doctoral": [
+        "postdoctoral",
+        "postdoctoral"
+    ],
+    "flowing": [
+        "fast-flowing"
+    ],
+    "new": [
+        "brand new"
+    ],
+    "marked": [
+        "pockmarked"
+    ],
+    "drawn": [
+        "overdrawn"
+    ],
+    "sensitive": [
+        "light-sensitive",
+        "hypersensitive"
+    ],
+    "repellent": [
+        "water-repellent"
+    ],
+    "translingual": [
+        "lingual",
+        "lingual",
+        "lingual",
+        "lingual",
+        "lingual",
+        "lingual"
+    ],
+    "accelerated": [
+        "hardware-accelerated"
+    ],
+    "algebraic": [
+        "quadratic"
+    ],
+    "closeted": [
+        "stealth"
+    ],
+    "pious": [
+        "frum",
+        "frum"
+    ],
+    "coronal": [
+        "dental",
+        "dental",
+        "dental",
+        "dental",
+        "dental",
+        "dental",
+        "dental",
+        "retroflex",
+        "alveolar",
+        "alveolar",
+        "alveolar",
+        "alveolar",
+        "alveolar",
+        "alveolar",
+        "alveolar",
+        "palatoalveolar",
+        "palatal",
+        "palatal",
+        "palatal",
+        "palatal",
+        "palatal",
+        "palatal",
+        "palatal",
+        "palatal",
+        "postalveolar",
+        "postalveolar",
+        "postalveolar",
+        "interdental",
+        "interdental",
+        "interdental",
+        "retroflex",
+        "alveopalatal",
+        "alveopalatal",
+        "dental",
+        "alveolar",
+        "palatal",
+        "postalveolar",
+        "interdental"
+    ],
+    "celibate": [
+        "incel",
+        "incel",
+        "incel",
+        "incel",
+        "incel",
+        "volcel"
+    ],
+    "chaste": [
+        "incel",
+        "incel",
+        "incel",
+        "incel",
+        "celibate",
+        "incel"
+    ],
+    "duplex": [
+        "full duplex",
+        "half-duplex",
+        "semiduplex"
+    ],
+    "signed": [
+        "self-signed"
+    ],
+    "checked": [
+        "type-checked"
+    ],
+    "pregnant": [
+        "in trouble"
+    ],
+    "thermal": [
+        "hydrothermal",
+        "aerothermal",
+        "hydrothermal"
+    ],
+    "clear": [
+        "crystal clear"
+    ],
+    "iron": [
+        "wrought-iron"
+    ],
+    "homosexual": [
+        "heteroflexible",
+        "heteroflexible",
+        "homoflexible"
+    ],
+    "English": [
+        "Anglish"
+    ],
+    "countable": [
+        "finite",
+        "finite",
+        "finite",
+        "finite",
+        "finite",
+        "finite",
+        "countably infinite"
+    ],
+    "African": [
+        "Congolese",
+        "Ethiopian",
+        "Mozambican",
+        "Ugandan",
+        "Zimbabwean",
+        "Maghrebi"
+    ],
+    "American": [
+        "Native American",
+        "South"
+    ],
+    "independent": [
+        "language-independent"
+    ],
+    "threaded": [
+        "multithreaded"
+    ],
+    "biblical": [
+        "New Testament",
+        "Old Testament",
+        "psalmic",
+        "evangelic",
+        "psalmic",
+        "Torahic",
+        "pentateuchal"
+    ],
+    "out": [
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "gay",
+        "openly"
+    ],
+    "recursive": [
+        "primitive recursive",
+        "tail recursive"
+    ],
+    "pagan": [
+        "pantheistic",
+        "neo-pagan"
+    ],
+    "ultrametric": [
+        "p-adic ultrametric"
+    ],
+    "Georgian": [
+        "Regency"
+    ],
+    "metallophilic": [
+        "argentophilic",
+        "aurophilic"
+    ],
+    "solid": [
+        "rock solid"
+    ],
+    "Zoroastrian": [
+        "Mazdakite"
+    ],
+    "acidophilic": [
+        "eosinophilic"
+    ],
+    "theoretic": [
+        "set-theoretic",
+        "number-theoretic"
+    ],
+    "neuraxial": [
+        "vertebro-",
+        "spinal",
+        "spinal",
+        "spinal",
+        "spondylo-",
+        "spinal"
+    ],
+    "normative": [
+        "prescriptive",
+        "prescriptive",
+        "prescriptive",
+        "proscriptive"
+    ],
+    "aerospace": [
+        "aeronautical",
+        "astronautical"
+    ],
+    "barytone": [
+        "paroxytone",
+        "proparoxytone"
+    ],
+    "liquory": [
+        "beerlike",
+        "beerish",
+        "vodkalike",
+        "beery"
+    ],
+    "geomorphic": [
+        "hydrogeomorphic"
+    ],
+    "animalian": [
+        "human",
+        "human",
+        "human",
+        "human",
+        "mammalian",
+        "human",
+        "nonhuman",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human"
+    ],
+    "centric": [
+        "egocentric",
+        "egocentric"
+    ],
+    "automotive": [
+        "automobile",
+        "locomotive",
+        "automobile",
+        "automobile",
+        "locomotive"
+    ]
+}

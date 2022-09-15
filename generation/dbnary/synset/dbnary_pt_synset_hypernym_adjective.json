@@ -1,0 +1,20 @@
+{
+    "excelente": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__excelente__adjetivo__1": [
+            "bom",
+            "bom",
+            "bom"
+        ]
+    },
+    "nacionalpopulista": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__nacionalpopulista__adjetivo__1": [
+            "nacionalista"
+        ]
+    },
+    "refazedor": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__refazedor__adjetivo__1": [
+            "fazedor",
+            "fazedor"
+        ]
+    }
+}

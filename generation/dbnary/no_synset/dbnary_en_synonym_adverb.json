@@ -1,0 +1,3178 @@
+{
+    "anyhow": [
+        "anyway",
+        "anywho",
+        "anyway",
+        "anyhoo",
+        "anyway"
+    ],
+    "anyway": [
+        "way",
+        "any road up",
+        "way",
+        "way",
+        "any old",
+        "way",
+        "way",
+        "way",
+        "anywise",
+        "anyroad",
+        "way"
+    ],
+    "apart": [
+        "independently",
+        "in twain",
+        "asunder",
+        "separately"
+    ],
+    "alias": [
+        "AKA"
+    ],
+    "along": [
+        "alongst",
+        "forward",
+        "forward",
+        "onward",
+        "together"
+    ],
+    "maybe": [
+        "possible",
+        "possible",
+        "perhaps",
+        "possible",
+        "possibly",
+        "mayhaps",
+        "peradventure"
+    ],
+    "perhaps": [
+        "maybe",
+        "mayhap",
+        "perchance",
+        "mayhaps",
+        "peradventure",
+        "belike"
+    ],
+    "ish": [
+        "about",
+        "close",
+        "close",
+        "near",
+        "near",
+        "near",
+        "near",
+        "roughly",
+        "loosely",
+        "about",
+        "close",
+        "near",
+        "rather",
+        "somewhat",
+        "almost",
+        "around",
+        "fairly",
+        "nearly",
+        "round about"
+    ],
+    "if anything": [
+        "on the contrary"
+    ],
+    "even": [
+        "so much as",
+        "definitely",
+        "precisely"
+    ],
+    "possibly": [
+        "potentially",
+        "maybe",
+        "perhaps",
+        "conceivably"
+    ],
+    "even so": [
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "withal",
+        "be that as it may",
+        "nevertheless",
+        "so",
+        "exactly",
+        "having said that",
+        "precisely"
+    ],
+    "generally": [
+        "en masse",
+        "wontedly",
+        "basically",
+        "en masse",
+        "collaboratively",
+        "by and large",
+        "en masse",
+        "generically",
+        "regularly",
+        "ordinarily",
+        "mostly",
+        "commonly",
+        "commonly"
+    ],
+    "so far": [
+        "hitherto",
+        "thus far"
+    ],
+    "under": [
+        "beneath",
+        "below"
+    ],
+    "somewhere": [
+        "somewheres",
+        "someplace"
+    ],
+    "askance": [
+        "sideways",
+        "obliquely",
+        "suspiciously",
+        "skeptically"
+    ],
+    "completely": [
+        "fully",
+        "totally",
+        "utterly"
+    ],
+    "verbatim": [
+        "in so many words",
+        "word for word",
+        "wordmeal",
+        "by heart"
+    ],
+    "incidentally": [
+        "apropos",
+        "apropos",
+        "by the way",
+        "apropos",
+        "as a matter of fact"
+    ],
+    "militarily": [
+        "militarically"
+    ],
+    "noticeably": [
+        "evidently",
+        "clearly",
+        "plainly"
+    ],
+    "ideally": [
+        "in an ideal world"
+    ],
+    "verily": [
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "truly",
+        "wis",
+        "wis",
+        "certainly",
+        "soothly",
+        "wis",
+        "confidently",
+        "wis",
+        "wis"
+    ],
+    "slapdash": [
+        "hastily",
+        "directly",
+        "haphazardly",
+        "carelessly"
+    ],
+    "upwards": [
+        "upward",
+        "up",
+        "up",
+        "up",
+        "up"
+    ],
+    "beforehand": [
+        "in advance"
+    ],
+    "presumably": [
+        "at an educated guess"
+    ],
+    "downward": [
+        "down",
+        "downwards",
+        "down",
+        "down",
+        "down",
+        "down",
+        "down"
+    ],
+    "in vain": [
+        "vainly"
+    ],
+    "unevenly": [
+        "unequally",
+        "haphazardly"
+    ],
+    "deeply": [
+        "deep",
+        "deep"
+    ],
+    "endwise": [
+        "endways",
+        "sideways",
+        "edgeways",
+        "lengthwise",
+        "sidewise"
+    ],
+    "tardily": [
+        "lateward",
+        "ponderously"
+    ],
+    "terribly": [
+        "extremely",
+        "very",
+        "awfully",
+        "horribly",
+        "grisly",
+        "very"
+    ],
+    "mutually": [
+        "equally",
+        "together",
+        "in kind",
+        "equivalently",
+        "collectively",
+        "reciprocally",
+        "similarly",
+        "evenly"
+    ],
+    "downwards": [
+        "down",
+        "down",
+        "down",
+        "down",
+        "down",
+        "down",
+        "downward"
+    ],
+    "roundly": [
+        "fully",
+        "perfectly",
+        "deeply",
+        "soundly",
+        "thoroughly",
+        "completely",
+        "totally",
+        "firmly"
+    ],
+    "stuffily": [
+        "oppressively"
+    ],
+    "categorically": [
+        "definitively",
+        "unconditionally"
+    ],
+    "certifiably": [
+        "insanely"
+    ],
+    "punctually": [
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "slap bang",
+        "just",
+        "accurately",
+        "on schedule",
+        "promptly",
+        "timely"
+    ],
+    "eternally": [
+        "nonstop",
+        "nonstop",
+        "ever",
+        "ever",
+        "ever",
+        "ever",
+        "incessantly",
+        "ever",
+        "nonstop",
+        "until hell freezes over",
+        "ceaselessly",
+        "forevermore"
+    ],
+    "horribly": [
+        "very",
+        "horrifyingly",
+        "very",
+        "dreadfully",
+        "terrifyingly",
+        "grisly",
+        "frightfully",
+        "awfully",
+        "terribly"
+    ],
+    "routinely": [
+        "customarily",
+        "ordinarily",
+        "routinely"
+    ],
+    "trebly": [
+        "thricely",
+        "threefold"
+    ],
+    "bogglingly": [
+        "astoundingly",
+        "stupefyingly",
+        "mind-bogglingly"
+    ],
+    "immaculately": [
+        "perfectly",
+        "impeccably",
+        "flawlessly",
+        "cleanly",
+        "purely"
+    ],
+    "head-to-head": [
+        "t\u00eate-\u00e0-t\u00eate",
+        "t\u00eate-\u00e0-t\u00eate",
+        "t\u00eate-\u00e0-t\u00eate",
+        "t\u00eate-\u00e0-t\u00eate",
+        "t\u00eate-\u00e0-t\u00eate",
+        "t\u00eate-\u00e0-t\u00eate"
+    ],
+    "fiendishly": [
+        "satanically",
+        "devilishly",
+        "diabolically"
+    ],
+    "grandly": [
+        "regally"
+    ],
+    "pacifically": [
+        "calmly",
+        "soothingly",
+        "quietly",
+        "mildly"
+    ],
+    "one-sidedly": [
+        "unilaterally"
+    ],
+    "in general": [
+        "generally",
+        "chiefly",
+        "normally",
+        "as a whole"
+    ],
+    "pressingly": [
+        "enthusiastically",
+        "importantly",
+        "urgently",
+        "persistently",
+        "persuasively"
+    ],
+    "quadruply": [
+        "fourfold"
+    ],
+    "supremely": [
+        "incomparably",
+        "extremely"
+    ],
+    "willy-nilly": [
+        "at",
+        "planning",
+        "at",
+        "haphazardly",
+        "random",
+        "without",
+        "method",
+        "at"
+    ],
+    "slap-bang": [
+        "smack",
+        "smack",
+        "smack"
+    ],
+    "yet": [
+        "now",
+        "still",
+        "still",
+        "still",
+        "still",
+        "still",
+        "even",
+        "even",
+        "further",
+        "to date",
+        "erenow",
+        "moreover",
+        "now",
+        "even",
+        "so far",
+        "still",
+        "besides",
+        "at last",
+        "in time",
+        "sooner or later"
+    ],
+    "also": [
+        "too",
+        "too",
+        "as well",
+        "eke",
+        "too",
+        "eke",
+        "too",
+        "eke",
+        "too",
+        "eke",
+        "too",
+        "too",
+        "eke",
+        "too",
+        "too",
+        "too",
+        "eke",
+        "eke",
+        "too",
+        "eke",
+        "too",
+        "too",
+        "too",
+        "too",
+        "too"
+    ],
+    "last": [
+        "lastly",
+        "finally"
+    ],
+    "ad hoc": [
+        "ad hocly"
+    ],
+    "ad lib": [
+        "a piacere",
+        "a piacere"
+    ],
+    "early": [
+        "prematurely"
+    ],
+    "right now": [
+        "this instant",
+        "at the moment"
+    ],
+    "eventually": [
+        "yet",
+        "at last",
+        "yet",
+        "yet",
+        "yet",
+        "ultimately",
+        "in the end",
+        "finally"
+    ],
+    "before": [
+        "in front",
+        "previously",
+        "ahead",
+        "beforehand"
+    ],
+    "there": [
+        "over there",
+        "thither",
+        "yonder",
+        "over there"
+    ],
+    "thither": [
+        "over there",
+        "there",
+        "yonder",
+        "over there"
+    ],
+    "commonly": [
+        "commonly",
+        "commonly",
+        "friendly",
+        "intimately",
+        "nearly",
+        "affinitatively",
+        "most of the time",
+        "usually",
+        "frequently"
+    ],
+    "why not": [
+        "OK",
+        "OK",
+        "OK",
+        "OK",
+        "OK",
+        "OK",
+        "OK",
+        "OK",
+        "why",
+        "all right",
+        "all right",
+        "OK",
+        "all right",
+        "why",
+        "what if",
+        "how about",
+        "how come"
+    ],
+    "then": [
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "therewhile",
+        "as a result",
+        "subsequently",
+        "accordingly",
+        "followed by",
+        "so",
+        "back in the day",
+        "concurrently",
+        "at the time"
+    ],
+    "though": [
+        "yet",
+        "yet",
+        "yet",
+        "still",
+        "still",
+        "still",
+        "still",
+        "still",
+        "anyway",
+        "all the same",
+        "anyhow",
+        "anyway",
+        "nevertheless",
+        "yet",
+        "nonetheless",
+        "in any case",
+        "still",
+        "even so"
+    ],
+    "together": [
+        "jointly",
+        "at the same time",
+        "concurrently",
+        "collectively"
+    ],
+    "why": [
+        "wherefore",
+        "how come",
+        "to what end"
+    ],
+    "a lot": [
+        "tons",
+        "tons",
+        "tons",
+        "tons",
+        "tons",
+        "tons",
+        "loads",
+        "tons",
+        "immensely"
+    ],
+    "likewise": [
+        "similarly"
+    ],
+    "fortunately": [
+        "thankfully",
+        "happily",
+        "mercifully",
+        "auspiciously",
+        "luckily"
+    ],
+    "kindly": [
+        "please",
+        "thoughtfully"
+    ],
+    "consistently": [
+        "incessantly",
+        "invariably",
+        "uniformly",
+        "continually"
+    ],
+    "gradually": [
+        "step by step",
+        "incrementally",
+        "sluggishly",
+        "ponderously"
+    ],
+    "syne": [
+        "followingly",
+        "ensuingly"
+    ],
+    "allegedly": [
+        "purportedly",
+        "supposedly"
+    ],
+    "briefly": [
+        "in a word",
+        "fleetingly",
+        "summarization",
+        "in short",
+        "temporarily",
+        "sum up",
+        "concisely",
+        "summarily",
+        "transiently"
+    ],
+    "henceforth": [
+        "hereafter",
+        "from now on",
+        "henceforward"
+    ],
+    "barely": [
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "hardly",
+        "only just",
+        "scarcely"
+    ],
+    "greatly": [
+        "above a bit"
+    ],
+    "basically": [
+        "fundamentally",
+        "more often than not",
+        "chiefly",
+        "essentially"
+    ],
+    "entirely": [
+        "solely",
+        "wholly",
+        "completely"
+    ],
+    "facetiously": [
+        "flippantly",
+        "jocularly",
+        "playfully",
+        "humorously"
+    ],
+    "surely": [
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "certainly"
+    ],
+    "wholly": [
+        "solely",
+        "completely",
+        "entirely",
+        "totally"
+    ],
+    "occasionally": [
+        "sometimes",
+        "now and then",
+        "on occasion",
+        "at times"
+    ],
+    "on time": [
+        "in time"
+    ],
+    "ordinarily": [
+        "commonly",
+        "commonly",
+        "conventionally",
+        "traditionally",
+        "customarily",
+        "ordinarily",
+        "most of the time",
+        "routinely"
+    ],
+    "outward": [
+        "outwards"
+    ],
+    "outwardly": [
+        "apparently",
+        "superficially",
+        "to all appearances"
+    ],
+    "properly": [
+        "duly"
+    ],
+    "rarely": [
+        "seldom",
+        "once in a while",
+        "hardly",
+        "sporadically",
+        "infrequently",
+        "barely",
+        "scarcely"
+    ],
+    "wherever": [
+        "everwhere"
+    ],
+    "sincerely": [
+        "regards",
+        "regards",
+        "honestly",
+        "earnestly",
+        "truthfully",
+        "best regards",
+        "yours sincerely",
+        "yours truly",
+        "regards",
+        "genuinely"
+    ],
+    "continually": [
+        "nonstop",
+        "nonstop",
+        "momently",
+        "incessantly",
+        "nonstop",
+        "by degrees",
+        "little by little",
+        "ceaselessly"
+    ],
+    "evidently": [
+        "clearly",
+        "vividly",
+        "plainly",
+        "conspicuously",
+        "markedly"
+    ],
+    "namely": [
+        "videlicet",
+        "scilicet",
+        "sc.",
+        "sc.",
+        "videlicet",
+        "that is to say",
+        "viz.",
+        "scilicet",
+        "to wit",
+        "sc.",
+        "as follows",
+        "specifically"
+    ],
+    "plainly": [
+        "expressly",
+        "unambiguously"
+    ],
+    "scarcely": [
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "hardly",
+        "only just",
+        "barely"
+    ],
+    "scientifically": [
+        "systemwise",
+        "systematically"
+    ],
+    "very": [
+        "extremely",
+        "main",
+        "main",
+        "main",
+        "main",
+        "main",
+        "main",
+        "main",
+        "main",
+        "main",
+        "main",
+        "wicked",
+        "sore",
+        "sore",
+        "sore",
+        "sore",
+        "sore",
+        "mighty",
+        "ever so",
+        "swith",
+        "eminently",
+        "wicked",
+        "mighty",
+        "main",
+        "way too",
+        "sore"
+    ],
+    "ashore": [
+        "aland",
+        "aland",
+        "aland"
+    ],
+    "directly": [
+        "now",
+        "shortly",
+        "frankly",
+        "undeviatingly",
+        "now",
+        "bluntly",
+        "accurately",
+        "presently",
+        "downrightly",
+        "straightwise",
+        "tout de suite",
+        "truthfully",
+        "forthwith",
+        "precisely",
+        "slap bang",
+        "unambiguously",
+        "tout de suite",
+        "clearly",
+        "betimes"
+    ],
+    "sometime": [
+        "in the past",
+        "at some point",
+        "somewhen",
+        "at one time",
+        "someday",
+        "one day"
+    ],
+    "sometimes": [
+        "in the past",
+        "once in a while",
+        "yestertide",
+        "from time to time",
+        "every so often",
+        "occasionally",
+        "at one time",
+        "at times"
+    ],
+    "subsequently": [
+        "yet",
+        "yet",
+        "yet",
+        "as a result",
+        "followingly",
+        "ensuingly",
+        "whence",
+        "yet",
+        "afterwards"
+    ],
+    "naturally": [
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "unaffectedly",
+        "absolutely",
+        "innately",
+        "intrinsically",
+        "wis",
+        "normally",
+        "essentially",
+        "certainly",
+        "undoubtedly",
+        "genuinely",
+        "without a doubt"
+    ],
+    "normally": [
+        "averagely",
+        "commonly",
+        "habitually",
+        "commonly",
+        "customarily",
+        "ordinarily",
+        "frequently",
+        "routinely"
+    ],
+    "truly": [
+        "in point of fact",
+        "frankly",
+        "sincerely",
+        "literally",
+        "exceedingly",
+        "extremely"
+    ],
+    "upside down": [
+        "topsy-turvy"
+    ],
+    "frequently": [
+        "oftenly",
+        "often",
+        "oftentimes",
+        "as often as not"
+    ],
+    "largely": [
+        "fully",
+        "for the most part",
+        "abundantly",
+        "by and large",
+        "plentifully",
+        "at length",
+        "in the main"
+    ],
+    "typically": [
+        "commonly",
+        "commonly",
+        "ordinarily",
+        "most of the time",
+        "routinely"
+    ],
+    "ephemerally": [
+        "fleetingly",
+        "briefly",
+        "transiently"
+    ],
+    "weirdly": [
+        "oddly",
+        "surprisingly",
+        "strangely"
+    ],
+    "every time": [
+        "whenever"
+    ],
+    "headfirst": [
+        "headforemost",
+        "headlong"
+    ],
+    "post-haste": [
+        "ASAP",
+        "ASAP",
+        "quickly"
+    ],
+    "severally": [
+        "time and again",
+        "again and again",
+        "over and over again",
+        "over and over"
+    ],
+    "simplistically": [
+        "in layman's terms"
+    ],
+    "astonishingly": [
+        "very",
+        "very",
+        "hugely",
+        "amazingly",
+        "staggeringly"
+    ],
+    "famously": [
+        "well",
+        "well",
+        "well",
+        "well",
+        "well",
+        "notably",
+        "notably",
+        "swimmingly",
+        "well",
+        "splendidly",
+        "notoriously"
+    ],
+    "glaringly": [
+        "plainly",
+        "blatantly"
+    ],
+    "matter-of-factly": [
+        "dispassionately",
+        "clinically"
+    ],
+    "stoutly": [
+        "torely",
+        "strongly",
+        "robustly",
+        "proudly"
+    ],
+    "needlessly": [
+        "unnecessarily"
+    ],
+    "ritually": [
+        "habitually"
+    ],
+    "on Jah": [
+        "on my life",
+        "on God"
+    ],
+    "exactly": [
+        "exact",
+        "exact",
+        "exact",
+        "perfectly",
+        "accurately",
+        "exact"
+    ],
+    "much": [
+        "very",
+        "greatly",
+        "very",
+        "loads",
+        "plenty",
+        "a lot",
+        "greatly",
+        "highly"
+    ],
+    "awhile": [
+        "meanwhilst",
+        "for the moment",
+        "for a minute",
+        "the while",
+        "meanwhile",
+        "momentarily"
+    ],
+    "below": [
+        "under",
+        "under",
+        "under",
+        "under",
+        "under",
+        "under",
+        "downstairs",
+        "under",
+        "downwards",
+        "beneath",
+        "underneath"
+    ],
+    "originally": [
+        "start",
+        "start",
+        "start",
+        "start",
+        "start",
+        "start",
+        "start",
+        "start",
+        "start",
+        "start",
+        "start",
+        "start",
+        "start",
+        "outside the box",
+        "initially",
+        "innovatively",
+        "at first"
+    ],
+    "per se": [
+        "ipso facto",
+        "ipso facto",
+        "as such",
+        "in and of itself"
+    ],
+    "certainly": [
+        "sure",
+        "sure",
+        "sure",
+        "sure",
+        "sure",
+        "sure",
+        "sure",
+        "sure",
+        "sure",
+        "sure",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "wis",
+        "surely",
+        "no doubt",
+        "doubtlessly",
+        "absolutely",
+        "sure",
+        "definitely",
+        "indubitably",
+        "indeed",
+        "wis",
+        "in fact",
+        "fo shizzle",
+        "truly",
+        "oh yeah",
+        "unquestionably",
+        "indisputably",
+        "undoubtedly",
+        "damn straight",
+        "wye aye",
+        "damn right",
+        "really",
+        "for sure",
+        "sure thing",
+        "without a doubt"
+    ],
+    "soitenly": [
+        "certainly",
+        "for sure"
+    ],
+    "clearly": [
+        "expressly",
+        "unambiguously",
+        "visibly"
+    ],
+    "forth": [
+        "fromward"
+    ],
+    "hardly": [
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "only just",
+        "barely",
+        "scarcely"
+    ],
+    "otherwise": [
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "if",
+        "else",
+        "if",
+        "if",
+        "if",
+        "elsewise",
+        "not",
+        "contrastingly",
+        "else",
+        "if",
+        "or else",
+        "apart from",
+        "contrarily"
+    ],
+    "regularly": [
+        "as a rule",
+        "routinely"
+    ],
+    "chiefly": [
+        "particularly",
+        "for the most part",
+        "by and large",
+        "particularly",
+        "largely",
+        "first and foremost"
+    ],
+    "especially": [
+        "in particular",
+        "first and foremost"
+    ],
+    "mainly": [
+        "earsplittingly",
+        "strongly",
+        "principally",
+        "energetically",
+        "thunderously",
+        "powerfully",
+        "a lot",
+        "raucously",
+        "in the main",
+        "extremely",
+        "lustily",
+        "chiefly",
+        "primarily"
+    ],
+    "mostly": [
+        "principally",
+        "predominantly",
+        "by and large",
+        "more often than not",
+        "in the main",
+        "largely",
+        "most of the time",
+        "for the most part"
+    ],
+    "particularly": [
+        "greatly",
+        "pedantically",
+        "detailly",
+        "fastidiously",
+        "pickily",
+        "greatly",
+        "exceedingly",
+        "thoroughly",
+        "exacting",
+        "in particular",
+        "primarily",
+        "first and foremost",
+        "above all"
+    ],
+    "conversely": [
+        "vice versa",
+        "vice versa",
+        "vice versa",
+        "vice versa",
+        "vice versa",
+        "then again",
+        "at the same time",
+        "however",
+        "on the flip side",
+        "vice versa",
+        "the other way round"
+    ],
+    "orderly": [
+        "methodically",
+        "systematically"
+    ],
+    "practically": [
+        "all but"
+    ],
+    "nearly": [
+        "near",
+        "near",
+        "near",
+        "near",
+        "nigh",
+        "nigh",
+        "nigh",
+        "near",
+        "virtually",
+        "almost",
+        "next to",
+        "well-nigh",
+        "close to",
+        "nigh",
+        "practically"
+    ],
+    "upward": [
+        "up",
+        "up",
+        "up",
+        "up",
+        "upwards",
+        "cloudwards"
+    ],
+    "in order": [
+        "step by step",
+        "in order"
+    ],
+    "inward": [
+        "withinward"
+    ],
+    "thereto": [
+        "thitherto"
+    ],
+    "instantly": [
+        "instantaneously",
+        "immediately"
+    ],
+    "momentarily": [
+        "soon",
+        "soon",
+        "soon",
+        "soon",
+        "step by step",
+        "briefly",
+        "incrementally",
+        "temporarily",
+        "progressively",
+        "soon",
+        "shortly",
+        "presently"
+    ],
+    "constantly": [
+        "nonstop",
+        "nonstop",
+        "consistently",
+        "incessantly",
+        "invariably",
+        "nonstop",
+        "uniformly",
+        "ceaselessly"
+    ],
+    "hella": [
+        "wicked",
+        "wicked"
+    ],
+    "stupidly": [
+        "foolishly",
+        "absurdly",
+        "carelessly",
+        "irresponsibly",
+        "ridiculously"
+    ],
+    "underhand": [
+        "underhandedly"
+    ],
+    "unfortunately": [
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "unluckily",
+        "sad to say",
+        "sadly",
+        "alas",
+        "regrettably"
+    ],
+    "vainly": [
+        "in vain"
+    ],
+    "wrongly": [
+        "mistakenly",
+        "erroneously",
+        "incorrectly"
+    ],
+    "urgently": [
+        "pressingly",
+        "imperatively",
+        "persistently",
+        "persuasively"
+    ],
+    "downright": [
+        "right-down"
+    ],
+    "purely": [
+        "sinlessly",
+        "unadulteratedly",
+        "alone",
+        "undilutedly",
+        "pristinely",
+        "alone",
+        "guiltlessly",
+        "thoroughly",
+        "totally"
+    ],
+    "easterly": [
+        "eastly"
+    ],
+    "instrumentally": [
+        "instrumently"
+    ],
+    "half": [
+        "halfly"
+    ],
+    "jauntily": [
+        "rakishly",
+        "stylishly"
+    ],
+    "twice": [
+        "double",
+        "doubly",
+        "double"
+    ],
+    "just": [
+        "merely",
+        "hardly",
+        "smack-dab",
+        "simply",
+        "barely",
+        "lately",
+        "scarcely",
+        "freshly",
+        "newly",
+        "on the dot",
+        "only"
+    ],
+    "way": [
+        "much",
+        "much",
+        "much",
+        "much",
+        "much",
+        "much",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "very",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "very",
+        "loads",
+        "so much",
+        "so",
+        "far",
+        "much"
+    ],
+    "biannually": [
+        "semiannually"
+    ],
+    "biweekly": [
+        "twice",
+        "fortnightly",
+        "semi-weekly",
+        "weekly"
+    ],
+    "double": [
+        "doubly"
+    ],
+    "actually": [
+        "as a matter of fact",
+        "in reality",
+        "truthfully",
+        "literally",
+        "really"
+    ],
+    "out": [
+        "away",
+        "away",
+        "away",
+        "away",
+        "away"
+    ],
+    "up": [
+        "alley oop"
+    ],
+    "forward": [
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "forth",
+        "forth",
+        "on",
+        "ahead",
+        "onward",
+        "onwards",
+        "hereon",
+        "forwards"
+    ],
+    "piecemeal": [
+        "apart",
+        "apart",
+        "apart",
+        "apart",
+        "apart",
+        "bit by bit",
+        "little by little"
+    ],
+    "thus": [
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "this",
+        "so",
+        "so",
+        "this",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "this",
+        "so",
+        "so",
+        "this",
+        "therefore",
+        "thusly",
+        "before",
+        "as such",
+        "so",
+        "hence",
+        "like so",
+        "consequently"
+    ],
+    "late": [
+        "erenow",
+        "freshly",
+        "belatedly"
+    ],
+    "later": [
+        "someday",
+        "hereafter",
+        "afterwards",
+        "later on"
+    ],
+    "really": [
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "actually",
+        "so",
+        "indeed",
+        "in fact",
+        "truly",
+        "actually"
+    ],
+    "tight": [
+        "fast",
+        "fast",
+        "fast",
+        "fast",
+        "fast",
+        "fast",
+        "fast",
+        "fast",
+        "fast",
+        "well",
+        "well",
+        "well",
+        "well",
+        "well",
+        "securely",
+        "soundly",
+        "fast",
+        "well",
+        "firmly"
+    ],
+    "edgeways": [
+        "edgewise"
+    ],
+    "downwind": [
+        "leeward"
+    ],
+    "hereto": [
+        "up to now",
+        "erenow",
+        "thus far"
+    ],
+    "regretfully": [
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "ruefully",
+        "sad to say",
+        "sadly",
+        "alas",
+        "unfortunately",
+        "sorrowfully",
+        "regrettably"
+    ],
+    "summarily": [
+        "fleetingly",
+        "ephemerally",
+        "transiently",
+        "unceremoniously"
+    ],
+    "hesitantly": [
+        "reluctantly"
+    ],
+    "usually": [
+        "commonly",
+        "habitually",
+        "commonly",
+        "for the most part",
+        "wontedly",
+        "generally",
+        "regularly",
+        "by and large",
+        "as a rule",
+        "mainly",
+        "mostly",
+        "normally",
+        "on the whole",
+        "customarily",
+        "ordinarily",
+        "wontly",
+        "in the main",
+        "routinely"
+    ],
+    "yea": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yup",
+        "yigh",
+        "aye",
+        "aye",
+        "aye",
+        "aye",
+        "aye",
+        "aye",
+        "yes",
+        "yep",
+        "yeah",
+        "aye",
+        "yup"
+    ],
+    "behindhand": [
+        "late",
+        "late",
+        "late",
+        "late",
+        "late",
+        "late",
+        "late",
+        "late",
+        "late",
+        "late",
+        "late"
+    ],
+    "disingenuously": [
+        "unworthily",
+        "deceptively",
+        "ignobly",
+        "deceitfully"
+    ],
+    "phenomenally": [
+        "prodigiously",
+        "remarkably",
+        "extraordinarily"
+    ],
+    "about": [
+        "around"
+    ],
+    "abreast": [
+        "up-to-date",
+        "informed",
+        "up-to-date",
+        "up to date",
+        "apprised"
+    ],
+    "abstractedly": [
+        "absently",
+        "absent-mindedly"
+    ],
+    "accordingly": [
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "therefore",
+        "wherefore",
+        "so",
+        "hence",
+        "consequently"
+    ],
+    "what about": [
+        "what of",
+        "how's about",
+        "how about"
+    ],
+    "about time": [
+        "high time"
+    ],
+    "almost everywhere": [
+        "a.e."
+    ],
+    "AC": [
+        "AD",
+        "AD",
+        "AD",
+        "BC",
+        "AD",
+        "AD",
+        "BC"
+    ],
+    "so": [
+        "much",
+        "much",
+        "like",
+        "like",
+        "like",
+        "like",
+        "like",
+        "like",
+        "much",
+        "much",
+        "like",
+        "like",
+        "like",
+        "much",
+        "much",
+        "like",
+        "yea",
+        "that",
+        "very",
+        "that",
+        "that",
+        "this",
+        "this",
+        "that",
+        "this",
+        "thus",
+        "this",
+        "that",
+        "very",
+        "thus",
+        "like",
+        "much",
+        "truly",
+        "really",
+        "yea"
+    ],
+    "again": [
+        "ana-",
+        "ana-",
+        "ana-",
+        "ana-",
+        "ana-",
+        "ana-",
+        "ana-",
+        "re-",
+        "re-",
+        "re-",
+        "re-",
+        "re-",
+        "re-",
+        "re-",
+        "re-",
+        "re-",
+        "re-",
+        "re-",
+        "re-",
+        "re-",
+        "re-",
+        "re-",
+        "once more",
+        "re-",
+        "ana-"
+    ],
+    "all": [
+        "completely"
+    ],
+    "however": [
+        "how",
+        "how",
+        "how",
+        "how",
+        "howso",
+        "anyway",
+        "ad lib",
+        "after all",
+        "the dickens",
+        "anyhow",
+        "anyway",
+        "nonetheless",
+        "notwithstanding",
+        "in any case",
+        "still and all",
+        "howsoever",
+        "that said",
+        "how"
+    ],
+    "weekly": [
+        "hebdomadally"
+    ],
+    "to": [
+        "closed",
+        "shut",
+        "closed"
+    ],
+    "too": [
+        "eke",
+        "eke",
+        "eke",
+        "eke",
+        "eke",
+        "eke",
+        "eke",
+        "unnecessarily",
+        "along with",
+        "as well",
+        "excessively",
+        "overmuch",
+        "eke",
+        "extremely",
+        "also",
+        "also"
+    ],
+    "habitually": [
+        "customarily",
+        "ritually",
+        "usually"
+    ],
+    "forever": [
+        "forever and a day",
+        "for ever more",
+        "incessantly",
+        "for good",
+        "always",
+        "until Kingdom come",
+        "continually",
+        "permanently",
+        "evermore",
+        "eternally",
+        "forevermore"
+    ],
+    "therefore": [
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "so",
+        "then",
+        "then",
+        "then",
+        "as a result",
+        "thus",
+        "thereby",
+        "eo ipso",
+        "accordingly",
+        "then",
+        "to this end",
+        "so",
+        "hence",
+        "thus",
+        "to that end"
+    ],
+    "right away": [
+        "tout de suite",
+        "now",
+        "delay",
+        "delay",
+        "tout de suite",
+        "at once",
+        "forthwith",
+        "now",
+        "without",
+        "instantly",
+        "delay",
+        "immediately",
+        "straight away",
+        "right now"
+    ],
+    "very much": [
+        "a lot",
+        "above a bit",
+        "really"
+    ],
+    "right": [
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "ever so",
+        "in point of fact",
+        "rightwise",
+        "in truth",
+        "just",
+        "correctly",
+        "rightward",
+        "exactly",
+        "smack-dab",
+        "properly",
+        "precisely",
+        "rightways",
+        "slap-bang"
+    ],
+    "twenty-four seven": [
+        "non-stop",
+        "non-stop",
+        "non-stop",
+        "continuously",
+        "non-stop",
+        "twenty-four hours a day",
+        "all the time",
+        "constantly"
+    ],
+    "long": [
+        "time",
+        "time",
+        "time",
+        "time",
+        "time",
+        "time",
+        "time",
+        "time",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "far",
+        "way",
+        "way",
+        "way",
+        "way",
+        "way",
+        "way",
+        "time",
+        "way",
+        "far"
+    ],
+    "sharp": [
+        "exactly",
+        "precisely",
+        "on the dot"
+    ],
+    "somewhere else": [
+        "else",
+        "elsewhither",
+        "someplace else",
+        "otherwhere",
+        "somewhither",
+        "else",
+        "elsewhere"
+    ],
+    "home": [
+        "homeward"
+    ],
+    "still": [
+        "yet",
+        "yet",
+        "yet",
+        "akinetically",
+        "stockishly",
+        "even",
+        "even",
+        "consistently",
+        "motionlessly",
+        "though",
+        "invariably",
+        "yet",
+        "even",
+        "nonetheless",
+        "uniformly",
+        "stock still"
+    ],
+    "flat": [
+        "tops",
+        "utterly",
+        "absolutely",
+        "bluntly",
+        "curtly",
+        "completely",
+        "tops"
+    ],
+    "absofreakinlutely": [
+        "abso-fucking-lutely"
+    ],
+    "for one": [
+        "for one thing",
+        "first of all"
+    ],
+    "followingly": [
+        "followed by",
+        "ensuingly"
+    ],
+    "yonder": [
+        "there",
+        "over there",
+        "over there"
+    ],
+    "sightwise": [
+        "visually"
+    ],
+    "as much": [
+        "so much"
+    ],
+    "statewide": [
+        "nationwide",
+        "countrywide",
+        "nationally",
+        "provincewide"
+    ],
+    "away": [
+        "de-",
+        "de-",
+        "de-",
+        "de-",
+        "de-",
+        "de-",
+        "de-",
+        "de-",
+        "de-",
+        "de-",
+        "off",
+        "de-",
+        "de-",
+        "ab-",
+        "ab-",
+        "ab-",
+        "ab-",
+        "apo-",
+        "apo-",
+        "apo-",
+        "apo-",
+        "apo-",
+        "apo-",
+        "apo-",
+        "de-",
+        "out-",
+        "off-",
+        "ab-",
+        "off",
+        "at bay",
+        "apo-"
+    ],
+    "moving forward": [
+        "as of now",
+        "hereafter",
+        "going forward"
+    ],
+    "hence": [
+        "herefrom",
+        "consequently"
+    ],
+    "doubly": [
+        "double",
+        "deceptively",
+        "dually",
+        "double",
+        "twofold",
+        "double-handedly",
+        "duplicitously"
+    ],
+    "faithfully": [
+        "yours faithfully"
+    ],
+    "frankly": [
+        "as a matter of fact",
+        "candidly",
+        "truth to tell",
+        "honestly",
+        "truthfully",
+        "bluntly",
+        "forthcomingly"
+    ],
+    "hereafter": [
+        "someday",
+        "followed by",
+        "henceforth",
+        "henceforward"
+    ],
+    "honestly": [
+        "as a matter of fact",
+        "candidly",
+        "in point of fact",
+        "in truth",
+        "sincerely",
+        "truthfully",
+        "in all honesty"
+    ],
+    "incessantly": [
+        "continuously",
+        "unremittingly",
+        "ceaselessly"
+    ],
+    "inevitably": [
+        "unavoidably",
+        "necessarily",
+        "always",
+        "regularly",
+        "inexorably",
+        "certainly",
+        "predictably"
+    ],
+    "infinitely": [
+        "nonstop",
+        "nonstop",
+        "utterly",
+        "incessantly",
+        "nonstop",
+        "extremely",
+        "ceaselessly"
+    ],
+    "lastly": [
+        "last",
+        "last",
+        "last",
+        "last",
+        "last",
+        "last",
+        "last",
+        "last",
+        "last",
+        "last",
+        "all in all",
+        "last but not least",
+        "ultimately",
+        "at last",
+        "finally",
+        "in conclusion",
+        "in the end"
+    ],
+    "peculiarly": [
+        "oddly",
+        "specifically",
+        "in particular",
+        "queerly"
+    ],
+    "positively": [
+        "greatly",
+        "for certain",
+        "absolutely",
+        "confidently",
+        "definitely",
+        "unconditionally",
+        "greatly",
+        "categorically",
+        "decisively"
+    ],
+    "sadly": [
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "alas",
+        "ruefully",
+        "sad to say",
+        "alas",
+        "unfortunately",
+        "regretfully",
+        "sorrowfully",
+        "mournfully",
+        "regrettably"
+    ],
+    "seemingly": [
+        "at first blush",
+        "prima facie",
+        "ostensibly",
+        "becomingly",
+        "proprietously"
+    ],
+    "specially": [
+        "passing",
+        "quite",
+        "quite",
+        "quite",
+        "quite",
+        "passing",
+        "quite",
+        "especially",
+        "exceedingly"
+    ],
+    "yearly": [
+        "annually",
+        "perennially"
+    ],
+    "meanwhile": [
+        "meanwhilst",
+        "the while",
+        "meantime",
+        "in the meantime",
+        "on the other hand",
+        "at the same time"
+    ],
+    "obviously": [
+        "obvi",
+        "clearly",
+        "obvi",
+        "apparently",
+        "evidently",
+        "manifestly"
+    ],
+    "passively": [
+        "resignedly",
+        "mindlessly",
+        "submissively",
+        "automatically"
+    ],
+    "enormously": [
+        "very",
+        "immensely",
+        "greatly",
+        "greatly",
+        "very",
+        "vastly",
+        "highly"
+    ],
+    "acerbically": [
+        "acidly",
+        "tartly"
+    ],
+    "internally": [
+        "inly",
+        "insidely",
+        "interiorly"
+    ],
+    "substantially": [
+        "at heart",
+        "majorly",
+        "significantly",
+        "uberly",
+        "deep down"
+    ],
+    "icily": [
+        "coldly",
+        "aloofly"
+    ],
+    "just now": [
+        "imminently",
+        "shortly",
+        "just then",
+        "recently",
+        "right now",
+        "currently"
+    ],
+    "northerly": [
+        "northly"
+    ],
+    "southerly": [
+        "southly"
+    ],
+    "whereto": [
+        "whither",
+        "whereunto"
+    ],
+    "cringingly": [
+        "cringeworthily",
+        "cringily"
+    ],
+    "yowzah": [
+        "yessiree",
+        "yessir"
+    ],
+    "fatally": [
+        "mortally"
+    ],
+    "singly": [
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "solo",
+        "alone",
+        "unassisted",
+        "alone",
+        "truthfully",
+        "oddly",
+        "solo",
+        "truly",
+        "discretely"
+    ],
+    "only just": [
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "just",
+        "hardly",
+        "barely",
+        "scarcely"
+    ],
+    "customarily": [
+        "matter of course",
+        "habitually",
+        "regularly",
+        "as a rule",
+        "normally",
+        "ordinarily",
+        "wontly",
+        "usually",
+        "typically",
+        "routinely"
+    ],
+    "uncommonly": [
+        "sometimes",
+        "atypically",
+        "unwontedly",
+        "sporadically"
+    ],
+    "whilom": [
+        "erenow",
+        "beforehand"
+    ],
+    "freshly": [
+        "impolitely",
+        "uncivilly",
+        "lately",
+        "rudely",
+        "unmannerly"
+    ],
+    "truthfully": [
+        "honestly",
+        "in point of fact",
+        "truly",
+        "actually",
+        "sincerely",
+        "actually"
+    ],
+    "verdantly": [
+        "greenly"
+    ],
+    "feverishly": [
+        "rapidly",
+        "energetically",
+        "quickly",
+        "excitedly",
+        "speedily"
+    ],
+    "frighteningly": [
+        "surprisingly",
+        "terrifyingly"
+    ],
+    "par excellence": [
+        "pre-eminently",
+        "supremely",
+        "above all"
+    ],
+    "a bit": [
+        "a mite",
+        "a little",
+        "a tad",
+        "a trifle",
+        "a little bit",
+        "a smidgen"
+    ],
+    "causatively": [
+        "causally"
+    ],
+    "flickeringly": [
+        "dazzlingly",
+        "twinklingly",
+        "transiently",
+        "sparklingly",
+        "ephemerally",
+        "fleetingly",
+        "coruscatingly"
+    ],
+    "way back": [
+        "yore",
+        "of old"
+    ],
+    "majorly": [
+        "majorally"
+    ],
+    "what if": [
+        "how about"
+    ],
+    "feckly": [
+        "somewhat",
+        "chiefly",
+        "by and large",
+        "in part",
+        "for the most part"
+    ],
+    "a tad": [
+        "a little bit",
+        "a little",
+        "a bit",
+        "a mite"
+    ],
+    "helluv": [
+        "wicked",
+        "wicked"
+    ],
+    "straight up": [
+        "up",
+        "up",
+        "up",
+        "up"
+    ],
+    "thereout": [
+        "therefrom"
+    ],
+    "relatedly": [
+        "allegedly",
+        "supposedly"
+    ],
+    "full out": [
+        "full throttle",
+        "full tilt",
+        "all out"
+    ],
+    "momently": [
+        "fleetingly",
+        "briefly",
+        "by degrees",
+        "momentarily",
+        "transiently",
+        "little by little"
+    ],
+    "presumptively": [
+        "presumably"
+    ],
+    "procedurally": [
+        "methodically",
+        "systematically"
+    ],
+    "far from": [
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "not",
+        "nowhere near",
+        "not",
+        "by no means",
+        "in no way",
+        "not at all"
+    ],
+    "acephalously": [
+        "headlessly"
+    ],
+    "unbelievingly": [
+        "disbelievingly",
+        "incredulously"
+    ],
+    "sideling": [
+        "sideways"
+    ],
+    "supposably": [
+        "conceivably",
+        "imaginably",
+        "purportedly"
+    ],
+    "dropmeal": [
+        "dropwise"
+    ],
+    "unobstructedly": [
+        "freely",
+        "unhinderedly"
+    ],
+    "unobservantly": [
+        "inobservantly"
+    ],
+    "pregnantly": [
+        "significantly",
+        "fruitfully"
+    ],
+    "stalely": [
+        "way back",
+        "of yore"
+    ],
+    "workwise": [
+        "workways"
+    ],
+    "enterally": [
+        "enterically"
+    ],
+    "A to Z": [
+        "from A to Z",
+        "from aardvark to zymurgy"
+    ],
+    "if you will": [
+        "if you like"
+    ],
+    "in the worst way": [
+        "something awful"
+    ],
+    "at one blast": [
+        "all at once",
+        "simultaneously"
+    ],
+    "paulo post futurum": [
+        "ad kalendas Graecas",
+        "real soon now",
+        "paulo-post-future",
+        "when pigs fly"
+    ],
+    "by and by": [
+        "soon",
+        "soon",
+        "soon",
+        "soon",
+        "now",
+        "stat",
+        "stat",
+        "stat",
+        "stat",
+        "stat",
+        "stat",
+        "stat",
+        "stat",
+        "stat",
+        "stat",
+        "stat",
+        "stat",
+        "stat",
+        "now",
+        "soon",
+        "sooner or later",
+        "shortly",
+        "in due course"
+    ],
+    "side by side": [
+        "cheek by jowl"
+    ],
+    "just like that": [
+        "out of the blue"
+    ],
+    "one after another": [
+        "one by one",
+        "one at a time"
+    ],
+    "to begin with": [
+        "at first"
+    ],
+    "on the fly": [
+        "on the spot",
+        "on the hoof"
+    ],
+    "all in good time": [
+        "in due time"
+    ],
+    "head to toe": [
+        "top to tail",
+        "head to foot",
+        "cap-a-pie",
+        "head to tail",
+        "top to toe"
+    ],
+    "all in all": [
+        "altogether",
+        "for the most part",
+        "mostly",
+        "summa summarum",
+        "summa summarum",
+        "on the whole",
+        "in all"
+    ],
+    "all the same": [
+        "still",
+        "still",
+        "still",
+        "withal",
+        "even so",
+        "still",
+        "just the same",
+        "still",
+        "still"
+    ],
+    "in flagrante delicto": [
+        "red-handed",
+        "with one's dick in one's hand",
+        "with one's pants down",
+        "in the act",
+        "with one's hand in the cookie jar"
+    ],
+    "ass over teakettle": [
+        "head over heels",
+        "arse over tit",
+        "tumbling",
+        "like mad",
+        "like crazy",
+        "arse over tip",
+        "frantically"
+    ],
+    "for shame's sake": [
+        "for very shame's sake",
+        "for heaven's sake",
+        "for mercy's sake",
+        "for pity's sake",
+        "for goodness' sake"
+    ],
+    "someone's arse off": [
+        "someone's butt off"
+    ],
+    "if you like": [
+        "if you will"
+    ],
+    "night and day": [
+        "chalk and cheese"
+    ],
+    "not a minute too soon": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none",
+        "none",
+        "none",
+        "not a moment too soon",
+        "none"
+    ],
+    "hither and thither": [
+        "from pillar to post",
+        "from post to pillar",
+        "hither and yon"
+    ],
+    "hand over hand": [
+        "hand over fist"
+    ],
+    "nine times out of ten": [
+        "more often than not"
+    ],
+    "honest to God": [
+        "honest to gods",
+        "honest to goodness"
+    ],
+    "wrong side out": [
+        "inside out"
+    ],
+    "the other way round": [
+        "vice versa",
+        "vice versa",
+        "vice versa",
+        "vice versa",
+        "vice versa",
+        "backwards",
+        "conversely",
+        "vice versa"
+    ],
+    "as far as I'm concerned": [
+        "AFAIAC",
+        "AFAIC"
+    ],
+    "almost": [
+        "nearly"
+    ],
+    "else": [
+        "otherwise"
+    ],
+    "biyearly": [
+        "biannually",
+        "biennially"
+    ],
+    "broadside": [
+        "sideways",
+        "at random"
+    ],
+    "broadly": [
+        "prevalently",
+        "extensively",
+        "commonly",
+        "generally",
+        "largely",
+        "on the whole",
+        "widely"
+    ],
+    "carelessly": [
+        "absently"
+    ],
+    "differently": [
+        "otherwise",
+        "else"
+    ],
+    "equitably": [
+        "fairly",
+        "justly"
+    ],
+    "forcefully": [
+        "emphatically",
+        "vehemently",
+        "violently",
+        "mightily",
+        "greatly",
+        "strongly",
+        "reluctantly",
+        "unwillingly"
+    ],
+    "eagerly": [
+        "avidly"
+    ],
+    "amongst other things": [
+        "also",
+        "also",
+        "also"
+    ],
+    "as to": [
+        "about",
+        "about",
+        "about",
+        "about"
+    ],
+    "at all": [
+        "absolutely",
+        "entirely",
+        "utterly",
+        "wholly"
+    ],
+    "at the same time": [
+        "contemporaneously",
+        "meanwhile",
+        "simultaneously"
+    ],
+    "anywhere": [
+        "anyplace"
+    ],
+    "on fire": [
+        "ablaze",
+        "alight",
+        "burning",
+        "aflame"
+    ],
+    "optionally": [
+        "facultatively",
+        "as you wish",
+        "at will",
+        "to taste"
+    ],
+    "preferably": [
+        "ideally",
+        "rather"
+    ],
+    "seriously": [
+        "srsly"
+    ],
+    "straight ahead": [
+        "square",
+        "straight",
+        "directly",
+        "straight",
+        "square"
+    ],
+    "avidly": [
+        "eagerly"
+    ],
+    "as well": [
+        "in addition"
+    ],
+    "ably": [
+        "capably",
+        "adroitly"
+    ],
+    "secondly": [
+        "second",
+        "second",
+        "in the second place"
+    ],
+    "extemporaneously": [
+        "off the cuff"
+    ],
+    "one day": [
+        "someday",
+        "one of these days"
+    ],
+    "in a row": [
+        "consecutively"
+    ],
+    "affectionally": [
+        "affectionately"
+    ],
+    "thusly": [
+        "thus",
+        "thus"
+    ],
+    "gently": [
+        "gingerly"
+    ],
+    "head over heels": [
+        "franticly",
+        "frantically"
+    ],
+    "thoughtfully": [
+        "cleverly"
+    ],
+    "conveniently": [
+        "handily"
+    ],
+    "agreeably": [
+        "pleasantly"
+    ],
+    "ahead": [
+        "onward"
+    ],
+    "altogether": [
+        "totally",
+        "completely"
+    ],
+    "bright": [
+        "brilliant",
+        "sharp",
+        "clever",
+        "clear",
+        "intelligent",
+        "dazzling",
+        "radiant",
+        "happy",
+        "smart",
+        "intelligent",
+        "colourful",
+        "smart",
+        "cheerful"
+    ],
+    "ghastly": [
+        "pale",
+        "pale",
+        "gaunt",
+        "pale",
+        "emaciated",
+        "pale",
+        "pale"
+    ],
+    "small": [
+        "little"
+    ]
+}

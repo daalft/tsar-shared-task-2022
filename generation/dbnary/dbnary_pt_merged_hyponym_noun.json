@@ -1,0 +1,433 @@
+{
+    "primeira pessoa": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1__por__primeira_pessoa__Noun__1": [
+            "eu",
+            "n\u00f3s"
+        ]
+    },
+    "gato-do-mato": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1__por__gato-do-mato__Noun__1": [
+            "gato-do-mato-pequeno",
+            "jaguatirica",
+            "gato-chileno",
+            "gato-maracaj\u00e1",
+            "gato-andino",
+            "gato-dos-pampas",
+            "gato-palheiro",
+            "gato-do-mato-grande"
+        ]
+    },
+    "porco": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__porco__sustantivo_masculino__1": [
+            "porca"
+        ]
+    },
+    "avi\u00e3o": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__avi\u00e3o__sustantivo_masculino__1": [
+            "jato"
+        ]
+    },
+    "ferrovia": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__por__ferrovia__nom__1": [
+            "gare",
+            "trilho",
+            "esta\u00e7\u00e3o"
+        ]
+    },
+    "aut\u00f4mato": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__aut\u00f4mato__sustantivo_masculino__1": [
+            "androide"
+        ]
+    },
+    "andaime": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__andaime__sustantivo_masculino__1": [
+            "barra"
+        ]
+    },
+    "cal\u00e7as": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__cal\u00e7as__sustantivo_femenino__1": [
+            "cal\u00e7\u00f5es"
+        ]
+    },
+    "canudo": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__canudo__sustantivo_masculino__1": [
+            "bomba"
+        ]
+    },
+    "doce": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_3__por__doce__sustantivo_masculino__1": [
+            "compota",
+            "sobremesa",
+            "caramelo",
+            "suspiro",
+            "bomba"
+        ]
+    },
+    "cobra": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__cobra__sustantivo_femenino__1": [
+            "naja"
+        ]
+    },
+    "diamante": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2__por__diamante__sustantivo_masculino__1": [
+            "solit\u00e1rio",
+            "roseta"
+        ]
+    },
+    "campainha": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__campainha__sustantivo_femenino__1": [
+            "campa"
+        ]
+    },
+    "coxim": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__coxim__sustantivo_masculino__1": [
+            "galapo",
+            "pelota",
+            "cabeceira",
+            "colch\u00e3o"
+        ]
+    },
+    "falha": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__falha__sustantivo__1": [
+            "lapso"
+        ]
+    },
+    "fazedor": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_2__por__fazedor__sustantivo_masculino__1": [
+            "refazedor"
+        ]
+    },
+    "loja": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__loja__sustantivo_femenino__1": [
+            "taberna",
+            "supermercado",
+            "antiqu\u00e1rio",
+            "hipermercado"
+        ]
+    },
+    "fruto": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__fruto__sustantivo_masculino__1": [
+            "noz",
+            "drupa",
+            "baga",
+            "pomo"
+        ]
+    },
+    "hasta": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__hasta__sustantivo_femenino__1": [
+            "dardo"
+        ]
+    },
+    "peda\u00e7o": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__peda\u00e7o__sustantivo_masculino__1": [
+            "naco",
+            "bocado"
+        ]
+    },
+    "xilofone": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__xilofone__sustantivo_masculino__1": [
+            "marimba"
+        ]
+    },
+    "monarca": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__por__monarca__nom__1": [
+            "rei",
+            "imperador",
+            "rainha",
+            "imperatriz"
+        ]
+    },
+    "sexualidade": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__por__sexualidade__nom__1": [
+            "heterossexualidade",
+            "bissexualidade",
+            "homossexualidade"
+        ]
+    },
+    "dia de semana": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__dia_de_semana__loc_nom__1": [
+            "quinta-feira",
+            "ter\u00e7a-feira",
+            "domingo",
+            "s\u00e1bado",
+            "quarta-feira",
+            "segunda-feira",
+            "sexta-feira"
+        ]
+    },
+    "hidrog\u00e9nio": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__hidrog\u00e9nio__sost__1": [
+            "g\u00e1s"
+        ]
+    },
+    "m\u00eas": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__m\u00eas__sost__1": [
+            "abril",
+            "maio",
+            "fevereiro",
+            "janeiro",
+            "julho",
+            "mar\u00e7o",
+            "junho",
+            "agosto",
+            "outubro",
+            "setembro",
+            "dezembro",
+            "novembro"
+        ]
+    },
+    "oxig\u00e9nio": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__oxig\u00e9nio__sost__1": [
+            "g\u00e1s"
+        ]
+    },
+    "urso": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__urso__sost__1": [
+            "mam\u00edfero"
+        ]
+    },
+    "alce": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__alce__sost__1": [
+            "mam\u00edfero"
+        ]
+    },
+    "abril": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__abril__sost__1": [
+            "m\u00eas"
+        ]
+    },
+    "castor": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__castor__sost__1": [
+            "mam\u00edfero"
+        ]
+    },
+    "puma": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__puma__sost__1": [
+            "mam\u00edfero"
+        ]
+    },
+    "lontra": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__lontra__sost__1": [
+            "mam\u00edfero"
+        ]
+    },
+    "pav\u00e3o": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__pav\u00e3o__sost__1": [
+            "ave"
+        ]
+    },
+    "quinta-feira": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__quinta-feira__sost__1": [
+            "dia de semana"
+        ]
+    },
+    "ter\u00e7a-feira": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__ter\u00e7a-feira__sost__1": [
+            "dia de semana"
+        ]
+    },
+    "fevereiro": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__fevereiro__sost__1": [
+            "m\u00eas"
+        ]
+    },
+    "gato": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__gato__sost__1": [
+            "mam\u00edfero"
+        ]
+    },
+    "janeiro": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__janeiro__sost__1": [
+            "m\u00eas"
+        ]
+    },
+    "maio": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__maio__sost__1": [
+            "m\u00eas"
+        ]
+    },
+    "mar\u00e7o": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__mar\u00e7o__sost__1": [
+            "m\u00eas"
+        ]
+    },
+    "papagaio": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__papagaio__sost__1": [
+            "ave"
+        ]
+    },
+    "rena": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__rena__sost__1": [
+            "mam\u00edfero"
+        ]
+    },
+    "domingo": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__domingo__sost__1": [
+            "dia de semana"
+        ]
+    },
+    "elefante": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__elefante__sost__1": [
+            "mam\u00edfero"
+        ]
+    },
+    "quarta-feira": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__quarta-feira__sost__1": [
+            "dia de semana"
+        ]
+    },
+    "segunda-feira": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__segunda-feira__sost__1": [
+            "dia de semana"
+        ]
+    },
+    "sexta-feira": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__sexta-feira__sost__1": [
+            "dia de semana"
+        ]
+    },
+    "tigre": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__tigre__sost__1": [
+            "mam\u00edfero"
+        ]
+    },
+    "varicela": {
+        "http://kaiko.getalp.org/dbnary/ita/__ws_1__por__varicela__sost__1": [
+            "doen\u00e7a"
+        ]
+    },
+    "aeronave": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_aeronave__Substantivo__1": [
+            "planador",
+            "dirig\u00edvel",
+            "ultraleve",
+            "avi\u00e3o",
+            "aer\u00f3dino",
+            "autogiro",
+            "aeroplano",
+            "biplano",
+            "ornit\u00f3ptero",
+            "aer\u00f3stato",
+            "bal\u00e3o",
+            "foguete",
+            "hidroavi\u00e3o",
+            "helic\u00f3ptero"
+        ]
+    },
+    "aer\u00f3dino": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_aer\u00f3dino__Substantivo__1": [
+            "ornit\u00f3ptero",
+            "avi\u00e3o",
+            "biplano",
+            "hidroavi\u00e3o",
+            "ultraleve",
+            "autogiro",
+            "foguete",
+            "aeroplano",
+            "planador",
+            "helic\u00f3ptero"
+        ]
+    },
+    "hidraeroplano": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_hidraeroplano__Substantivo__1": [
+            "aerobote"
+        ]
+    },
+    "hidravi\u00e3o": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_hidravi\u00e3o__Substantivo__1": [
+            "aerobote"
+        ]
+    },
+    "hidroaeroplano": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_hidroaeroplano__Substantivo__1": [
+            "aerobote"
+        ]
+    },
+    "hidroavi\u00e3o": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_hidroavi\u00e3o__Substantivo__1": [
+            "aerobote"
+        ]
+    },
+    "hidroplano": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_hidroplano__Substantivo__1": [
+            "aerobote"
+        ]
+    },
+    "javalina": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_javalina__Substantivo__2": [
+            "jarimba",
+            "tarimba",
+            "gironda",
+            "jaronda"
+        ]
+    },
+    "lobismulher": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_lobismulher__Substantivo__1": [
+            "lobismo\u00e7a"
+        ]
+    },
+    "lobisoma": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_lobisoma__Substantivo__1": [
+            "lobismo\u00e7a"
+        ]
+    },
+    "superestrela": {
+        "http://kaiko.getalp.org/dbnary/por/__ws_1_superestrela__Substantivo__1": [
+            "superastro"
+        ]
+    },
+    "modo": {
+        "NOT_A_SYNSET": [
+            "modo subjuntivo",
+            "modo indicativo",
+            "modo conjuntivo"
+        ]
+    },
+    "figura de proa": {
+        "NOT_A_SYNSET": [
+            "carranca"
+        ]
+    },
+    "feira": {
+        "NOT_A_SYNSET": [
+            "quinta-feira",
+            "sexta-feira",
+            "quarta-feira",
+            "ter\u00e7a-feira",
+            "segunda-feira"
+        ]
+    },
+    "burro": {
+        "NOT_A_SYNSET": [
+            "mam\u00edfero"
+        ]
+    },
+    "animal": {
+        "NOT_A_SYNSET": [
+            "vertebrado",
+            "invertebrado"
+        ]
+    },
+    "bebida": {
+        "NOT_A_SYNSET": [
+            "leite",
+            "vinho",
+            "u\u00edsque",
+            "cerveja",
+            "aguardente",
+            "caf\u00e9",
+            "ch\u00e1",
+            "\u00e1gua"
+        ]
+    },
+    "c\u00e2mera": {
+        "NOT_A_SYNSET": [
+            "filmadora"
+        ]
+    },
+    "filme": {
+        "NOT_A_SYNSET": [
+            "pel\u00edcula"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "modo": [
+        "modo subjuntivo",
+        "modo subjuntivo",
+        "modo indicativo",
+        "modo conjuntivo",
+        "modo indicativo"
+    ],
+    "figura de proa": [
+        "carranca"
+    ],
+    "feira": [
+        "quinta-feira",
+        "sexta-feira",
+        "quarta-feira",
+        "ter\u00e7a-feira",
+        "segunda-feira"
+    ],
+    "burro": [
+        "mam\u00edfero"
+    ],
+    "animal": [
+        "vertebrado",
+        "invertebrado"
+    ],
+    "bebida": [
+        "leite",
+        "vinho",
+        "u\u00edsque",
+        "cerveja",
+        "aguardente",
+        "caf\u00e9",
+        "ch\u00e1",
+        "\u00e1gua"
+    ],
+    "c\u00e2mera": [
+        "filmadora"
+    ],
+    "filme": [
+        "pel\u00edcula"
+    ]
+}

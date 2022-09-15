@@ -1,0 +1,19 @@
+{
+    "colher": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__colher__verbo__1": [
+            "segar"
+        ]
+    },
+    "doutrinar": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__doutrinar__verbo_transitivo__1": [
+            "edificar",
+            "catequizar"
+        ]
+    },
+    "ir": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__por__ir__verbo_intransitivo__1": [
+            "retornar",
+            "sair"
+        ]
+    }
+}

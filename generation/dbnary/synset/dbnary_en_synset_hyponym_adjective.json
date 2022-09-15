@@ -1,0 +1,912 @@
+{
+    "object-oriented": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_object-oriented__Adjective__1": [
+            "class-based",
+            "prototype-based"
+        ]
+    },
+    "gubernatorial": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_gubernatorial__Adjective__1": [
+            "presidential"
+        ],
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__eng__gubernatorial__adj__1": [
+            "presidential"
+        ]
+    },
+    "contained": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_contained__Adjective__1": [
+            "self-contained"
+        ]
+    },
+    "named": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_named__Adjective__1": [
+            "aforenamed",
+            "last-named"
+        ]
+    },
+    "bootable": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__bootable__\u03b5\u03c0\u03af\u03b8\u03b5\u03c4\u03bf__1": [
+            "active partition",
+            "DOS",
+            "bootable partition"
+        ]
+    },
+    "event-driven": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__event-driven__\u03b5\u03c0\u03af\u03b8\u03b5\u03c4\u03bf__1": [
+            "event-driven language"
+        ]
+    },
+    "client-server": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__client-server__\u03b5\u03c0\u03af\u03b8\u03b5\u03c4\u03bf__1": [
+            "server-side",
+            "client-side"
+        ]
+    },
+    "client-side": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__client-side__\u03b5\u03c0\u03af\u03b8\u03b5\u03c4\u03bf__1": [
+            "web browser"
+        ]
+    },
+    "duplex": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__duplex__\u03b5\u03c0\u03af\u03b8\u03b5\u03c4\u03bf__1": [
+            "half duplex",
+            "semiduplex",
+            "full duplex"
+        ]
+    },
+    "incoming": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__incoming__\u03b5\u03c0\u03af\u03b8\u03b5\u03c4\u03bf__1": [
+            "incoming link"
+        ]
+    },
+    "multicore": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__multicore__\u03b5\u03c0\u03af\u03b8\u03b5\u03c4\u03bf__1": [
+            "quadcore",
+            "dualcore",
+            "octacore"
+        ]
+    },
+    "non-sequential": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__non-sequential__\u03b5\u03c0\u03af\u03b8\u03b5\u03c4\u03bf__1": [
+            "set",
+            "set",
+            "set",
+            "set",
+            "associative array"
+        ]
+    },
+    "flight-specific": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_flight-specific__Adjective__1": [
+            "spaceflight-specific"
+        ]
+    },
+    "platyconic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_platyconic__Adjective__1": [
+            "oxyconic"
+        ]
+    },
+    "myoglossatan": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_myoglossatan__Adjective__1": [
+            "neolepidopteran"
+        ]
+    },
+    "statespersonlike": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_statespersonlike__Adjective__1": [
+            "stateswomanlike",
+            "statesmanlike"
+        ]
+    },
+    "artificial": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__artificial__\u03b5\u03c0\u03af\u03b8\u03b5\u03c4\u03bf__1": [
+            "artificial intelligence"
+        ]
+    },
+    "syntactic": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__syntactic__\u03b5\u03c0\u03af\u03b8\u03b5\u03c4\u03bf__1": [
+            "syntactic sugar"
+        ]
+    },
+    "wireless": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__wireless__\u03b5\u03c0\u03af\u03b8\u03b5\u03c4\u03bf__1": [
+            "WAP",
+            "wireless access point"
+        ]
+    },
+    "Sr.": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_Sr.__Adjective__1": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I",
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ]
+    },
+    "left-wing": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_left-wing__Adjective__1": [
+            "socialist",
+            "socialist",
+            "socialist",
+            "communist",
+            "social democratic",
+            "socialist",
+            "communist",
+            "democratic socialist"
+        ]
+    },
+    "right-wing": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_right-wing__Adjective__1": [
+            "reactionary",
+            "conservative",
+            "conservative",
+            "monarchist",
+            "aristocratic",
+            "theocratic",
+            "aristocratic",
+            "monarchist",
+            "conservative",
+            "conservative"
+        ]
+    },
+    "thermoluminescent": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_thermoluminescent__Adjective__1": [
+            "radiothermoluminescent"
+        ]
+    },
+    "incommunicado": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_incommunicado__Adjective__1": [
+            "off the grid"
+        ]
+    },
+    "recursively enumerable": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_recursively_enumerable__Adjective__1": [
+            "recursive"
+        ]
+    },
+    "pronged": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_pronged__Adjective__1": [
+            "three-pronged"
+        ]
+    },
+    "cisgender": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_cisgender__Adjective__1": [
+            "cishet"
+        ]
+    },
+    "salientian": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_salientian__Adjective__1": [
+            "anuran"
+        ]
+    },
+    "nontheistic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_nontheistic__Adjective__1": [
+            "agnostic",
+            "agnostic"
+        ]
+    },
+    "unaccusative": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_unaccusative__Adjective__1": [
+            "intransitive",
+            "intransitive",
+            "intransitive",
+            "intransitive"
+        ]
+    },
+    "unergative": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_unergative__Adjective__1": [
+            "intransitive",
+            "intransitive",
+            "intransitive",
+            "intransitive"
+        ]
+    },
+    "multiband": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_multiband__Adjective__1": [
+            "quadband",
+            "pentaband",
+            "triband"
+        ]
+    },
+    "variegated": {
+        "http://kaiko.getalp.org/dbnary/ell/__ws_1__eng__variegated__\u03b5\u03c0\u03af\u03b8\u03b5\u03c4\u03bf__1": [
+            "mottled"
+        ]
+    },
+    "gliriform": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_gliriform__Adjective__1": [
+            "gliran",
+            "glirine"
+        ]
+    },
+    "platform-specific": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_platform-specific__Adjective__1": [
+            "JVM-specific",
+            "CLR-specific",
+            "OS-specific"
+        ]
+    },
+    "Anaximenean": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_Anaximenean__Adjective__1": [
+            "Milesian"
+        ]
+    },
+    "Internet famous": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_Internet_famous__Adjective__1": [
+            "world-famous"
+        ]
+    },
+    "blue-gray": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_blue-gray__Adjective__1": [
+            "slate gray",
+            "slate blue",
+            "slate",
+            "clair de lune",
+            "Copenhagen blue",
+            "Wedgwood blue",
+            "clair de lune"
+        ]
+    },
+    "Christiesque": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_Christiesque__Adjective__1": [
+            "Poirotesque"
+        ]
+    },
+    "neurogender": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_neurogender__Adjective__1": [
+            "autigender"
+        ]
+    },
+    "gendervague": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_gendervague__Adjective__1": [
+            "autigender"
+        ]
+    },
+    "built": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_built__Adjective__1": [
+            "coach-built",
+            "clinker-built",
+            "homebuilt",
+            "jerry-built",
+            "coachbuilt"
+        ]
+    },
+    "determined": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_determined__Adjective__1": [
+            "predetermined"
+        ]
+    },
+    "haematophagous": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_haematophagous__Adjective__1": [
+            "telmophagous",
+            "solenophagous"
+        ]
+    },
+    "vengeful": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_vengeful__Adjective__1": [
+            "revanchist"
+        ]
+    },
+    "volar": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_volar__Adjective__1": [
+            "plantar",
+            "plantar",
+            "palmar",
+            "plantar",
+            "palmar",
+            "plantar",
+            "plantar",
+            "plantar",
+            "palmar"
+        ]
+    },
+    "founded": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_founded__Adjective__1": [
+            "well-founded",
+            "ill-founded"
+        ]
+    },
+    "drive-in": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_drive-in__Adjective__1": [
+            "drive-through"
+        ]
+    },
+    "setting": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_setting__Adjective__1": [
+            "record-setting"
+        ]
+    },
+    "well-formed": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_well-formed__Adjective__1": [
+            "formed"
+        ]
+    },
+    "packaged": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_packaged__Adjective__1": [
+            "prepackaged"
+        ]
+    },
+    "protectionist": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_protectionist__Adjective__1": [
+            "mercantilist",
+            "mercantilist"
+        ]
+    },
+    "fledged": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_fledged__Adjective__1": [
+            "full-fledged"
+        ]
+    },
+    "renowned": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_renowned__Adjective__1": [
+            "world-renowned"
+        ]
+    },
+    "transuranic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_transuranic__Adjective__1": [
+            "transactinide"
+        ]
+    },
+    "batrachian": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_batrachian__Adjective__1": [
+            "salientian"
+        ]
+    },
+    "heterosexual": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_heterosexual__Adjective__1": [
+            "cishet",
+            "heteroflexible",
+            "heteroflexible"
+        ]
+    },
+    "per": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_per__Adjective__1": [
+            "her",
+            "his",
+            "her",
+            "her",
+            "her",
+            "her",
+            "her",
+            "her",
+            "her",
+            "her",
+            "her",
+            "his",
+            "his",
+            "his",
+            "her",
+            "his",
+            "her",
+            "her",
+            "his",
+            "her",
+            "her",
+            "her",
+            "his",
+            "her",
+            "his",
+            "his"
+        ]
+    },
+    "aquatic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_aquatic__Adjective__1": [
+            "marine",
+            "marine",
+            "marine",
+            "marine",
+            "marine",
+            "marine",
+            "marine",
+            "marine",
+            "marine"
+        ]
+    },
+    "lyophilic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_lyophilic__Adjective__1": [
+            "hydrophilic"
+        ]
+    },
+    "supremacist": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_supremacist__Adjective__1": [
+            "white supremacist",
+            "whitist"
+        ]
+    },
+    "aval": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_aval__Adjective__1": [
+            "grandpaternal",
+            "grandmotherly",
+            "grandmaternal",
+            "grandfatherly"
+        ]
+    },
+    "liquorlike": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_liquorlike__Adjective__1": [
+            "beery",
+            "beerish",
+            "vodkalike",
+            "beerlike"
+        ]
+    },
+    "permasingle": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_permasingle__Adjective__1": [
+            "incel",
+            "incel",
+            "incel",
+            "incel",
+            "incel"
+        ]
+    },
+    "New Yorkian": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_New_Yorkian__Adjective__1": [
+            "Nuyorican"
+        ]
+    },
+    "slate": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_slate__Adjective__1": [
+            "slate black",
+            "slate blue",
+            "grey",
+            "grey",
+            "slate gray",
+            "grey",
+            "grey"
+        ]
+    },
+    "genderqueer": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_genderqueer__Adjective__1": [
+            "trigender",
+            "agender",
+            "genderfluid",
+            "genderfree",
+            "genderless",
+            "bigender",
+            "gender-free",
+            "pangender",
+            "third gender",
+            "neutrois",
+            "ambigender"
+        ]
+    },
+    "bathymetric": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_bathymetric__Adjective__1": [
+            "topobathymetric"
+        ]
+    },
+    "thons": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_thons__Adjective__1": [
+            "her",
+            "his",
+            "her",
+            "her",
+            "her",
+            "her",
+            "her",
+            "her",
+            "her",
+            "her",
+            "her",
+            "his",
+            "his",
+            "his",
+            "her",
+            "his",
+            "her",
+            "her",
+            "his",
+            "her",
+            "her",
+            "her",
+            "his",
+            "her",
+            "his",
+            "his"
+        ]
+    },
+    "aurophilic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_aurophilic__Adjective__1": [
+            "argentophilic",
+            "metallophilic"
+        ]
+    },
+    "peripartum": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_peripartum__Adjective__1": [
+            "puerperal",
+            "postpartum",
+            "puerperal",
+            "puerperal",
+            "antepartum",
+            "prepartum",
+            "puerperal",
+            "intrapartum"
+        ]
+    },
+    "palmoplantar": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_palmoplantar__Adjective__1": [
+            "plantar",
+            "plantar",
+            "palmar",
+            "plantar",
+            "palmar",
+            "plantar",
+            "plantar",
+            "plantar",
+            "palmar"
+        ]
+    },
+    "microstatic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_microstatic__Adjective__1": [
+            "fungistatic",
+            "virostatic",
+            "bacteriostatic",
+            "bacteriostatic"
+        ]
+    },
+    "path-connected": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_path-connected__Adjective__1": [
+            "arc-connected"
+        ]
+    },
+    "non-cisgender": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_non-cisgender__Adjective__1": [
+            "transgender",
+            "transgender",
+            "genderqueer",
+            "transgender",
+            "non-binary",
+            "genderqueer",
+            "transgender"
+        ]
+    },
+    "arthropodal": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_arthropodal__Adjective__1": [
+            "acarid",
+            "arachno-",
+            "arachnidial",
+            "arachno-",
+            "arachno-"
+        ]
+    },
+    "man-made": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_man-made__Adjective__1": [
+            "woman-made"
+        ]
+    },
+    "vomitous": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_vomitous__Adjective__1": [
+            "odious",
+            "nauseous",
+            "repugnant",
+            "disgusting",
+            "repugnant",
+            "repugnant",
+            "nauseating",
+            "repugnant",
+            "loathsome"
+        ]
+    },
+    "basogenic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_basogenic__Adjective__1": [
+            "alkalinogenic"
+        ]
+    },
+    "neuroqueer": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_neuroqueer__Adjective__1": [
+            "neurogender",
+            "autigender",
+            "gendervague"
+        ]
+    },
+    "billed": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_billed__Adjective__1": [
+            "duckbilled"
+        ]
+    },
+    "fannish": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_fannish__Adjective__1": [
+            "fanboyish",
+            "fangirlish"
+        ]
+    },
+    "streamed": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_streamed__Adjective__1": [
+            "live-streamed"
+        ]
+    },
+    "shieldlike": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_shieldlike__Adjective__1": [
+            "peltate",
+            "peltate",
+            "peltate"
+        ]
+    },
+    "underwearless": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_underwearless__Adjective__1": [
+            "pantyless",
+            "knickerless"
+        ]
+    },
+    "spousely": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_spousely__Adjective__1": [
+            "husbandly",
+            "wifely"
+        ]
+    },
+    "prandial": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_prandial__Adjective__1": [
+            "jentacular"
+        ]
+    },
+    "predefined": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_predefined__Adjective__1": [
+            "defined"
+        ]
+    },
+    "spinnable": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_spinnable__Adjective__1": [
+            "hasbarable"
+        ]
+    },
+    "exergonic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_exergonic__Adjective__1": [
+            "exothermic"
+        ]
+    },
+    "preneoplastic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_preneoplastic__Adjective__1": [
+            "precancerous",
+            "premalignant"
+        ]
+    },
+    "Paleo-Balkan": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_Paleo-Balkan__Adjective__1": [
+            "Ancient Macedonian",
+            "Thracian",
+            "Illyrian",
+            "Dacian",
+            "Phrygian",
+            "Paeonian",
+            "Moesian",
+            "Venetic",
+            "Liburnian",
+            "Messapic"
+        ]
+    },
+    "interproximal": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_interproximal__Adjective__1": [
+            "interdental",
+            "interdental",
+            "interdental",
+            "interdental"
+        ]
+    },
+    "2.5G": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_2.5G__Adjective__1": [
+            "GPRS",
+            "HSCSD"
+        ]
+    },
+    "safety-critical": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_safety-critical__Adjective__1": [
+            "life-critical"
+        ]
+    },
+    "metalliferous": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_metalliferous__Adjective__1": [
+            "vanadiferous",
+            "molybdeniferous",
+            "magnesiferous",
+            "argentiferous",
+            "auriferous",
+            "nickeliferous",
+            "tantaliferous",
+            "cobaltiferous",
+            "tungsteniferous",
+            "aluminiferous",
+            "cupriferous",
+            "titaniferous",
+            "palladiferous",
+            "zinciferous",
+            "chromiferous",
+            "telluriferous",
+            "plumbiferous",
+            "arseniferous",
+            "manganiferous",
+            "niobiferous",
+            "yttriferous",
+            "ferriferous",
+            "uraniferous",
+            "germaniferous",
+            "platiniferous",
+            "antimoniferous",
+            "zirconiferous",
+            "stanniferous"
+        ]
+    },
+    "endergonic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_endergonic__Adjective__1": [
+            "endothermic"
+        ]
+    },
+    "grandparental": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_grandparental__Adjective__1": [
+            "grandpaternal",
+            "grandmotherly",
+            "grandmaternal",
+            "grandfatherly"
+        ]
+    },
+    "uncorrodable": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_uncorrodable__Adjective__1": [
+            "stainless",
+            "rustproof"
+        ]
+    },
+    "Satanic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_Satanic__Adjective__1": [
+            "LaVeyan"
+        ]
+    },
+    "technopolitical": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_technopolitical__Adjective__1": [
+            "cyberpolitical"
+        ]
+    },
+    "aerospatial": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_aerospatial__Adjective__1": [
+            "astronautical",
+            "aeronautical"
+        ]
+    },
+    "MDR": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_MDR__Adjective__1": [
+            "XDR"
+        ]
+    },
+    "Guianese": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_Guianese__Adjective__1": [
+            "French Guianese"
+        ]
+    },
+    "premeal": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_premeal__Adjective__1": [
+            "predinner"
+        ]
+    },
+    "cissexual": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_cissexual__Adjective__1": [
+            "cishet"
+        ]
+    },
+    "citruslike": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_citruslike__Adjective__1": [
+            "lemony",
+            "limey",
+            "orangey"
+        ]
+    },
+    "technocultural": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_technocultural__Adjective__1": [
+            "cybercultural"
+        ]
+    },
+    "insectproof": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_insectproof__Adjective__1": [
+            "antproof",
+            "flyproof",
+            "beeproof"
+        ]
+    },
+    "betrousered": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_betrousered__Adjective__1": [
+            "bejeaned"
+        ]
+    },
+    "rodential": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_rodential__Adjective__1": [
+            "murine",
+            "murine"
+        ]
+    },
+    "multitone": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_multitone__Adjective__1": [
+            "quadtone",
+            "duotone",
+            "tritone",
+            "tritone"
+        ]
+    },
+    "monstery": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_monstery__Adjective__1": [
+            "vampirey"
+        ]
+    },
+    "Anaximanderian": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_Anaximanderian__Adjective__1": [
+            "Milesian"
+        ]
+    },
+    "DR": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_DR__Adjective__1": [
+            "MDR",
+            "XDR",
+            "MDR"
+        ]
+    },
+    "Thalesian": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_Thalesian__Adjective__1": [
+            "Milesian"
+        ]
+    },
+    "multimagic": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_multimagic__Adjective__1": [
+            "tetramagic",
+            "bimagic",
+            "trimagic"
+        ]
+    },
+    "cisqueer": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_cisqueer__Adjective__1": [
+            "cisgay",
+            "cislesbian"
+        ]
+    },
+    "West Central German": {
+        "http://kaiko.getalp.org/dbnary/eng/__ws_1_West_Central_German__Adjective__1": [
+            "Luxembourgish",
+            "Lorrainian",
+            "Pennsylvania German",
+            "Central Franconian",
+            "Rhine Franconian",
+            "Colognian",
+            "Hessian",
+            "K\u00f6lsch",
+            "Pennsylvania Dutch",
+            "Ripuarian",
+            "Palatine",
+            "Transylvanian Saxon",
+            "K\u00f6lsch",
+            "Moselle Franconian",
+            "Palatine"
+        ]
+    },
+    "series-wound": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__eng__series-wound__adj__1": [
+            "universel"
+        ]
+    },
+    "lipophilic": {
+        "http://kaiko.getalp.org/dbnary/spa/__ws_1__eng__lipophilic__adjetivo__1": [
+            "fat-soluble"
+        ]
+    },
+    "borne": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__eng__borne__adj__1": [
+            "airborne"
+        ]
+    },
+    "monochrome": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__eng__monochrome__adj__1": [
+            "sepia",
+            "sepia",
+            "sepia"
+        ]
+    },
+    "dimensional": {
+        "http://kaiko.getalp.org/dbnary/fra/__ws_1__eng__dimensional__adj__1": [
+            "multidimensional",
+            "four-dimensional",
+            "multidimensional",
+            "multidimensional",
+            "two-dimensional",
+            "multidimensional",
+            "multidimensional",
+            "n-dimensional",
+            "multidimensional"
+        ]
+    }
+}

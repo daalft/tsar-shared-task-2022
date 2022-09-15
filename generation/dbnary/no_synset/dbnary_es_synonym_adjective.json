@@ -1,0 +1,516 @@
+{
+    "espacioso": [
+        "amplio"
+    ],
+    "infatigable": [
+        "constante",
+        "constante",
+        "fuerte"
+    ],
+    "grato": [
+        "agradable",
+        "gustoso",
+        "agradable",
+        "agradable",
+        "agradable"
+    ],
+    "basto": [
+        "grosero"
+    ],
+    "bonito": [
+        "lindo",
+        "guapo",
+        "lindo",
+        "guapo",
+        "lindo",
+        "guapo",
+        "lindo"
+    ],
+    "familiar": [
+        "habitual",
+        "habitual",
+        "habitual",
+        "habitual",
+        "habitual"
+    ],
+    "piloso": [
+        "peludo",
+        "poilu",
+        "peludo"
+    ],
+    "pr\u00f3ximo": [
+        "adyacente",
+        "junto",
+        "junto",
+        "contiguo",
+        "cercano",
+        "junto"
+    ],
+    "carcunda": [
+        "carca",
+        "carlista",
+        "conservador",
+        "carlista",
+        "carca",
+        "carlista",
+        "carca",
+        "carlista",
+        "conservador",
+        "reaccionario",
+        "retr\u00f3grado"
+    ],
+    "chiflado": [
+        "loco",
+        "loco",
+        "loco",
+        "loco",
+        "loco",
+        "loco"
+    ],
+    "aburrido": [
+        "fome"
+    ],
+    "\u00f3ptimo": [
+        "buen\u00edsimo"
+    ],
+    "despelotado": [
+        "desnudo"
+    ],
+    "pr\u00e1ctico": [
+        "c\u00f3modo",
+        "c\u00f3modo"
+    ],
+    "tieso": [
+        "duro",
+        "duro",
+        "duro",
+        "duro",
+        "r\u00edgido",
+        "r\u00edgido",
+        "duro"
+    ],
+    "corruptela": [
+        "corrupci\u00f3n",
+        "corrupci\u00f3n"
+    ],
+    "abaje\u00f1o": [
+        "sure\u00f1o"
+    ],
+    "flaco": [
+        "delgado",
+        "delgado",
+        "delgado"
+    ],
+    "hidalgo": [
+        "caballeroso",
+        "generoso",
+        "generoso",
+        "ilustre",
+        "generoso",
+        "distinguido"
+    ],
+    "muerto": [
+        "cad\u00e1ver",
+        "cad\u00e1ver",
+        "fallecido"
+    ],
+    "padre": [
+        "estupendo"
+    ],
+    "pinche": [
+        "puto",
+        "puto",
+        "puto",
+        "puto",
+        "avaricioso",
+        "avaro",
+        "avaro",
+        "avaro",
+        "avaro",
+        "avaro",
+        "mezquino",
+        "taca\u00f1o",
+        "chingado",
+        "desgraciado",
+        "maldito",
+        "avaro"
+    ],
+    "mozo": [
+        "joven",
+        "soltero"
+    ],
+    "enjuto": [
+        "flaco",
+        "parco",
+        "parco",
+        "parco",
+        "parco",
+        "parco",
+        "parco",
+        "escaso",
+        "sobrio",
+        "corto",
+        "magro",
+        "magro",
+        "corto",
+        "delgado",
+        "delgado",
+        "moderado",
+        "delgado",
+        "templado",
+        "seco",
+        "seco",
+        "seco",
+        "seco",
+        "chupado"
+    ],
+    "melindroso": [
+        "mimoso",
+        "mimoso",
+        "mimoso",
+        "cursi",
+        "blandengue",
+        "\u00f1o\u00f1o"
+    ],
+    "ocioso": [
+        "cultivar",
+        "cultivar",
+        "cultivar",
+        "cultivar",
+        "cultivar",
+        "cultivar",
+        "exento",
+        "in\u00fatil",
+        "provecho",
+        "holgaz\u00e1n",
+        "cultivar"
+    ],
+    "particular": [
+        "privado",
+        "privado",
+        "privado",
+        "especial",
+        "especial",
+        "especial",
+        "especial",
+        "especial",
+        "especial",
+        "especial"
+    ],
+    "peregrino": [
+        "raro",
+        "raro",
+        "raro",
+        "raro",
+        "raro",
+        "raro",
+        "especial",
+        "especial",
+        "especial",
+        "especial",
+        "especial",
+        "especial",
+        "especial",
+        "extra\u00f1o"
+    ],
+    "soberbio": [
+        "admirable",
+        "sublime",
+        "orgulloso",
+        "excesivo",
+        "majestuoso",
+        "presuntuoso",
+        "engre\u00eddo",
+        "opulento",
+        "opulento",
+        "espl\u00e9ndido",
+        "maravilloso",
+        "grandioso",
+        "excelente",
+        "grandioso",
+        "magn\u00edfico",
+        "excelente",
+        "grandioso",
+        "magn\u00edfico",
+        "fatuo",
+        "pedante",
+        "pedante",
+        "altivo",
+        "vanidoso",
+        "arrogante",
+        "impertinente",
+        "arrogante",
+        "impertinente",
+        "admirable",
+        "admirable",
+        "sublime",
+        "violento",
+        "violento",
+        "sublime",
+        "violento",
+        "admirable",
+        "sublime",
+        "violento",
+        "admirable",
+        "sublime",
+        "insuperable",
+        "insuperable",
+        "arrogante",
+        "estupendo",
+        "fogoso",
+        "impertinente",
+        "jactancioso"
+    ],
+    "turbio": [
+        "opaco",
+        "opaco",
+        "sospechoso",
+        "oscuro",
+        "oscuro",
+        "alteraci\u00f3n",
+        "dudoso",
+        "dudoso",
+        "nebuloso",
+        "nebuloso",
+        "confuso",
+        "nebuloso",
+        "confuso",
+        "sucio",
+        "sucio"
+    ],
+    "\u00f1o\u00f1o": [
+        "soso",
+        "soso",
+        "soso",
+        "soso",
+        "soso",
+        "soso",
+        "tonto",
+        "tonto",
+        "tonto",
+        "tonto",
+        "escrupuloso",
+        "escrupuloso",
+        "insustancial",
+        "caduco",
+        "caduco",
+        "caduco",
+        "cursi",
+        "afectado",
+        "afectado",
+        "chocho",
+        "chocho",
+        "melindroso",
+        "soso"
+    ],
+    "simple": [
+        "sencillo"
+    ],
+    "acaudalado": [
+        "rico",
+        "rico"
+    ],
+    "encapotado": [
+        "cubierto"
+    ],
+    "necesitado": [
+        "pobre",
+        "pobre",
+        "menesteroso",
+        "indigente",
+        "indigente",
+        "pobre"
+    ],
+    "partidario": [
+        "adepto",
+        "adepto",
+        "adepto",
+        "secuaz",
+        "adepto",
+        "adepto"
+    ],
+    "resistente": [
+        "firme",
+        "s\u00f3lido",
+        "robusto",
+        "s\u00f3lido",
+        "firme",
+        "firme",
+        "firme",
+        "robusto",
+        "firme",
+        "robusto"
+    ],
+    "utilizable": [
+        "\u00fatil",
+        "\u00fatil",
+        "\u00fatil",
+        "adecuado",
+        "\u00fatil"
+    ],
+    "diestro": [
+        "h\u00e1bil",
+        "h\u00e1bil"
+    ],
+    "ebrio": [
+        "borracho",
+        "pedo",
+        "pedo",
+        "pedo",
+        "pedo",
+        "embriagado",
+        "mamado"
+    ],
+    "extra\u00f1o": [
+        "raro",
+        "extranjero",
+        "ajeno",
+        "raro",
+        "raro",
+        "forastero",
+        "raro",
+        "ajeno",
+        "raro",
+        "raro"
+    ],
+    "gacho": [
+        "jodido"
+    ],
+    "secular": [
+        "laico",
+        "laico"
+    ],
+    "bolero": [
+        "falso",
+        "enga\u00f1oso",
+        "mentiroso"
+    ],
+    "colmado": [
+        "completo",
+        "copioso"
+    ],
+    "ablu\u00eddo": [
+        "abluente"
+    ],
+    "indio": [
+        "ind\u00edgena",
+        "hind\u00fa",
+        "ind\u00edgena",
+        "amerindio",
+        "ind\u00edgena",
+        "ind\u00edgena",
+        "amerindio"
+    ],
+    "chingado": [
+        "maldito",
+        "puto",
+        "puto",
+        "pinche",
+        "jodido",
+        "puto",
+        "puto"
+    ],
+    "maldito": [
+        "chingado",
+        "puto",
+        "desgraciado",
+        "puto",
+        "puto",
+        "puto"
+    ],
+    "c\u00e1lido": [
+        "caliente",
+        "caliente"
+    ],
+    "monse": [
+        "aburrido"
+    ],
+    "l\u00e1bil": [
+        "ambitransitivo"
+    ],
+    "terso": [
+        "claro",
+        "liso",
+        "claro",
+        "l\u00edmpido",
+        "di\u00e1fano",
+        "n\u00edtido",
+        "claro",
+        "limpio",
+        "di\u00e1fano",
+        "liso"
+    ],
+    "chaparro": [
+        "rechoncho"
+    ],
+    "p\u00edcaro": [
+        "descarado",
+        "mezquino",
+        "ruin",
+        "astuto",
+        "ruin",
+        "astuto",
+        "miserable",
+        "ruin",
+        "ruin",
+        "despreciable",
+        "ruin",
+        "miserable",
+        "ruin",
+        "astuto"
+    ],
+    "indebido": [
+        "incorrecto",
+        "injusto",
+        "incorrecto"
+    ],
+    "forajido": [
+        "proscrito"
+    ],
+    "agudo": [
+        "aguzado"
+    ],
+    "cana": [
+        "bote",
+        "azul",
+        "verde",
+        "naca",
+        "blanco",
+        "gendarme",
+        "presidio",
+        "trullo",
+        "verde",
+        "verde",
+        "polic\u00eda",
+        "presidio",
+        "tira",
+        "guardia",
+        "guardia",
+        "pelo"
+    ],
+    "arlequinado": [
+        "abigarrado"
+    ],
+    "avieso": [
+        "perverso"
+    ],
+    "avisado": [
+        "prudente",
+        "prudente",
+        "discreto",
+        "prudente",
+        "sensato",
+        "centrado"
+    ],
+    "avispado": [
+        "brillante",
+        "agudo",
+        "astuto",
+        "brillante"
+    ],
+    "correcto": [
+        "justo",
+        "decoroso",
+        "cierto"
+    ]
+}
