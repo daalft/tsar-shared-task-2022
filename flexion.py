@@ -5,7 +5,6 @@ from collections import Counter
 import stanza
 import re
 
-
 all_ds_tsar = {}
 for ds in ["data/tsar2022_en_test_none.tsv",
            "data/tsar2022_es_test_none.tsv",
@@ -61,8 +60,16 @@ dela_all = {
     "pt":"dico/dela-pt.dic"
 }
 
+stanza_to_dela = {
+    "ADJ":"A",
+    "ADP":"A",
+    "NOUN": "N",
+    "PROPN":"N",
+    "ADV":"ADV",
+    "VERB":"V"
+}
 
-def load_dela(lang):
+def __load_dela(lang):
     dic = {}
     with open(dela_all[lang]) as file:
         for ln in file:
@@ -91,7 +98,7 @@ def load_dela(lang):
         
 
     
-def load_delaflex(lang):
+def __load_delaflex(lang):
     dic = {}
     with open(dela_all[lang]) as file:
         for ln in file:
@@ -117,7 +124,7 @@ def load_delaflex(lang):
                 dic[key] = [value]
         return dic
     
-def analyse_ms(s,target,nlp):
+def __analyse_ms(s,target,nlp):
     ann = nlp(s)
     for sent in ann.sentences:
         for word in sent.words:
@@ -127,14 +134,7 @@ def analyse_ms(s,target,nlp):
             if word.text == target:
                 return word.text, word.lemma, word.upos, word.xpos, word.feats
 
-stanza_to_dela = {
-    "ADJ":"A",
-    "ADP":"A",
-    "NOUN": "N",
-    "PROPN":"N",
-    "ADV":"ADV",
-    "VERB":"V"
-}
+
 
 
 phrases = {}
@@ -147,8 +147,8 @@ for ds_name, all_ds in ds:
 for f in glob.glob("probs/*.txt"):
     lines = open(f).readlines()
     lang = re.findall("_.._",f)[0].replace("_","")
-    dela = load_dela(lang)
-    dela_flex = load_delaflex(lang)
+    dela = __load_dela(lang)
+    dela_flex = __load_delaflex(lang)
     nlp = stanza.Pipeline(lang=lang, processors='tokenize,mwt,pos,lemma', tokenize_pretokenized=True)
     output_file_name = "flex_"+f.split("/")[1]
     output_file = open(output_file_name,"w")
@@ -164,7 +164,7 @@ for f in glob.glob("probs/*.txt"):
         if " " in cword:
             output_file.write("\t".join(ln)+"\n")
             continue
-        word, lemma, upos, xpos, feats = analyse_ms(phrases[sent].replace("<head>"," "),cword,nlp)
+        word, lemma, upos, xpos, feats = __analyse_ms(phrases[sent].replace("<head>"," "),cword,nlp)
         word = word.lower()
         flex = []
         if (word == lemma and lang != "pt"):
@@ -180,13 +180,13 @@ for f in glob.glob("probs/*.txt"):
                 output_file.write("\t".join(ln)+"\n")
                 continue
         for candidate in ln[2:]:
-            c,prob = candidate.split("::")
+            c, prob = candidate.split("::")
             x = re.search("^[a-zA-Z].*[a-zA-Z]$",c)
             if x == None:
                 continue
             to_analyze = phrases[sent].replace("<head>"+cword+"<head>"," "+c+" ")
             #print(cword,to_analyze)
-            sword, slemma, supos, sxpos, sfeats = analyse_ms(to_analyze,c,nlp)
+            sword, slemma, supos, sxpos, sfeats = __analyse_ms(to_analyze,c,nlp)
             sword = sword.lower()
             sflex = ""
             if (sword == slemma):

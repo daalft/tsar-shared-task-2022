@@ -1,0 +1,3 @@
+sir david não poupou críticas à política ambiental do presidente george w bush que se recusa a apoiar o protocolo de kyoto tratado para reduzir as emissões de dióxido de carbono que intensificam o efeito estufa	intensificam		que::0.0179
+quem não conseguir esgotar o armazenamento de diesel puro não pode misturar com o b2 porque o produto ficaria fora de especificação	esgotar		fazer::0.6442	realizar::0.0934	conseguir::0.0206	mais::0.0162	garantir::0.0125	manter::0.0107	obter::0.0087	nem::0.0073	ter::0.007	completar::0.0037	sequer::0.0035	ainda::0.0035
+com capacidade para 283 presos abriga atualmente 541 condenados quase o dobro do previsto	atualmente		para::0.052	também::0.0502	mais::0.0246	hoje::0.0241	apenas::0.0183	de::0.0126

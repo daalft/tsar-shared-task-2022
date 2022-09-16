@@ -1,0 +1,3 @@
+Although not as rare in the symphonic literature as sharper keys , examples of symphonies in A major are not as numerous as for D major or G major .	symphonic		music::0.06297287344932556	concert::0.012395836412906647	jazz::0.002781735733151436
+That prompted the military to deploy its largest warship, the BRP Gregorio del Pilar, which was recently acquired from the United States.	deploy		deployed::8.014802006073296e-06	deployment::6.9962366069376e-06	ploy::1.373275154037401e-06	deploying::1.1628455922618741e-06
+#35-14 UK police were expressly forbidden, at a ministerial level, to provide any assistance to Thai authorities as the case involves the death penalty.	authorities		authority::6.526078095703269e-07	government::1.5958157462137024e-08
